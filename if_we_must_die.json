@@ -1,0 +1,1690 @@
+{
+  "meta": {
+    "filename": "if_we_must_die.json",
+    "title": "If We Must Die",
+    "author": "Claude Mckay",
+    "language": "English",
+    "school/period": "Harlem Renaissance",
+    "number_of_stanzas": "1",
+    "has_rhyme": "true",
+    "rhyme_scheme": "01012323456577"
+  },
+  "sentences": [
+    {
+      "text ": "If we must die, let it not be like hogs",
+      "words": [
+        {
+          "wf": "If",
+          "wtype": "word",
+          "off_start": 0,
+          "off_end": 2,
+          "sentence_index": 0,
+          "next_word": 1,
+          "ana": {
+            "lex": "If",
+            "gr.pos": "IN"
+          }
+        },
+        {
+          "wf": "we",
+          "wtype": "word",
+          "off_start": 2,
+          "off_end": 4,
+          "sentence_index": 1,
+          "next_word": 2,
+          "ana": {
+            "lex": "we",
+            "gr.pos": "PRP"
+          }
+        },
+        {
+          "wf": "must",
+          "wtype": "word",
+          "off_start": 4,
+          "off_end": 8,
+          "sentence_index": 2,
+          "next_word": 3,
+          "ana": {
+            "lex": "must",
+            "gr.pos": "MD"
+          }
+        },
+        {
+          "wf": "die",
+          "wtype": "word",
+          "off_start": 8,
+          "off_end": 11,
+          "sentence_index": 3,
+          "next_word": 4,
+          "ana": {
+            "lex": "die",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": ",",
+          "wtype": "punct",
+          "off_start": 11,
+          "off_end": 12,
+          "sentence_index": 4,
+          "next_word": 5
+        },
+        {
+          "wf": "let",
+          "wtype": "word",
+          "off_start": 12,
+          "off_end": 15,
+          "sentence_index": 5,
+          "next_word": 6,
+          "ana": {
+            "lex": "let",
+            "gr.pos": "VB"
+          }
+        },
+        {
+          "wf": "it",
+          "wtype": "word",
+          "off_start": 15,
+          "off_end": 17,
+          "sentence_index": 6,
+          "next_word": 7,
+          "ana": {
+            "lex": "it",
+            "gr.pos": "PRP"
+          }
+        },
+        {
+          "wf": "not",
+          "wtype": "word",
+          "off_start": 17,
+          "off_end": 20,
+          "sentence_index": 7,
+          "next_word": 8,
+          "ana": {
+            "lex": "not",
+            "gr.pos": "RB"
+          }
+        },
+        {
+          "wf": "be",
+          "wtype": "word",
+          "off_start": 20,
+          "off_end": 22,
+          "sentence_index": 8,
+          "next_word": 9,
+          "ana": {
+            "lex": "be",
+            "gr.pos": "VB"
+          }
+        },
+        {
+          "wf": "like",
+          "wtype": "word",
+          "off_start": 22,
+          "off_end": 26,
+          "sentence_index": 9,
+          "next_word": 10,
+          "ana": {
+            "lex": "like",
+            "gr.pos": "IN"
+          }
+        },
+        {
+          "wf": "hogs",
+          "wtype": "word",
+          "off_start": 26,
+          "off_end": 30,
+          "sentence_index": 10,
+          "next_word": 11,
+          "ana": {
+            "lex": "hog",
+            "gr.pos": "NNS"
+          }
+        }
+      ],
+      "lang": 1,
+      "meta": {
+        "meter": "wswswswsws",
+        "stanza": "0"
+      }
+    },
+    {
+      "text ": "Hunted and penned in an inglorious spot,",
+      "words": [
+        {
+          "wf": "Hunted",
+          "wtype": "word",
+          "off_start": 0,
+          "off_end": 6,
+          "sentence_index": 0,
+          "next_word": 1,
+          "ana": {
+            "lex": "Hunted",
+            "gr.pos": "VBN"
+          }
+        },
+        {
+          "wf": "and",
+          "wtype": "word",
+          "off_start": 6,
+          "off_end": 9,
+          "sentence_index": 1,
+          "next_word": 2,
+          "ana": {
+            "lex": "and",
+            "gr.pos": "CC"
+          }
+        },
+        {
+          "wf": "penned",
+          "wtype": "word",
+          "off_start": 9,
+          "off_end": 15,
+          "sentence_index": 2,
+          "next_word": 3,
+          "ana": {
+            "lex": "penned",
+            "gr.pos": "VBN"
+          }
+        },
+        {
+          "wf": "in",
+          "wtype": "word",
+          "off_start": 15,
+          "off_end": 17,
+          "sentence_index": 3,
+          "next_word": 4,
+          "ana": {
+            "lex": "in",
+            "gr.pos": "IN"
+          }
+        },
+        {
+          "wf": "an",
+          "wtype": "word",
+          "off_start": 17,
+          "off_end": 19,
+          "sentence_index": 4,
+          "next_word": 5,
+          "ana": {
+            "lex": "an",
+            "gr.pos": "DT"
+          }
+        },
+        {
+          "wf": "inglorious",
+          "wtype": "word",
+          "off_start": 19,
+          "off_end": 29,
+          "sentence_index": 5,
+          "next_word": 6,
+          "ana": {
+            "lex": "inglorious",
+            "gr.pos": "JJ"
+          }
+        },
+        {
+          "wf": "spot",
+          "wtype": "word",
+          "off_start": 29,
+          "off_end": 33,
+          "sentence_index": 6,
+          "next_word": 7,
+          "ana": {
+            "lex": "spot",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": ",",
+          "wtype": "punct",
+          "off_start": 33,
+          "off_end": 34,
+          "sentence_index": 7,
+          "next_word": 8
+        }
+      ],
+      "lang": 1,
+      "meta": {
+        "meter": "swwswswsws",
+        "stanza": "0"
+      }
+    },
+    {
+      "text ": "While round us bark the mad and hungry dogs,",
+      "words": [
+        {
+          "wf": "While",
+          "wtype": "word",
+          "off_start": 0,
+          "off_end": 5,
+          "sentence_index": 0,
+          "next_word": 1,
+          "ana": {
+            "lex": "While",
+            "gr.pos": "IN"
+          }
+        },
+        {
+          "wf": "round",
+          "wtype": "word",
+          "off_start": 5,
+          "off_end": 10,
+          "sentence_index": 1,
+          "next_word": 2,
+          "ana": {
+            "lex": "round",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "us",
+          "wtype": "word",
+          "off_start": 10,
+          "off_end": 12,
+          "sentence_index": 2,
+          "next_word": 3,
+          "ana": {
+            "lex": "u",
+            "gr.pos": "PRP"
+          }
+        },
+        {
+          "wf": "bark",
+          "wtype": "word",
+          "off_start": 12,
+          "off_end": 16,
+          "sentence_index": 3,
+          "next_word": 4,
+          "ana": {
+            "lex": "bark",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "the",
+          "wtype": "word",
+          "off_start": 16,
+          "off_end": 19,
+          "sentence_index": 4,
+          "next_word": 5,
+          "ana": {
+            "lex": "the",
+            "gr.pos": "DT"
+          }
+        },
+        {
+          "wf": "mad",
+          "wtype": "word",
+          "off_start": 19,
+          "off_end": 22,
+          "sentence_index": 5,
+          "next_word": 6,
+          "ana": {
+            "lex": "mad",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "and",
+          "wtype": "word",
+          "off_start": 22,
+          "off_end": 25,
+          "sentence_index": 6,
+          "next_word": 7,
+          "ana": {
+            "lex": "and",
+            "gr.pos": "CC"
+          }
+        },
+        {
+          "wf": "hungry",
+          "wtype": "word",
+          "off_start": 25,
+          "off_end": 31,
+          "sentence_index": 7,
+          "next_word": 8,
+          "ana": {
+            "lex": "hungry",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "dogs",
+          "wtype": "word",
+          "off_start": 31,
+          "off_end": 35,
+          "sentence_index": 8,
+          "next_word": 9,
+          "ana": {
+            "lex": "dog",
+            "gr.pos": "NNS"
+          }
+        },
+        {
+          "wf": ",",
+          "wtype": "punct",
+          "off_start": 35,
+          "off_end": 36,
+          "sentence_index": 9,
+          "next_word": 10
+        }
+      ],
+      "lang": 1,
+      "meta": {
+        "meter": "swwswswsws",
+        "stanza": "0"
+      }
+    },
+    {
+      "text ": "Making their mock at our accursèd lot.",
+      "words": [
+        {
+          "wf": "Making",
+          "wtype": "word",
+          "off_start": 0,
+          "off_end": 6,
+          "sentence_index": 0,
+          "next_word": 1,
+          "ana": {
+            "lex": "Making",
+            "gr.pos": "VBG"
+          }
+        },
+        {
+          "wf": "their",
+          "wtype": "word",
+          "off_start": 6,
+          "off_end": 11,
+          "sentence_index": 1,
+          "next_word": 2,
+          "ana": {
+            "lex": "their",
+            "gr.pos": "PRP$"
+          }
+        },
+        {
+          "wf": "mock",
+          "wtype": "word",
+          "off_start": 11,
+          "off_end": 15,
+          "sentence_index": 2,
+          "next_word": 3,
+          "ana": {
+            "lex": "mock",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "at",
+          "wtype": "word",
+          "off_start": 15,
+          "off_end": 17,
+          "sentence_index": 3,
+          "next_word": 4,
+          "ana": {
+            "lex": "at",
+            "gr.pos": "IN"
+          }
+        },
+        {
+          "wf": "our",
+          "wtype": "word",
+          "off_start": 17,
+          "off_end": 20,
+          "sentence_index": 4,
+          "next_word": 5,
+          "ana": {
+            "lex": "our",
+            "gr.pos": "PRP$"
+          }
+        },
+        {
+          "wf": "accursèd",
+          "wtype": "word",
+          "off_start": 20,
+          "off_end": 28,
+          "sentence_index": 5,
+          "next_word": 6,
+          "ana": {
+            "lex": "accursèd",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "lot",
+          "wtype": "word",
+          "off_start": 28,
+          "off_end": 31,
+          "sentence_index": 6,
+          "next_word": 7,
+          "ana": {
+            "lex": "lot",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": ".",
+          "wtype": "punct",
+          "off_start": 31,
+          "off_end": 32,
+          "sentence_index": 7,
+          "next_word": 8
+        }
+      ],
+      "lang": 1,
+      "meta": {
+        "meter": "swwswswsws",
+        "stanza": "0"
+      }
+    },
+    {
+      "text ": "If we must die, O let us nobly die,",
+      "words": [
+        {
+          "wf": "If",
+          "wtype": "word",
+          "off_start": 0,
+          "off_end": 2,
+          "sentence_index": 0,
+          "next_word": 1,
+          "ana": {
+            "lex": "If",
+            "gr.pos": "IN"
+          }
+        },
+        {
+          "wf": "we",
+          "wtype": "word",
+          "off_start": 2,
+          "off_end": 4,
+          "sentence_index": 1,
+          "next_word": 2,
+          "ana": {
+            "lex": "we",
+            "gr.pos": "PRP"
+          }
+        },
+        {
+          "wf": "must",
+          "wtype": "word",
+          "off_start": 4,
+          "off_end": 8,
+          "sentence_index": 2,
+          "next_word": 3,
+          "ana": {
+            "lex": "must",
+            "gr.pos": "MD"
+          }
+        },
+        {
+          "wf": "die",
+          "wtype": "word",
+          "off_start": 8,
+          "off_end": 11,
+          "sentence_index": 3,
+          "next_word": 4,
+          "ana": {
+            "lex": "die",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": ",",
+          "wtype": "punct",
+          "off_start": 11,
+          "off_end": 12,
+          "sentence_index": 4,
+          "next_word": 5
+        },
+        {
+          "wf": "O",
+          "wtype": "word",
+          "off_start": 12,
+          "off_end": 13,
+          "sentence_index": 5,
+          "next_word": 6,
+          "ana": {
+            "lex": "O",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "let",
+          "wtype": "word",
+          "off_start": 13,
+          "off_end": 16,
+          "sentence_index": 6,
+          "next_word": 7,
+          "ana": {
+            "lex": "let",
+            "gr.pos": "VB"
+          }
+        },
+        {
+          "wf": "us",
+          "wtype": "word",
+          "off_start": 16,
+          "off_end": 18,
+          "sentence_index": 7,
+          "next_word": 8,
+          "ana": {
+            "lex": "u",
+            "gr.pos": "PRP"
+          }
+        },
+        {
+          "wf": "nobly",
+          "wtype": "word",
+          "off_start": 18,
+          "off_end": 23,
+          "sentence_index": 8,
+          "next_word": 9,
+          "ana": {
+            "lex": "nobly",
+            "gr.pos": "RB"
+          }
+        },
+        {
+          "wf": "die",
+          "wtype": "word",
+          "off_start": 23,
+          "off_end": 26,
+          "sentence_index": 9,
+          "next_word": 10,
+          "ana": {
+            "lex": "die",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": ",",
+          "wtype": "punct",
+          "off_start": 26,
+          "off_end": 27,
+          "sentence_index": 10,
+          "next_word": 11
+        }
+      ],
+      "lang": 1,
+      "meta": {
+        "meter": "wswswswsws",
+        "stanza": "0"
+      }
+    },
+    {
+      "text ": "So that our precious blood may not be shed",
+      "words": [
+        {
+          "wf": "So",
+          "wtype": "word",
+          "off_start": 0,
+          "off_end": 2,
+          "sentence_index": 0,
+          "next_word": 1,
+          "ana": {
+            "lex": "So",
+            "gr.pos": "RB"
+          }
+        },
+        {
+          "wf": "that",
+          "wtype": "word",
+          "off_start": 2,
+          "off_end": 6,
+          "sentence_index": 1,
+          "next_word": 2,
+          "ana": {
+            "lex": "that",
+            "gr.pos": "IN"
+          }
+        },
+        {
+          "wf": "our",
+          "wtype": "word",
+          "off_start": 6,
+          "off_end": 9,
+          "sentence_index": 2,
+          "next_word": 3,
+          "ana": {
+            "lex": "our",
+            "gr.pos": "PRP$"
+          }
+        },
+        {
+          "wf": "precious",
+          "wtype": "word",
+          "off_start": 9,
+          "off_end": 17,
+          "sentence_index": 3,
+          "next_word": 4,
+          "ana": {
+            "lex": "precious",
+            "gr.pos": "JJ"
+          }
+        },
+        {
+          "wf": "blood",
+          "wtype": "word",
+          "off_start": 17,
+          "off_end": 22,
+          "sentence_index": 4,
+          "next_word": 5,
+          "ana": {
+            "lex": "blood",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "may",
+          "wtype": "word",
+          "off_start": 22,
+          "off_end": 25,
+          "sentence_index": 5,
+          "next_word": 6,
+          "ana": {
+            "lex": "may",
+            "gr.pos": "MD"
+          }
+        },
+        {
+          "wf": "not",
+          "wtype": "word",
+          "off_start": 25,
+          "off_end": 28,
+          "sentence_index": 6,
+          "next_word": 7,
+          "ana": {
+            "lex": "not",
+            "gr.pos": "RB"
+          }
+        },
+        {
+          "wf": "be",
+          "wtype": "word",
+          "off_start": 28,
+          "off_end": 30,
+          "sentence_index": 7,
+          "next_word": 8,
+          "ana": {
+            "lex": "be",
+            "gr.pos": "VB"
+          }
+        },
+        {
+          "wf": "shed",
+          "wtype": "word",
+          "off_start": 30,
+          "off_end": 34,
+          "sentence_index": 8,
+          "next_word": 9,
+          "ana": {
+            "lex": "shed",
+            "gr.pos": "VBN"
+          }
+        }
+      ],
+      "lang": 1,
+      "meta": {
+        "meter": "wswswswsws",
+        "stanza": "0"
+      }
+    },
+    {
+      "text ": "In vain; then even the monsters we defy",
+      "words": [
+        {
+          "wf": "In",
+          "wtype": "word",
+          "off_start": 0,
+          "off_end": 2,
+          "sentence_index": 0,
+          "next_word": 1,
+          "ana": {
+            "lex": "In",
+            "gr.pos": "IN"
+          }
+        },
+        {
+          "wf": "vain",
+          "wtype": "word",
+          "off_start": 2,
+          "off_end": 6,
+          "sentence_index": 1,
+          "next_word": 2,
+          "ana": {
+            "lex": "vain",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": ";",
+          "wtype": "punct",
+          "off_start": 6,
+          "off_end": 7,
+          "sentence_index": 2,
+          "next_word": 3
+        },
+        {
+          "wf": "then",
+          "wtype": "word",
+          "off_start": 7,
+          "off_end": 11,
+          "sentence_index": 3,
+          "next_word": 4,
+          "ana": {
+            "lex": "then",
+            "gr.pos": "RB"
+          }
+        },
+        {
+          "wf": "even",
+          "wtype": "word",
+          "off_start": 11,
+          "off_end": 15,
+          "sentence_index": 4,
+          "next_word": 5,
+          "ana": {
+            "lex": "even",
+            "gr.pos": "RB"
+          }
+        },
+        {
+          "wf": "the",
+          "wtype": "word",
+          "off_start": 15,
+          "off_end": 18,
+          "sentence_index": 5,
+          "next_word": 6,
+          "ana": {
+            "lex": "the",
+            "gr.pos": "DT"
+          }
+        },
+        {
+          "wf": "monsters",
+          "wtype": "word",
+          "off_start": 18,
+          "off_end": 26,
+          "sentence_index": 6,
+          "next_word": 7,
+          "ana": {
+            "lex": "monster",
+            "gr.pos": "NNS"
+          }
+        },
+        {
+          "wf": "we",
+          "wtype": "word",
+          "off_start": 26,
+          "off_end": 28,
+          "sentence_index": 7,
+          "next_word": 8,
+          "ana": {
+            "lex": "we",
+            "gr.pos": "PRP"
+          }
+        },
+        {
+          "wf": "defy",
+          "wtype": "word",
+          "off_start": 28,
+          "off_end": 32,
+          "sentence_index": 8,
+          "next_word": 9,
+          "ana": {
+            "lex": "defy",
+            "gr.pos": "NN"
+          }
+        }
+      ],
+      "lang": 1,
+      "meta": {
+        "meter": "wswswwswsws",
+        "stanza": "0"
+      }
+    },
+    {
+      "text ": "Shall be constrained to honor us though dead!",
+      "words": [
+        {
+          "wf": "Shall",
+          "wtype": "word",
+          "off_start": 0,
+          "off_end": 5,
+          "sentence_index": 0,
+          "next_word": 1,
+          "ana": {
+            "lex": "Shall",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "be",
+          "wtype": "word",
+          "off_start": 5,
+          "off_end": 7,
+          "sentence_index": 1,
+          "next_word": 2,
+          "ana": {
+            "lex": "be",
+            "gr.pos": "VB"
+          }
+        },
+        {
+          "wf": "constrained",
+          "wtype": "word",
+          "off_start": 7,
+          "off_end": 18,
+          "sentence_index": 2,
+          "next_word": 3,
+          "ana": {
+            "lex": "constrained",
+            "gr.pos": "VBN"
+          }
+        },
+        {
+          "wf": "to",
+          "wtype": "word",
+          "off_start": 18,
+          "off_end": 20,
+          "sentence_index": 3,
+          "next_word": 4,
+          "ana": {
+            "lex": "to",
+            "gr.pos": "TO"
+          }
+        },
+        {
+          "wf": "honor",
+          "wtype": "word",
+          "off_start": 20,
+          "off_end": 25,
+          "sentence_index": 4,
+          "next_word": 5,
+          "ana": {
+            "lex": "honor",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "us",
+          "wtype": "word",
+          "off_start": 25,
+          "off_end": 27,
+          "sentence_index": 5,
+          "next_word": 6,
+          "ana": {
+            "lex": "u",
+            "gr.pos": "PRP"
+          }
+        },
+        {
+          "wf": "though",
+          "wtype": "word",
+          "off_start": 27,
+          "off_end": 33,
+          "sentence_index": 6,
+          "next_word": 7,
+          "ana": {
+            "lex": "though",
+            "gr.pos": "IN"
+          }
+        },
+        {
+          "wf": "dead",
+          "wtype": "word",
+          "off_start": 33,
+          "off_end": 37,
+          "sentence_index": 7,
+          "next_word": 8,
+          "ana": {
+            "lex": "dead",
+            "gr.pos": "JJ"
+          }
+        },
+        {
+          "wf": "!",
+          "wtype": "punct",
+          "off_start": 37,
+          "off_end": 38,
+          "sentence_index": 8,
+          "next_word": 9
+        }
+      ],
+      "lang": 1,
+      "meta": {
+        "meter": "wswswswsws",
+        "stanza": "0"
+      }
+    },
+    {
+      "text ": "O kinsmen! we must meet the common foe!",
+      "words": [
+        {
+          "wf": "O",
+          "wtype": "word",
+          "off_start": 0,
+          "off_end": 1,
+          "sentence_index": 0,
+          "next_word": 1,
+          "ana": {
+            "lex": "O",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "kinsmen",
+          "wtype": "word",
+          "off_start": 1,
+          "off_end": 8,
+          "sentence_index": 1,
+          "next_word": 2,
+          "ana": {
+            "lex": "kinsman",
+            "gr.pos": "NNS"
+          }
+        },
+        {
+          "wf": "!",
+          "wtype": "punct",
+          "off_start": 8,
+          "off_end": 9,
+          "sentence_index": 2,
+          "next_word": 3
+        },
+        {
+          "wf": "we",
+          "wtype": "word",
+          "off_start": 9,
+          "off_end": 11,
+          "sentence_index": 3,
+          "next_word": 4,
+          "ana": {
+            "lex": "we",
+            "gr.pos": "PRP"
+          }
+        },
+        {
+          "wf": "must",
+          "wtype": "word",
+          "off_start": 11,
+          "off_end": 15,
+          "sentence_index": 4,
+          "next_word": 5,
+          "ana": {
+            "lex": "must",
+            "gr.pos": "MD"
+          }
+        },
+        {
+          "wf": "meet",
+          "wtype": "word",
+          "off_start": 15,
+          "off_end": 19,
+          "sentence_index": 5,
+          "next_word": 6,
+          "ana": {
+            "lex": "meet",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "the",
+          "wtype": "word",
+          "off_start": 19,
+          "off_end": 22,
+          "sentence_index": 6,
+          "next_word": 7,
+          "ana": {
+            "lex": "the",
+            "gr.pos": "DT"
+          }
+        },
+        {
+          "wf": "common",
+          "wtype": "word",
+          "off_start": 22,
+          "off_end": 28,
+          "sentence_index": 7,
+          "next_word": 8,
+          "ana": {
+            "lex": "common",
+            "gr.pos": "JJ"
+          }
+        },
+        {
+          "wf": "foe",
+          "wtype": "word",
+          "off_start": 28,
+          "off_end": 31,
+          "sentence_index": 8,
+          "next_word": 9,
+          "ana": {
+            "lex": "foe",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "!",
+          "wtype": "punct",
+          "off_start": 31,
+          "off_end": 32,
+          "sentence_index": 9,
+          "next_word": 10
+        }
+      ],
+      "lang": 1,
+      "meta": {
+        "meter": "wswswswsws",
+        "stanza": "0"
+      }
+    },
+    {
+      "text ": "Though far outnumbered let us show us brave,",
+      "words": [
+        {
+          "wf": "Though",
+          "wtype": "word",
+          "off_start": 0,
+          "off_end": 6,
+          "sentence_index": 0,
+          "next_word": 1,
+          "ana": {
+            "lex": "Though",
+            "gr.pos": "IN"
+          }
+        },
+        {
+          "wf": "far",
+          "wtype": "word",
+          "off_start": 6,
+          "off_end": 9,
+          "sentence_index": 1,
+          "next_word": 2,
+          "ana": {
+            "lex": "far",
+            "gr.pos": "RB"
+          }
+        },
+        {
+          "wf": "outnumbered",
+          "wtype": "word",
+          "off_start": 9,
+          "off_end": 20,
+          "sentence_index": 2,
+          "next_word": 3,
+          "ana": {
+            "lex": "outnumbered",
+            "gr.pos": "VBN"
+          }
+        },
+        {
+          "wf": "let",
+          "wtype": "word",
+          "off_start": 20,
+          "off_end": 23,
+          "sentence_index": 3,
+          "next_word": 4,
+          "ana": {
+            "lex": "let",
+            "gr.pos": "VB"
+          }
+        },
+        {
+          "wf": "us",
+          "wtype": "word",
+          "off_start": 23,
+          "off_end": 25,
+          "sentence_index": 4,
+          "next_word": 5,
+          "ana": {
+            "lex": "u",
+            "gr.pos": "PRP"
+          }
+        },
+        {
+          "wf": "show",
+          "wtype": "word",
+          "off_start": 25,
+          "off_end": 29,
+          "sentence_index": 5,
+          "next_word": 6,
+          "ana": {
+            "lex": "show",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "us",
+          "wtype": "word",
+          "off_start": 29,
+          "off_end": 31,
+          "sentence_index": 6,
+          "next_word": 7,
+          "ana": {
+            "lex": "u",
+            "gr.pos": "PRP"
+          }
+        },
+        {
+          "wf": "brave",
+          "wtype": "word",
+          "off_start": 31,
+          "off_end": 36,
+          "sentence_index": 7,
+          "next_word": 8,
+          "ana": {
+            "lex": "brave",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": ",",
+          "wtype": "punct",
+          "off_start": 36,
+          "off_end": 37,
+          "sentence_index": 8,
+          "next_word": 9
+        }
+      ],
+      "lang": 1,
+      "meta": {
+        "meter": "wswswswsws",
+        "stanza": "0"
+      }
+    },
+    {
+      "text ": "And for their thousand blows deal one death-blow!",
+      "words": [
+        {
+          "wf": "And",
+          "wtype": "word",
+          "off_start": 0,
+          "off_end": 3,
+          "sentence_index": 0,
+          "next_word": 1,
+          "ana": {
+            "lex": "And",
+            "gr.pos": "CC"
+          }
+        },
+        {
+          "wf": "for",
+          "wtype": "word",
+          "off_start": 3,
+          "off_end": 6,
+          "sentence_index": 1,
+          "next_word": 2,
+          "ana": {
+            "lex": "for",
+            "gr.pos": "IN"
+          }
+        },
+        {
+          "wf": "their",
+          "wtype": "word",
+          "off_start": 6,
+          "off_end": 11,
+          "sentence_index": 2,
+          "next_word": 3,
+          "ana": {
+            "lex": "their",
+            "gr.pos": "PRP$"
+          }
+        },
+        {
+          "wf": "thousand",
+          "wtype": "word",
+          "off_start": 11,
+          "off_end": 19,
+          "sentence_index": 3,
+          "next_word": 4,
+          "ana": {
+            "lex": "thousand",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "blows",
+          "wtype": "word",
+          "off_start": 19,
+          "off_end": 24,
+          "sentence_index": 4,
+          "next_word": 5,
+          "ana": {
+            "lex": "blow",
+            "gr.pos": "NNS"
+          }
+        },
+        {
+          "wf": "deal",
+          "wtype": "word",
+          "off_start": 24,
+          "off_end": 28,
+          "sentence_index": 5,
+          "next_word": 6,
+          "ana": {
+            "lex": "deal",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "one",
+          "wtype": "word",
+          "off_start": 28,
+          "off_end": 31,
+          "sentence_index": 6,
+          "next_word": 7,
+          "ana": {
+            "lex": "one",
+            "gr.pos": "CD"
+          }
+        },
+        {
+          "wf": "death-blow",
+          "wtype": "word",
+          "off_start": 31,
+          "off_end": 41,
+          "sentence_index": 7,
+          "next_word": 8,
+          "ana": {
+            "lex": "death-blow",
+            "gr.pos": "JJ"
+          }
+        },
+        {
+          "wf": "!",
+          "wtype": "punct",
+          "off_start": 41,
+          "off_end": 42,
+          "sentence_index": 8,
+          "next_word": 9
+        }
+      ],
+      "lang": 1,
+      "meta": {
+        "meter": "swwswsswsw",
+        "stanza": "0"
+      }
+    },
+    {
+      "text ": "What though before us lies the open grave?",
+      "words": [
+        {
+          "wf": "What",
+          "wtype": "word",
+          "off_start": 0,
+          "off_end": 4,
+          "sentence_index": 0,
+          "next_word": 1,
+          "ana": {
+            "lex": "What",
+            "gr.pos": "WP"
+          }
+        },
+        {
+          "wf": "though",
+          "wtype": "word",
+          "off_start": 4,
+          "off_end": 10,
+          "sentence_index": 1,
+          "next_word": 2,
+          "ana": {
+            "lex": "though",
+            "gr.pos": "IN"
+          }
+        },
+        {
+          "wf": "before",
+          "wtype": "word",
+          "off_start": 10,
+          "off_end": 16,
+          "sentence_index": 2,
+          "next_word": 3,
+          "ana": {
+            "lex": "before",
+            "gr.pos": "IN"
+          }
+        },
+        {
+          "wf": "us",
+          "wtype": "word",
+          "off_start": 16,
+          "off_end": 18,
+          "sentence_index": 3,
+          "next_word": 4,
+          "ana": {
+            "lex": "u",
+            "gr.pos": "PRP"
+          }
+        },
+        {
+          "wf": "lies",
+          "wtype": "word",
+          "off_start": 18,
+          "off_end": 22,
+          "sentence_index": 4,
+          "next_word": 5,
+          "ana": {
+            "lex": "lie",
+            "gr.pos": "NNS"
+          }
+        },
+        {
+          "wf": "the",
+          "wtype": "word",
+          "off_start": 22,
+          "off_end": 25,
+          "sentence_index": 5,
+          "next_word": 6,
+          "ana": {
+            "lex": "the",
+            "gr.pos": "DT"
+          }
+        },
+        {
+          "wf": "open",
+          "wtype": "word",
+          "off_start": 25,
+          "off_end": 29,
+          "sentence_index": 6,
+          "next_word": 7,
+          "ana": {
+            "lex": "open",
+            "gr.pos": "JJ"
+          }
+        },
+        {
+          "wf": "grave",
+          "wtype": "word",
+          "off_start": 29,
+          "off_end": 34,
+          "sentence_index": 7,
+          "next_word": 8,
+          "ana": {
+            "lex": "grave",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "?",
+          "wtype": "punct",
+          "off_start": 34,
+          "off_end": 35,
+          "sentence_index": 8,
+          "next_word": 9
+        }
+      ],
+      "lang": 1,
+      "meta": {
+        "meter": "swwswswsws",
+        "stanza": "0"
+      }
+    },
+    {
+      "text ": "Like men we'll face the murderous, cowardly pack,",
+      "words": [
+        {
+          "wf": "Like",
+          "wtype": "word",
+          "off_start": 0,
+          "off_end": 4,
+          "sentence_index": 0,
+          "next_word": 1,
+          "ana": {
+            "lex": "Like",
+            "gr.pos": "IN"
+          }
+        },
+        {
+          "wf": "men",
+          "wtype": "word",
+          "off_start": 4,
+          "off_end": 7,
+          "sentence_index": 1,
+          "next_word": 2,
+          "ana": {
+            "lex": "men",
+            "gr.pos": "NNS"
+          }
+        },
+        {
+          "wf": "we",
+          "wtype": "word",
+          "off_start": 7,
+          "off_end": 9,
+          "sentence_index": 2,
+          "next_word": 3,
+          "ana": {
+            "lex": "we",
+            "gr.pos": "PRP"
+          }
+        },
+        {
+          "wf": "'ll",
+          "wtype": "word",
+          "off_start": 9,
+          "off_end": 12,
+          "sentence_index": 3,
+          "next_word": 4,
+          "ana": {
+            "lex": "'ll",
+            "gr.pos": "MD"
+          }
+        },
+        {
+          "wf": "face",
+          "wtype": "word",
+          "off_start": 12,
+          "off_end": 16,
+          "sentence_index": 4,
+          "next_word": 5,
+          "ana": {
+            "lex": "face",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "the",
+          "wtype": "word",
+          "off_start": 16,
+          "off_end": 19,
+          "sentence_index": 5,
+          "next_word": 6,
+          "ana": {
+            "lex": "the",
+            "gr.pos": "DT"
+          }
+        },
+        {
+          "wf": "murderous",
+          "wtype": "word",
+          "off_start": 19,
+          "off_end": 28,
+          "sentence_index": 6,
+          "next_word": 7,
+          "ana": {
+            "lex": "murderous",
+            "gr.pos": "JJ"
+          }
+        },
+        {
+          "wf": ",",
+          "wtype": "punct",
+          "off_start": 28,
+          "off_end": 29,
+          "sentence_index": 7,
+          "next_word": 8
+        },
+        {
+          "wf": "cowardly",
+          "wtype": "word",
+          "off_start": 29,
+          "off_end": 37,
+          "sentence_index": 8,
+          "next_word": 9,
+          "ana": {
+            "lex": "cowardly",
+            "gr.pos": "RB"
+          }
+        },
+        {
+          "wf": "pack",
+          "wtype": "word",
+          "off_start": 37,
+          "off_end": 41,
+          "sentence_index": 9,
+          "next_word": 10,
+          "ana": {
+            "lex": "pack",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": ",",
+          "wtype": "punct",
+          "off_start": 41,
+          "off_end": 42,
+          "sentence_index": 10,
+          "next_word": 11
+        }
+      ],
+      "lang": 1,
+      "meta": {
+        "meter": "wswswswsws",
+        "stanza": "0"
+      }
+    },
+    {
+      "text ": "Pressed to the wall, dying, but fighting back!",
+      "words": [
+        {
+          "wf": "Pressed",
+          "wtype": "word",
+          "off_start": 0,
+          "off_end": 7,
+          "sentence_index": 0,
+          "next_word": 1,
+          "ana": {
+            "lex": "Pressed",
+            "gr.pos": "VBN"
+          }
+        },
+        {
+          "wf": "to",
+          "wtype": "word",
+          "off_start": 7,
+          "off_end": 9,
+          "sentence_index": 1,
+          "next_word": 2,
+          "ana": {
+            "lex": "to",
+            "gr.pos": "TO"
+          }
+        },
+        {
+          "wf": "the",
+          "wtype": "word",
+          "off_start": 9,
+          "off_end": 12,
+          "sentence_index": 2,
+          "next_word": 3,
+          "ana": {
+            "lex": "the",
+            "gr.pos": "DT"
+          }
+        },
+        {
+          "wf": "wall",
+          "wtype": "word",
+          "off_start": 12,
+          "off_end": 16,
+          "sentence_index": 3,
+          "next_word": 4,
+          "ana": {
+            "lex": "wall",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": ",",
+          "wtype": "punct",
+          "off_start": 16,
+          "off_end": 17,
+          "sentence_index": 4,
+          "next_word": 5
+        },
+        {
+          "wf": "dying",
+          "wtype": "word",
+          "off_start": 17,
+          "off_end": 22,
+          "sentence_index": 5,
+          "next_word": 6,
+          "ana": {
+            "lex": "dying",
+            "gr.pos": "VBG"
+          }
+        },
+        {
+          "wf": ",",
+          "wtype": "punct",
+          "off_start": 22,
+          "off_end": 23,
+          "sentence_index": 6,
+          "next_word": 7
+        },
+        {
+          "wf": "but",
+          "wtype": "word",
+          "off_start": 23,
+          "off_end": 26,
+          "sentence_index": 7,
+          "next_word": 8,
+          "ana": {
+            "lex": "but",
+            "gr.pos": "CC"
+          }
+        },
+        {
+          "wf": "fighting",
+          "wtype": "word",
+          "off_start": 26,
+          "off_end": 34,
+          "sentence_index": 8,
+          "next_word": 9,
+          "ana": {
+            "lex": "fighting",
+            "gr.pos": "VBG"
+          }
+        },
+        {
+          "wf": "back",
+          "wtype": "word",
+          "off_start": 34,
+          "off_end": 38,
+          "sentence_index": 9,
+          "next_word": 10,
+          "ana": {
+            "lex": "back",
+            "gr.pos": "RB"
+          }
+        },
+        {
+          "wf": "!",
+          "wtype": "punct",
+          "off_start": 38,
+          "off_end": 39,
+          "sentence_index": 10,
+          "next_word": 11
+        }
+      ],
+      "lang": 1,
+      "meta": {
+        "meter": "swwsswwsws",
+        "stanza": "0"
+      }
+    }
+  ]
+}

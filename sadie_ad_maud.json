@@ -1,0 +1,1470 @@
+{
+  "meta": {
+    "filename": "sadie_ad_maud.json",
+    "title": "Sadie and Maud",
+    "author": "Gwendolyn Brooks",
+    "language": "English",
+    "school/period": "Black Arts Movement",
+    "number_of_stanzas": "5",
+    "has_rhyme": "True",
+    "rhyme_scheme": "0121"
+  },
+  "sentences": [
+    {
+      "text ": "Maud went to college.",
+      "words": [
+        {
+          "wf": "Maud",
+          "wtype": "word",
+          "off_start": 0,
+          "off_end": 4,
+          "sentence_index": 0,
+          "next_word": 1,
+          "ana": {
+            "lex": "Maud",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "went",
+          "wtype": "word",
+          "off_start": 4,
+          "off_end": 8,
+          "sentence_index": 1,
+          "next_word": 2,
+          "ana": {
+            "lex": "went",
+            "gr.pos": "VBD"
+          }
+        },
+        {
+          "wf": "to",
+          "wtype": "word",
+          "off_start": 8,
+          "off_end": 10,
+          "sentence_index": 2,
+          "next_word": 3,
+          "ana": {
+            "lex": "to",
+            "gr.pos": "TO"
+          }
+        },
+        {
+          "wf": "college",
+          "wtype": "word",
+          "off_start": 10,
+          "off_end": 17,
+          "sentence_index": 3,
+          "next_word": 4,
+          "ana": {
+            "lex": "college",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": ".",
+          "wtype": "punct",
+          "off_start": 17,
+          "off_end": 18,
+          "sentence_index": 4,
+          "next_word": 5
+        }
+      ],
+      "lang": 1,
+      "meta": {
+        "meter": "sswsw",
+        "stanza": "0"
+      }
+    },
+    {
+      "text ": "Sadie stayed at home.",
+      "words": [
+        {
+          "wf": "Sadie",
+          "wtype": "word",
+          "off_start": 0,
+          "off_end": 5,
+          "sentence_index": 0,
+          "next_word": 1,
+          "ana": {
+            "lex": "Sadie",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "stayed",
+          "wtype": "word",
+          "off_start": 5,
+          "off_end": 11,
+          "sentence_index": 1,
+          "next_word": 2,
+          "ana": {
+            "lex": "stayed",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "at",
+          "wtype": "word",
+          "off_start": 11,
+          "off_end": 13,
+          "sentence_index": 2,
+          "next_word": 3,
+          "ana": {
+            "lex": "at",
+            "gr.pos": "IN"
+          }
+        },
+        {
+          "wf": "home",
+          "wtype": "word",
+          "off_start": 13,
+          "off_end": 17,
+          "sentence_index": 3,
+          "next_word": 4,
+          "ana": {
+            "lex": "home",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": ".",
+          "wtype": "punct",
+          "off_start": 17,
+          "off_end": 18,
+          "sentence_index": 4,
+          "next_word": 5
+        }
+      ],
+      "lang": 1,
+      "meta": {
+        "meter": "swsws",
+        "stanza": "0"
+      }
+    },
+    {
+      "text ": "Sadie scraped life",
+      "words": [
+        {
+          "wf": "Sadie",
+          "wtype": "word",
+          "off_start": 0,
+          "off_end": 5,
+          "sentence_index": 0,
+          "next_word": 1,
+          "ana": {
+            "lex": "Sadie",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "scraped",
+          "wtype": "word",
+          "off_start": 5,
+          "off_end": 12,
+          "sentence_index": 1,
+          "next_word": 2,
+          "ana": {
+            "lex": "scraped",
+            "gr.pos": "VBD"
+          }
+        },
+        {
+          "wf": "life",
+          "wtype": "word",
+          "off_start": 12,
+          "off_end": 16,
+          "sentence_index": 2,
+          "next_word": 3,
+          "ana": {
+            "lex": "life",
+            "gr.pos": "NN"
+          }
+        }
+      ],
+      "lang": 1,
+      "meta": {
+        "meter": "swsw",
+        "stanza": "0"
+      }
+    },
+    {
+      "text ": "With a fine-tooth comb.",
+      "words": [
+        {
+          "wf": "With",
+          "wtype": "word",
+          "off_start": 0,
+          "off_end": 4,
+          "sentence_index": 0,
+          "next_word": 1,
+          "ana": {
+            "lex": "With",
+            "gr.pos": "IN"
+          }
+        },
+        {
+          "wf": "a",
+          "wtype": "word",
+          "off_start": 4,
+          "off_end": 5,
+          "sentence_index": 1,
+          "next_word": 2,
+          "ana": {
+            "lex": "a",
+            "gr.pos": "DT"
+          }
+        },
+        {
+          "wf": "fine-tooth",
+          "wtype": "word",
+          "off_start": 5,
+          "off_end": 15,
+          "sentence_index": 2,
+          "next_word": 3,
+          "ana": {
+            "lex": "fine-tooth",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "comb",
+          "wtype": "word",
+          "off_start": 15,
+          "off_end": 19,
+          "sentence_index": 3,
+          "next_word": 4,
+          "ana": {
+            "lex": "comb",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": ".",
+          "wtype": "punct",
+          "off_start": 19,
+          "off_end": 20,
+          "sentence_index": 4,
+          "next_word": 5
+        }
+      ],
+      "lang": 1,
+      "meta": {
+        "meter": "wwsws",
+        "stanza": "0"
+      }
+    },
+    {
+      "text ": "She didn't leave a tangle in.",
+      "words": [
+        {
+          "wf": "She",
+          "wtype": "word",
+          "off_start": 0,
+          "off_end": 3,
+          "sentence_index": 0,
+          "next_word": 1,
+          "ana": {
+            "lex": "She",
+            "gr.pos": "PRP"
+          }
+        },
+        {
+          "wf": "did",
+          "wtype": "word",
+          "off_start": 3,
+          "off_end": 6,
+          "sentence_index": 1,
+          "next_word": 2,
+          "ana": {
+            "lex": "did",
+            "gr.pos": "VBD"
+          }
+        },
+        {
+          "wf": "n't",
+          "wtype": "word",
+          "off_start": 6,
+          "off_end": 9,
+          "sentence_index": 2,
+          "next_word": 3,
+          "ana": {
+            "lex": "n't",
+            "gr.pos": "RB"
+          }
+        },
+        {
+          "wf": "leave",
+          "wtype": "word",
+          "off_start": 9,
+          "off_end": 14,
+          "sentence_index": 3,
+          "next_word": 4,
+          "ana": {
+            "lex": "leave",
+            "gr.pos": "VB"
+          }
+        },
+        {
+          "wf": "a",
+          "wtype": "word",
+          "off_start": 14,
+          "off_end": 15,
+          "sentence_index": 4,
+          "next_word": 5,
+          "ana": {
+            "lex": "a",
+            "gr.pos": "DT"
+          }
+        },
+        {
+          "wf": "tangle",
+          "wtype": "word",
+          "off_start": 15,
+          "off_end": 21,
+          "sentence_index": 5,
+          "next_word": 6,
+          "ana": {
+            "lex": "tangle",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "in",
+          "wtype": "word",
+          "off_start": 21,
+          "off_end": 23,
+          "sentence_index": 6,
+          "next_word": 7,
+          "ana": {
+            "lex": "in",
+            "gr.pos": "IN"
+          }
+        },
+        {
+          "wf": ".",
+          "wtype": "punct",
+          "off_start": 23,
+          "off_end": 24,
+          "sentence_index": 7,
+          "next_word": 8
+        }
+      ],
+      "lang": 1,
+      "meta": {
+        "meter": "wswswsws",
+        "stanza": "1"
+      }
+    },
+    {
+      "text ": "Her comb found every strand.",
+      "words": [
+        {
+          "wf": "Her",
+          "wtype": "word",
+          "off_start": 0,
+          "off_end": 3,
+          "sentence_index": 0,
+          "next_word": 1,
+          "ana": {
+            "lex": "Her",
+            "gr.pos": "PRP$"
+          }
+        },
+        {
+          "wf": "comb",
+          "wtype": "word",
+          "off_start": 3,
+          "off_end": 7,
+          "sentence_index": 1,
+          "next_word": 2,
+          "ana": {
+            "lex": "comb",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "found",
+          "wtype": "word",
+          "off_start": 7,
+          "off_end": 12,
+          "sentence_index": 2,
+          "next_word": 3,
+          "ana": {
+            "lex": "found",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "every",
+          "wtype": "word",
+          "off_start": 12,
+          "off_end": 17,
+          "sentence_index": 3,
+          "next_word": 4,
+          "ana": {
+            "lex": "every",
+            "gr.pos": "DT"
+          }
+        },
+        {
+          "wf": "strand",
+          "wtype": "word",
+          "off_start": 17,
+          "off_end": 23,
+          "sentence_index": 4,
+          "next_word": 5,
+          "ana": {
+            "lex": "strand",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": ".",
+          "wtype": "punct",
+          "off_start": 23,
+          "off_end": 24,
+          "sentence_index": 5,
+          "next_word": 6
+        }
+      ],
+      "lang": 1,
+      "meta": {
+        "meter": "wswsws",
+        "stanza": "1"
+      }
+    },
+    {
+      "text ": "Sadie was one of the livingest chits",
+      "words": [
+        {
+          "wf": "Sadie",
+          "wtype": "word",
+          "off_start": 0,
+          "off_end": 5,
+          "sentence_index": 0,
+          "next_word": 1,
+          "ana": {
+            "lex": "Sadie",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "was",
+          "wtype": "word",
+          "off_start": 5,
+          "off_end": 8,
+          "sentence_index": 1,
+          "next_word": 2,
+          "ana": {
+            "lex": "wa",
+            "gr.pos": "VBD"
+          }
+        },
+        {
+          "wf": "one",
+          "wtype": "word",
+          "off_start": 8,
+          "off_end": 11,
+          "sentence_index": 2,
+          "next_word": 3,
+          "ana": {
+            "lex": "one",
+            "gr.pos": "CD"
+          }
+        },
+        {
+          "wf": "of",
+          "wtype": "word",
+          "off_start": 11,
+          "off_end": 13,
+          "sentence_index": 3,
+          "next_word": 4,
+          "ana": {
+            "lex": "of",
+            "gr.pos": "IN"
+          }
+        },
+        {
+          "wf": "the",
+          "wtype": "word",
+          "off_start": 13,
+          "off_end": 16,
+          "sentence_index": 4,
+          "next_word": 5,
+          "ana": {
+            "lex": "the",
+            "gr.pos": "DT"
+          }
+        },
+        {
+          "wf": "livingest",
+          "wtype": "word",
+          "off_start": 16,
+          "off_end": 25,
+          "sentence_index": 5,
+          "next_word": 6,
+          "ana": {
+            "lex": "livingest",
+            "gr.pos": "JJS"
+          }
+        },
+        {
+          "wf": "chits",
+          "wtype": "word",
+          "off_start": 25,
+          "off_end": 30,
+          "sentence_index": 6,
+          "next_word": 7,
+          "ana": {
+            "lex": "chit",
+            "gr.pos": "NNS"
+          }
+        }
+      ],
+      "lang": 1,
+      "meta": {
+        "meter": "swswwsswws",
+        "stanza": "1"
+      }
+    },
+    {
+      "text ": "In all the land.",
+      "words": [
+        {
+          "wf": "In",
+          "wtype": "word",
+          "off_start": 0,
+          "off_end": 2,
+          "sentence_index": 0,
+          "next_word": 1,
+          "ana": {
+            "lex": "In",
+            "gr.pos": "IN"
+          }
+        },
+        {
+          "wf": "all",
+          "wtype": "word",
+          "off_start": 2,
+          "off_end": 5,
+          "sentence_index": 1,
+          "next_word": 2,
+          "ana": {
+            "lex": "all",
+            "gr.pos": "DT"
+          }
+        },
+        {
+          "wf": "the",
+          "wtype": "word",
+          "off_start": 5,
+          "off_end": 8,
+          "sentence_index": 2,
+          "next_word": 3,
+          "ana": {
+            "lex": "the",
+            "gr.pos": "DT"
+          }
+        },
+        {
+          "wf": "land",
+          "wtype": "word",
+          "off_start": 8,
+          "off_end": 12,
+          "sentence_index": 3,
+          "next_word": 4,
+          "ana": {
+            "lex": "land",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": ".",
+          "wtype": "punct",
+          "off_start": 12,
+          "off_end": 13,
+          "sentence_index": 4,
+          "next_word": 5
+        }
+      ],
+      "lang": 1,
+      "meta": {
+        "meter": "wsws",
+        "stanza": "1"
+      }
+    },
+    {
+      "text ": "Sadie bore two babies",
+      "words": [
+        {
+          "wf": "Sadie",
+          "wtype": "word",
+          "off_start": 0,
+          "off_end": 5,
+          "sentence_index": 0,
+          "next_word": 1,
+          "ana": {
+            "lex": "Sadie",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "bore",
+          "wtype": "word",
+          "off_start": 5,
+          "off_end": 9,
+          "sentence_index": 1,
+          "next_word": 2,
+          "ana": {
+            "lex": "bore",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "two",
+          "wtype": "word",
+          "off_start": 9,
+          "off_end": 12,
+          "sentence_index": 2,
+          "next_word": 3,
+          "ana": {
+            "lex": "two",
+            "gr.pos": "CD"
+          }
+        },
+        {
+          "wf": "babies",
+          "wtype": "word",
+          "off_start": 12,
+          "off_end": 18,
+          "sentence_index": 3,
+          "next_word": 4,
+          "ana": {
+            "lex": "baby",
+            "gr.pos": "NNS"
+          }
+        }
+      ],
+      "lang": 1,
+      "meta": {
+        "meter": "swswsw",
+        "stanza": "2"
+      }
+    },
+    {
+      "text ": "Under her maiden name.",
+      "words": [
+        {
+          "wf": "Under",
+          "wtype": "word",
+          "off_start": 0,
+          "off_end": 5,
+          "sentence_index": 0,
+          "next_word": 1,
+          "ana": {
+            "lex": "Under",
+            "gr.pos": "IN"
+          }
+        },
+        {
+          "wf": "her",
+          "wtype": "word",
+          "off_start": 5,
+          "off_end": 8,
+          "sentence_index": 1,
+          "next_word": 2,
+          "ana": {
+            "lex": "her",
+            "gr.pos": "PRP$"
+          }
+        },
+        {
+          "wf": "maiden",
+          "wtype": "word",
+          "off_start": 8,
+          "off_end": 14,
+          "sentence_index": 2,
+          "next_word": 3,
+          "ana": {
+            "lex": "maiden",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "name",
+          "wtype": "word",
+          "off_start": 14,
+          "off_end": 18,
+          "sentence_index": 3,
+          "next_word": 4,
+          "ana": {
+            "lex": "name",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": ".",
+          "wtype": "punct",
+          "off_start": 18,
+          "off_end": 19,
+          "sentence_index": 4,
+          "next_word": 5
+        }
+      ],
+      "lang": 1,
+      "meta": {
+        "meter": "swwsws",
+        "stanza": "2"
+      }
+    },
+    {
+      "text ": "Maud and Ma and Papa",
+      "words": [
+        {
+          "wf": "Maud",
+          "wtype": "word",
+          "off_start": 0,
+          "off_end": 4,
+          "sentence_index": 0,
+          "next_word": 1,
+          "ana": {
+            "lex": "Maud",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "and",
+          "wtype": "word",
+          "off_start": 4,
+          "off_end": 7,
+          "sentence_index": 1,
+          "next_word": 2,
+          "ana": {
+            "lex": "and",
+            "gr.pos": "CC"
+          }
+        },
+        {
+          "wf": "Ma",
+          "wtype": "word",
+          "off_start": 7,
+          "off_end": 9,
+          "sentence_index": 2,
+          "next_word": 3,
+          "ana": {
+            "lex": "Ma",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "and",
+          "wtype": "word",
+          "off_start": 9,
+          "off_end": 12,
+          "sentence_index": 3,
+          "next_word": 4,
+          "ana": {
+            "lex": "and",
+            "gr.pos": "CC"
+          }
+        },
+        {
+          "wf": "Papa",
+          "wtype": "word",
+          "off_start": 12,
+          "off_end": 16,
+          "sentence_index": 4,
+          "next_word": 5,
+          "ana": {
+            "lex": "Papa",
+            "gr.pos": "NN"
+          }
+        }
+      ],
+      "lang": 1,
+      "meta": {
+        "meter": "swswsw",
+        "stanza": "2"
+      }
+    },
+    {
+      "text ": "Nearly died of shame.",
+      "words": [
+        {
+          "wf": "Nearly",
+          "wtype": "word",
+          "off_start": 0,
+          "off_end": 6,
+          "sentence_index": 0,
+          "next_word": 1,
+          "ana": {
+            "lex": "Nearly",
+            "gr.pos": "RB"
+          }
+        },
+        {
+          "wf": "died",
+          "wtype": "word",
+          "off_start": 6,
+          "off_end": 10,
+          "sentence_index": 1,
+          "next_word": 2,
+          "ana": {
+            "lex": "died",
+            "gr.pos": "VBD"
+          }
+        },
+        {
+          "wf": "of",
+          "wtype": "word",
+          "off_start": 10,
+          "off_end": 12,
+          "sentence_index": 2,
+          "next_word": 3,
+          "ana": {
+            "lex": "of",
+            "gr.pos": "IN"
+          }
+        },
+        {
+          "wf": "shame",
+          "wtype": "word",
+          "off_start": 12,
+          "off_end": 17,
+          "sentence_index": 3,
+          "next_word": 4,
+          "ana": {
+            "lex": "shame",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": ".",
+          "wtype": "punct",
+          "off_start": 17,
+          "off_end": 18,
+          "sentence_index": 4,
+          "next_word": 5
+        }
+      ],
+      "lang": 1,
+      "meta": {
+        "meter": "swsws",
+        "stanza": "2"
+      }
+    },
+    {
+      "text ": "When Sadie said her last so-long",
+      "words": [
+        {
+          "wf": "When",
+          "wtype": "word",
+          "off_start": 0,
+          "off_end": 4,
+          "sentence_index": 0,
+          "next_word": 1,
+          "ana": {
+            "lex": "When",
+            "gr.pos": "WRB"
+          }
+        },
+        {
+          "wf": "Sadie",
+          "wtype": "word",
+          "off_start": 4,
+          "off_end": 9,
+          "sentence_index": 1,
+          "next_word": 2,
+          "ana": {
+            "lex": "Sadie",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "said",
+          "wtype": "word",
+          "off_start": 9,
+          "off_end": 13,
+          "sentence_index": 2,
+          "next_word": 3,
+          "ana": {
+            "lex": "said",
+            "gr.pos": "VBD"
+          }
+        },
+        {
+          "wf": "her",
+          "wtype": "word",
+          "off_start": 13,
+          "off_end": 16,
+          "sentence_index": 3,
+          "next_word": 4,
+          "ana": {
+            "lex": "her",
+            "gr.pos": "PRP$"
+          }
+        },
+        {
+          "wf": "last",
+          "wtype": "word",
+          "off_start": 16,
+          "off_end": 20,
+          "sentence_index": 4,
+          "next_word": 5,
+          "ana": {
+            "lex": "last",
+            "gr.pos": "JJ"
+          }
+        },
+        {
+          "wf": "so-long",
+          "wtype": "word",
+          "off_start": 20,
+          "off_end": 27,
+          "sentence_index": 5,
+          "next_word": 6,
+          "ana": {
+            "lex": "so-long",
+            "gr.pos": "JJ"
+          }
+        }
+      ],
+      "lang": 1,
+      "meta": {
+        "meter": "wswswsws",
+        "stanza": "3"
+      }
+    },
+    {
+      "text ": "Her girls struck out from home.",
+      "words": [
+        {
+          "wf": "Her",
+          "wtype": "word",
+          "off_start": 0,
+          "off_end": 3,
+          "sentence_index": 0,
+          "next_word": 1,
+          "ana": {
+            "lex": "Her",
+            "gr.pos": "PRP$"
+          }
+        },
+        {
+          "wf": "girls",
+          "wtype": "word",
+          "off_start": 3,
+          "off_end": 8,
+          "sentence_index": 1,
+          "next_word": 2,
+          "ana": {
+            "lex": "girl",
+            "gr.pos": "NNS"
+          }
+        },
+        {
+          "wf": "struck",
+          "wtype": "word",
+          "off_start": 8,
+          "off_end": 14,
+          "sentence_index": 2,
+          "next_word": 3,
+          "ana": {
+            "lex": "struck",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "out",
+          "wtype": "word",
+          "off_start": 14,
+          "off_end": 17,
+          "sentence_index": 3,
+          "next_word": 4,
+          "ana": {
+            "lex": "out",
+            "gr.pos": "IN"
+          }
+        },
+        {
+          "wf": "from",
+          "wtype": "word",
+          "off_start": 17,
+          "off_end": 21,
+          "sentence_index": 4,
+          "next_word": 5,
+          "ana": {
+            "lex": "from",
+            "gr.pos": "IN"
+          }
+        },
+        {
+          "wf": "home",
+          "wtype": "word",
+          "off_start": 21,
+          "off_end": 25,
+          "sentence_index": 5,
+          "next_word": 6,
+          "ana": {
+            "lex": "home",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": ".",
+          "wtype": "punct",
+          "off_start": 25,
+          "off_end": 26,
+          "sentence_index": 6,
+          "next_word": 7
+        }
+      ],
+      "lang": 1,
+      "meta": {
+        "meter": "wsswws",
+        "stanza": "3"
+      }
+    },
+    {
+      "text ": "(Sadie had left as heritage",
+      "words": [
+        {
+          "wf": "(",
+          "wtype": "punct",
+          "off_start": 0,
+          "off_end": 1,
+          "sentence_index": 0,
+          "next_word": 1
+        },
+        {
+          "wf": "Sadie",
+          "wtype": "word",
+          "off_start": 1,
+          "off_end": 6,
+          "sentence_index": 1,
+          "next_word": 2,
+          "ana": {
+            "lex": "Sadie",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "had",
+          "wtype": "word",
+          "off_start": 6,
+          "off_end": 9,
+          "sentence_index": 2,
+          "next_word": 3,
+          "ana": {
+            "lex": "had",
+            "gr.pos": "VBD"
+          }
+        },
+        {
+          "wf": "left",
+          "wtype": "word",
+          "off_start": 9,
+          "off_end": 13,
+          "sentence_index": 3,
+          "next_word": 4,
+          "ana": {
+            "lex": "left",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "as",
+          "wtype": "word",
+          "off_start": 13,
+          "off_end": 15,
+          "sentence_index": 4,
+          "next_word": 5,
+          "ana": {
+            "lex": "a",
+            "gr.pos": "IN"
+          }
+        },
+        {
+          "wf": "heritage",
+          "wtype": "word",
+          "off_start": 15,
+          "off_end": 23,
+          "sentence_index": 5,
+          "next_word": 6,
+          "ana": {
+            "lex": "heritage",
+            "gr.pos": "NN"
+          }
+        }
+      ],
+      "lang": 1,
+      "meta": {
+        "meter": "swsswsws",
+        "stanza": "3"
+      }
+    },
+    {
+      "text ": "Her fine-tooth comb.)",
+      "words": [
+        {
+          "wf": "Her",
+          "wtype": "word",
+          "off_start": 0,
+          "off_end": 3,
+          "sentence_index": 0,
+          "next_word": 1,
+          "ana": {
+            "lex": "Her",
+            "gr.pos": "PRP$"
+          }
+        },
+        {
+          "wf": "fine-tooth",
+          "wtype": "word",
+          "off_start": 3,
+          "off_end": 13,
+          "sentence_index": 1,
+          "next_word": 2,
+          "ana": {
+            "lex": "fine-tooth",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "comb",
+          "wtype": "word",
+          "off_start": 13,
+          "off_end": 17,
+          "sentence_index": 2,
+          "next_word": 3,
+          "ana": {
+            "lex": "comb",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": ".",
+          "wtype": "punct",
+          "off_start": 17,
+          "off_end": 18,
+          "sentence_index": 3,
+          "next_word": 4
+        },
+        {
+          "wf": ")",
+          "wtype": "punct",
+          "off_start": 18,
+          "off_end": 19,
+          "sentence_index": 4,
+          "next_word": 5
+        }
+      ],
+      "lang": 1,
+      "meta": {
+        "meter": "wsws",
+        "stanza": "3"
+      }
+    },
+    {
+      "text ": "Maud, who went to college,",
+      "words": [
+        {
+          "wf": "Maud",
+          "wtype": "word",
+          "off_start": 0,
+          "off_end": 4,
+          "sentence_index": 0,
+          "next_word": 1,
+          "ana": {
+            "lex": "Maud",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": ",",
+          "wtype": "punct",
+          "off_start": 4,
+          "off_end": 5,
+          "sentence_index": 1,
+          "next_word": 2
+        },
+        {
+          "wf": "who",
+          "wtype": "word",
+          "off_start": 5,
+          "off_end": 8,
+          "sentence_index": 2,
+          "next_word": 3,
+          "ana": {
+            "lex": "who",
+            "gr.pos": "WP"
+          }
+        },
+        {
+          "wf": "went",
+          "wtype": "word",
+          "off_start": 8,
+          "off_end": 12,
+          "sentence_index": 3,
+          "next_word": 4,
+          "ana": {
+            "lex": "went",
+            "gr.pos": "VBD"
+          }
+        },
+        {
+          "wf": "to",
+          "wtype": "word",
+          "off_start": 12,
+          "off_end": 14,
+          "sentence_index": 4,
+          "next_word": 5,
+          "ana": {
+            "lex": "to",
+            "gr.pos": "TO"
+          }
+        },
+        {
+          "wf": "college",
+          "wtype": "word",
+          "off_start": 14,
+          "off_end": 21,
+          "sentence_index": 5,
+          "next_word": 6,
+          "ana": {
+            "lex": "college",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": ",",
+          "wtype": "punct",
+          "off_start": 21,
+          "off_end": 22,
+          "sentence_index": 6,
+          "next_word": 7
+        }
+      ],
+      "lang": 1,
+      "meta": {
+        "meter": "swswsw",
+        "stanza": "4"
+      }
+    },
+    {
+      "text ": "Is a thin brown mouse.",
+      "words": [
+        {
+          "wf": "Is",
+          "wtype": "word",
+          "off_start": 0,
+          "off_end": 2,
+          "sentence_index": 0,
+          "next_word": 1,
+          "ana": {
+            "lex": "Is",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "a",
+          "wtype": "word",
+          "off_start": 2,
+          "off_end": 3,
+          "sentence_index": 1,
+          "next_word": 2,
+          "ana": {
+            "lex": "a",
+            "gr.pos": "DT"
+          }
+        },
+        {
+          "wf": "thin",
+          "wtype": "word",
+          "off_start": 3,
+          "off_end": 7,
+          "sentence_index": 2,
+          "next_word": 3,
+          "ana": {
+            "lex": "thin",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "brown",
+          "wtype": "word",
+          "off_start": 7,
+          "off_end": 12,
+          "sentence_index": 3,
+          "next_word": 4,
+          "ana": {
+            "lex": "brown",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "mouse",
+          "wtype": "word",
+          "off_start": 12,
+          "off_end": 17,
+          "sentence_index": 4,
+          "next_word": 5,
+          "ana": {
+            "lex": "mouse",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": ".",
+          "wtype": "punct",
+          "off_start": 17,
+          "off_end": 18,
+          "sentence_index": 5,
+          "next_word": 6
+        }
+      ],
+      "lang": 1,
+      "meta": {
+        "meter": "swsws",
+        "stanza": "4"
+      }
+    },
+    {
+      "text ": "She is living all alone",
+      "words": [
+        {
+          "wf": "She",
+          "wtype": "word",
+          "off_start": 0,
+          "off_end": 3,
+          "sentence_index": 0,
+          "next_word": 1,
+          "ana": {
+            "lex": "She",
+            "gr.pos": "PRP"
+          }
+        },
+        {
+          "wf": "is",
+          "wtype": "word",
+          "off_start": 3,
+          "off_end": 5,
+          "sentence_index": 1,
+          "next_word": 2,
+          "ana": {
+            "lex": "is",
+            "gr.pos": "VBZ"
+          }
+        },
+        {
+          "wf": "living",
+          "wtype": "word",
+          "off_start": 5,
+          "off_end": 11,
+          "sentence_index": 2,
+          "next_word": 3,
+          "ana": {
+            "lex": "living",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "all",
+          "wtype": "word",
+          "off_start": 11,
+          "off_end": 14,
+          "sentence_index": 3,
+          "next_word": 4,
+          "ana": {
+            "lex": "all",
+            "gr.pos": "DT"
+          }
+        },
+        {
+          "wf": "alone",
+          "wtype": "word",
+          "off_start": 14,
+          "off_end": 19,
+          "sentence_index": 4,
+          "next_word": 5,
+          "ana": {
+            "lex": "alone",
+            "gr.pos": "RB"
+          }
+        }
+      ],
+      "lang": 1,
+      "meta": {
+        "meter": "swswsws",
+        "stanza": "4"
+      }
+    },
+    {
+      "text ": "In this old house.",
+      "words": [
+        {
+          "wf": "In",
+          "wtype": "word",
+          "off_start": 0,
+          "off_end": 2,
+          "sentence_index": 0,
+          "next_word": 1,
+          "ana": {
+            "lex": "In",
+            "gr.pos": "IN"
+          }
+        },
+        {
+          "wf": "this",
+          "wtype": "word",
+          "off_start": 2,
+          "off_end": 6,
+          "sentence_index": 1,
+          "next_word": 2,
+          "ana": {
+            "lex": "this",
+            "gr.pos": "DT"
+          }
+        },
+        {
+          "wf": "old",
+          "wtype": "word",
+          "off_start": 6,
+          "off_end": 9,
+          "sentence_index": 2,
+          "next_word": 3,
+          "ana": {
+            "lex": "old",
+            "gr.pos": "JJ"
+          }
+        },
+        {
+          "wf": "house",
+          "wtype": "word",
+          "off_start": 9,
+          "off_end": 14,
+          "sentence_index": 3,
+          "next_word": 4,
+          "ana": {
+            "lex": "house",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": ".",
+          "wtype": "punct",
+          "off_start": 14,
+          "off_end": 15,
+          "sentence_index": 4,
+          "next_word": 5
+        }
+      ],
+      "lang": 1,
+      "meta": {
+        "meter": "wwsw",
+        "stanza": "4"
+      }
+    }
+  ]
+}
