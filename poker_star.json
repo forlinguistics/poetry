@@ -1,0 +1,554 @@
+{
+  "meta": {
+    "filename": "poker_star.json",
+    "title": "Poker Star",
+    "author": "Richard Brautigan",
+    "language": "English",
+    "school/period": "Beat",
+    "number_of_stanzas": "1",
+    "has_rhyme": "False",
+    "rhyme_scheme": "None"
+  },
+  "sentences": [
+    {
+      "text ": "It's a star that looks",
+      "words": [
+        {
+          "wf": "It",
+          "wtype": "word",
+          "off_start": 0,
+          "off_end": 2,
+          "sentence_index": 0,
+          "next_word": 1,
+          "ana": {
+            "lex": "It",
+            "gr.pos": "PRP"
+          }
+        },
+        {
+          "wf": "'s",
+          "wtype": "word",
+          "off_start": 2,
+          "off_end": 4,
+          "sentence_index": 1,
+          "next_word": 2,
+          "ana": {
+            "lex": "'s",
+            "gr.pos": "POS"
+          }
+        },
+        {
+          "wf": "a",
+          "wtype": "word",
+          "off_start": 4,
+          "off_end": 5,
+          "sentence_index": 2,
+          "next_word": 3,
+          "ana": {
+            "lex": "a",
+            "gr.pos": "DT"
+          }
+        },
+        {
+          "wf": "star",
+          "wtype": "word",
+          "off_start": 5,
+          "off_end": 9,
+          "sentence_index": 3,
+          "next_word": 4,
+          "ana": {
+            "lex": "star",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "that",
+          "wtype": "word",
+          "off_start": 9,
+          "off_end": 13,
+          "sentence_index": 4,
+          "next_word": 5,
+          "ana": {
+            "lex": "that",
+            "gr.pos": "IN"
+          }
+        },
+        {
+          "wf": "looks",
+          "wtype": "word",
+          "off_start": 13,
+          "off_end": 18,
+          "sentence_index": 5,
+          "next_word": 6,
+          "ana": {
+            "lex": "look",
+            "gr.pos": "NNS"
+          }
+        }
+      ],
+      "lang": 1,
+      "meta": {
+        "meter": "wwsws",
+        "stanza": "0"
+      }
+    },
+    {
+      "text ": "like a poker game above",
+      "words": [
+        {
+          "wf": "like",
+          "wtype": "word",
+          "off_start": 0,
+          "off_end": 4,
+          "sentence_index": 0,
+          "next_word": 1,
+          "ana": {
+            "lex": "like",
+            "gr.pos": "IN"
+          }
+        },
+        {
+          "wf": "a",
+          "wtype": "word",
+          "off_start": 4,
+          "off_end": 5,
+          "sentence_index": 1,
+          "next_word": 2,
+          "ana": {
+            "lex": "a",
+            "gr.pos": "DT"
+          }
+        },
+        {
+          "wf": "poker",
+          "wtype": "word",
+          "off_start": 5,
+          "off_end": 10,
+          "sentence_index": 2,
+          "next_word": 3,
+          "ana": {
+            "lex": "poker",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "game",
+          "wtype": "word",
+          "off_start": 10,
+          "off_end": 14,
+          "sentence_index": 3,
+          "next_word": 4,
+          "ana": {
+            "lex": "game",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "above",
+          "wtype": "word",
+          "off_start": 14,
+          "off_end": 19,
+          "sentence_index": 4,
+          "next_word": 5,
+          "ana": {
+            "lex": "above",
+            "gr.pos": "IN"
+          }
+        }
+      ],
+      "lang": 1,
+      "meta": {
+        "meter": "swswsws",
+        "stanza": "0"
+      }
+    },
+    {
+      "text ": "the mountains of eastern",
+      "words": [
+        {
+          "wf": "the",
+          "wtype": "word",
+          "off_start": 0,
+          "off_end": 3,
+          "sentence_index": 0,
+          "next_word": 1,
+          "ana": {
+            "lex": "the",
+            "gr.pos": "DT"
+          }
+        },
+        {
+          "wf": "mountains",
+          "wtype": "word",
+          "off_start": 3,
+          "off_end": 12,
+          "sentence_index": 1,
+          "next_word": 2,
+          "ana": {
+            "lex": "mountain",
+            "gr.pos": "NNS"
+          }
+        },
+        {
+          "wf": "of",
+          "wtype": "word",
+          "off_start": 12,
+          "off_end": 14,
+          "sentence_index": 2,
+          "next_word": 3,
+          "ana": {
+            "lex": "of",
+            "gr.pos": "IN"
+          }
+        },
+        {
+          "wf": "eastern",
+          "wtype": "word",
+          "off_start": 14,
+          "off_end": 21,
+          "sentence_index": 3,
+          "next_word": 4,
+          "ana": {
+            "lex": "eastern",
+            "gr.pos": "JJ"
+          }
+        }
+      ],
+      "lang": 1,
+      "meta": {
+        "meter": "wswwsw",
+        "stanza": "0"
+      }
+    },
+    {
+      "text ": "Oregon.",
+      "words": [
+        {
+          "wf": "Oregon",
+          "wtype": "word",
+          "off_start": 0,
+          "off_end": 6,
+          "sentence_index": 0,
+          "next_word": 1,
+          "ana": {
+            "lex": "Oregon",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": ".",
+          "wtype": "punct",
+          "off_start": 6,
+          "off_end": 7,
+          "sentence_index": 1,
+          "next_word": 2
+        }
+      ],
+      "lang": 1,
+      "meta": {
+        "meter": "sws",
+        "stanza": "0"
+      }
+    },
+    {
+      "text ": "There are three men playing.",
+      "words": [
+        {
+          "wf": "There",
+          "wtype": "word",
+          "off_start": 0,
+          "off_end": 5,
+          "sentence_index": 0,
+          "next_word": 1,
+          "ana": {
+            "lex": "There",
+            "gr.pos": "EX"
+          }
+        },
+        {
+          "wf": "are",
+          "wtype": "word",
+          "off_start": 5,
+          "off_end": 8,
+          "sentence_index": 1,
+          "next_word": 2,
+          "ana": {
+            "lex": "are",
+            "gr.pos": "VBP"
+          }
+        },
+        {
+          "wf": "three",
+          "wtype": "word",
+          "off_start": 8,
+          "off_end": 13,
+          "sentence_index": 2,
+          "next_word": 3,
+          "ana": {
+            "lex": "three",
+            "gr.pos": "CD"
+          }
+        },
+        {
+          "wf": "men",
+          "wtype": "word",
+          "off_start": 13,
+          "off_end": 16,
+          "sentence_index": 3,
+          "next_word": 4,
+          "ana": {
+            "lex": "men",
+            "gr.pos": "NNS"
+          }
+        },
+        {
+          "wf": "playing",
+          "wtype": "word",
+          "off_start": 16,
+          "off_end": 23,
+          "sentence_index": 4,
+          "next_word": 5,
+          "ana": {
+            "lex": "playing",
+            "gr.pos": "VBG"
+          }
+        },
+        {
+          "wf": ".",
+          "wtype": "punct",
+          "off_start": 23,
+          "off_end": 24,
+          "sentence_index": 5,
+          "next_word": 6
+        }
+      ],
+      "lang": 1,
+      "meta": {
+        "meter": "wwswsw",
+        "stanza": "0"
+      }
+    },
+    {
+      "text ": "They are all sheepherders.",
+      "words": [
+        {
+          "wf": "They",
+          "wtype": "word",
+          "off_start": 0,
+          "off_end": 4,
+          "sentence_index": 0,
+          "next_word": 1,
+          "ana": {
+            "lex": "They",
+            "gr.pos": "PRP"
+          }
+        },
+        {
+          "wf": "are",
+          "wtype": "word",
+          "off_start": 4,
+          "off_end": 7,
+          "sentence_index": 1,
+          "next_word": 2,
+          "ana": {
+            "lex": "are",
+            "gr.pos": "VBP"
+          }
+        },
+        {
+          "wf": "all",
+          "wtype": "word",
+          "off_start": 7,
+          "off_end": 10,
+          "sentence_index": 2,
+          "next_word": 3,
+          "ana": {
+            "lex": "all",
+            "gr.pos": "DT"
+          }
+        },
+        {
+          "wf": "sheepherders",
+          "wtype": "word",
+          "off_start": 10,
+          "off_end": 22,
+          "sentence_index": 3,
+          "next_word": 4,
+          "ana": {
+            "lex": "sheepherder",
+            "gr.pos": "NNS"
+          }
+        },
+        {
+          "wf": ".",
+          "wtype": "punct",
+          "off_start": 22,
+          "off_end": 23,
+          "sentence_index": 4,
+          "next_word": 5
+        }
+      ],
+      "lang": 1,
+      "meta": {
+        "meter": "swswsw",
+        "stanza": "0"
+      }
+    },
+    {
+      "text ": "One of them has two pair,",
+      "words": [
+        {
+          "wf": "One",
+          "wtype": "word",
+          "off_start": 0,
+          "off_end": 3,
+          "sentence_index": 0,
+          "next_word": 1,
+          "ana": {
+            "lex": "One",
+            "gr.pos": "CD"
+          }
+        },
+        {
+          "wf": "of",
+          "wtype": "word",
+          "off_start": 3,
+          "off_end": 5,
+          "sentence_index": 1,
+          "next_word": 2,
+          "ana": {
+            "lex": "of",
+            "gr.pos": "IN"
+          }
+        },
+        {
+          "wf": "them",
+          "wtype": "word",
+          "off_start": 5,
+          "off_end": 9,
+          "sentence_index": 2,
+          "next_word": 3,
+          "ana": {
+            "lex": "them",
+            "gr.pos": "PRP"
+          }
+        },
+        {
+          "wf": "has",
+          "wtype": "word",
+          "off_start": 9,
+          "off_end": 12,
+          "sentence_index": 3,
+          "next_word": 4,
+          "ana": {
+            "lex": "ha",
+            "gr.pos": "VBZ"
+          }
+        },
+        {
+          "wf": "two",
+          "wtype": "word",
+          "off_start": 12,
+          "off_end": 15,
+          "sentence_index": 4,
+          "next_word": 5,
+          "ana": {
+            "lex": "two",
+            "gr.pos": "CD"
+          }
+        },
+        {
+          "wf": "pair",
+          "wtype": "word",
+          "off_start": 15,
+          "off_end": 19,
+          "sentence_index": 5,
+          "next_word": 6,
+          "ana": {
+            "lex": "pair",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": ",",
+          "wtype": "punct",
+          "off_start": 19,
+          "off_end": 20,
+          "sentence_index": 6,
+          "next_word": 7
+        }
+      ],
+      "lang": 1,
+      "meta": {
+        "meter": "swwsws",
+        "stanza": "0"
+      }
+    },
+    {
+      "text ": "the others have nothing.",
+      "words": [
+        {
+          "wf": "the",
+          "wtype": "word",
+          "off_start": 0,
+          "off_end": 3,
+          "sentence_index": 0,
+          "next_word": 1,
+          "ana": {
+            "lex": "the",
+            "gr.pos": "DT"
+          }
+        },
+        {
+          "wf": "others",
+          "wtype": "word",
+          "off_start": 3,
+          "off_end": 9,
+          "sentence_index": 1,
+          "next_word": 2,
+          "ana": {
+            "lex": "others",
+            "gr.pos": "NNS"
+          }
+        },
+        {
+          "wf": "have",
+          "wtype": "word",
+          "off_start": 9,
+          "off_end": 13,
+          "sentence_index": 2,
+          "next_word": 3,
+          "ana": {
+            "lex": "have",
+            "gr.pos": "VB"
+          }
+        },
+        {
+          "wf": "nothing",
+          "wtype": "word",
+          "off_start": 13,
+          "off_end": 20,
+          "sentence_index": 3,
+          "next_word": 4,
+          "ana": {
+            "lex": "nothing",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": ".",
+          "wtype": "punct",
+          "off_start": 20,
+          "off_end": 21,
+          "sentence_index": 4,
+          "next_word": 5
+        }
+      ],
+      "lang": 1,
+      "meta": {
+        "meter": "wswssw",
+        "stanza": "0"
+      }
+    }
+  ]
+}

@@ -1,0 +1,748 @@
+{
+  "meta": {
+    "filename": "the_death_of_the_ball_turret_gunner.json",
+    "title": "The Death of the Ball Turret Gunner",
+    "author": "Randall Jarell",
+    "language": "English",
+    "school/period": "Fugitive",
+    "number_of_stanzas": "1",
+    "has_rhyme": "False",
+    "rhyme_scheme": "None"
+  },
+  "sentences": [
+    {
+      "text ": "From my mother's sleep I fell into the State,",
+      "words": [
+        {
+          "wf": "From",
+          "wtype": "word",
+          "off_start": 0,
+          "off_end": 4,
+          "sentence_index": 0,
+          "next_word": 1,
+          "ana": {
+            "lex": "From",
+            "gr.pos": "IN"
+          }
+        },
+        {
+          "wf": "my",
+          "wtype": "word",
+          "off_start": 4,
+          "off_end": 6,
+          "sentence_index": 1,
+          "next_word": 2,
+          "ana": {
+            "lex": "my",
+            "gr.pos": "PRP$"
+          }
+        },
+        {
+          "wf": "mother",
+          "wtype": "word",
+          "off_start": 6,
+          "off_end": 12,
+          "sentence_index": 2,
+          "next_word": 3,
+          "ana": {
+            "lex": "mother",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "'s",
+          "wtype": "word",
+          "off_start": 12,
+          "off_end": 14,
+          "sentence_index": 3,
+          "next_word": 4,
+          "ana": {
+            "lex": "'s",
+            "gr.pos": "POS"
+          }
+        },
+        {
+          "wf": "sleep",
+          "wtype": "word",
+          "off_start": 14,
+          "off_end": 19,
+          "sentence_index": 4,
+          "next_word": 5,
+          "ana": {
+            "lex": "sleep",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "I",
+          "wtype": "word",
+          "off_start": 19,
+          "off_end": 20,
+          "sentence_index": 5,
+          "next_word": 6,
+          "ana": {
+            "lex": "I",
+            "gr.pos": "PRP"
+          }
+        },
+        {
+          "wf": "fell",
+          "wtype": "word",
+          "off_start": 20,
+          "off_end": 24,
+          "sentence_index": 6,
+          "next_word": 7,
+          "ana": {
+            "lex": "fell",
+            "gr.pos": "VBD"
+          }
+        },
+        {
+          "wf": "into",
+          "wtype": "word",
+          "off_start": 24,
+          "off_end": 28,
+          "sentence_index": 7,
+          "next_word": 8,
+          "ana": {
+            "lex": "into",
+            "gr.pos": "IN"
+          }
+        },
+        {
+          "wf": "the",
+          "wtype": "word",
+          "off_start": 28,
+          "off_end": 31,
+          "sentence_index": 8,
+          "next_word": 9,
+          "ana": {
+            "lex": "the",
+            "gr.pos": "DT"
+          }
+        },
+        {
+          "wf": "State",
+          "wtype": "word",
+          "off_start": 31,
+          "off_end": 36,
+          "sentence_index": 9,
+          "next_word": 10,
+          "ana": {
+            "lex": "State",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": ",",
+          "wtype": "punct",
+          "off_start": 36,
+          "off_end": 37,
+          "sentence_index": 10,
+          "next_word": 11
+        }
+      ],
+      "lang": 1,
+      "meta": {
+        "meter": "wwswswswsws",
+        "stanza": "0"
+      }
+    },
+    {
+      "text ": "And I hunched in its belly till my wet fur froze.",
+      "words": [
+        {
+          "wf": "And",
+          "wtype": "word",
+          "off_start": 0,
+          "off_end": 3,
+          "sentence_index": 0,
+          "next_word": 1,
+          "ana": {
+            "lex": "And",
+            "gr.pos": "CC"
+          }
+        },
+        {
+          "wf": "I",
+          "wtype": "word",
+          "off_start": 3,
+          "off_end": 4,
+          "sentence_index": 1,
+          "next_word": 2,
+          "ana": {
+            "lex": "I",
+            "gr.pos": "PRP"
+          }
+        },
+        {
+          "wf": "hunched",
+          "wtype": "word",
+          "off_start": 4,
+          "off_end": 11,
+          "sentence_index": 2,
+          "next_word": 3,
+          "ana": {
+            "lex": "hunched",
+            "gr.pos": "VBN"
+          }
+        },
+        {
+          "wf": "in",
+          "wtype": "word",
+          "off_start": 11,
+          "off_end": 13,
+          "sentence_index": 3,
+          "next_word": 4,
+          "ana": {
+            "lex": "in",
+            "gr.pos": "IN"
+          }
+        },
+        {
+          "wf": "its",
+          "wtype": "word",
+          "off_start": 13,
+          "off_end": 16,
+          "sentence_index": 4,
+          "next_word": 5,
+          "ana": {
+            "lex": "it",
+            "gr.pos": "PRP$"
+          }
+        },
+        {
+          "wf": "belly",
+          "wtype": "word",
+          "off_start": 16,
+          "off_end": 21,
+          "sentence_index": 5,
+          "next_word": 6,
+          "ana": {
+            "lex": "belly",
+            "gr.pos": "RB"
+          }
+        },
+        {
+          "wf": "till",
+          "wtype": "word",
+          "off_start": 21,
+          "off_end": 25,
+          "sentence_index": 6,
+          "next_word": 7,
+          "ana": {
+            "lex": "till",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "my",
+          "wtype": "word",
+          "off_start": 25,
+          "off_end": 27,
+          "sentence_index": 7,
+          "next_word": 8,
+          "ana": {
+            "lex": "my",
+            "gr.pos": "PRP$"
+          }
+        },
+        {
+          "wf": "wet",
+          "wtype": "word",
+          "off_start": 27,
+          "off_end": 30,
+          "sentence_index": 8,
+          "next_word": 9,
+          "ana": {
+            "lex": "wet",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "fur",
+          "wtype": "word",
+          "off_start": 30,
+          "off_end": 33,
+          "sentence_index": 9,
+          "next_word": 10,
+          "ana": {
+            "lex": "fur",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "froze",
+          "wtype": "word",
+          "off_start": 33,
+          "off_end": 38,
+          "sentence_index": 10,
+          "next_word": 11,
+          "ana": {
+            "lex": "froze",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": ".",
+          "wtype": "punct",
+          "off_start": 38,
+          "off_end": 39,
+          "sentence_index": 11,
+          "next_word": 12
+        }
+      ],
+      "lang": 1,
+      "meta": {
+        "meter": "wwswwswswsws",
+        "stanza": "0"
+      }
+    },
+    {
+      "text ": "Six miles from earth, loosed from its dream of life,",
+      "words": [
+        {
+          "wf": "Six",
+          "wtype": "word",
+          "off_start": 0,
+          "off_end": 3,
+          "sentence_index": 0,
+          "next_word": 1,
+          "ana": {
+            "lex": "Six",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "miles",
+          "wtype": "word",
+          "off_start": 3,
+          "off_end": 8,
+          "sentence_index": 1,
+          "next_word": 2,
+          "ana": {
+            "lex": "mile",
+            "gr.pos": "NNS"
+          }
+        },
+        {
+          "wf": "from",
+          "wtype": "word",
+          "off_start": 8,
+          "off_end": 12,
+          "sentence_index": 2,
+          "next_word": 3,
+          "ana": {
+            "lex": "from",
+            "gr.pos": "IN"
+          }
+        },
+        {
+          "wf": "earth",
+          "wtype": "word",
+          "off_start": 12,
+          "off_end": 17,
+          "sentence_index": 3,
+          "next_word": 4,
+          "ana": {
+            "lex": "earth",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": ",",
+          "wtype": "punct",
+          "off_start": 17,
+          "off_end": 18,
+          "sentence_index": 4,
+          "next_word": 5
+        },
+        {
+          "wf": "loosed",
+          "wtype": "word",
+          "off_start": 18,
+          "off_end": 24,
+          "sentence_index": 5,
+          "next_word": 6,
+          "ana": {
+            "lex": "loosed",
+            "gr.pos": "VBN"
+          }
+        },
+        {
+          "wf": "from",
+          "wtype": "word",
+          "off_start": 24,
+          "off_end": 28,
+          "sentence_index": 6,
+          "next_word": 7,
+          "ana": {
+            "lex": "from",
+            "gr.pos": "IN"
+          }
+        },
+        {
+          "wf": "its",
+          "wtype": "word",
+          "off_start": 28,
+          "off_end": 31,
+          "sentence_index": 7,
+          "next_word": 8,
+          "ana": {
+            "lex": "it",
+            "gr.pos": "PRP$"
+          }
+        },
+        {
+          "wf": "dream",
+          "wtype": "word",
+          "off_start": 31,
+          "off_end": 36,
+          "sentence_index": 8,
+          "next_word": 9,
+          "ana": {
+            "lex": "dream",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "of",
+          "wtype": "word",
+          "off_start": 36,
+          "off_end": 38,
+          "sentence_index": 9,
+          "next_word": 10,
+          "ana": {
+            "lex": "of",
+            "gr.pos": "IN"
+          }
+        },
+        {
+          "wf": "life",
+          "wtype": "word",
+          "off_start": 38,
+          "off_end": 42,
+          "sentence_index": 10,
+          "next_word": 11,
+          "ana": {
+            "lex": "life",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": ",",
+          "wtype": "punct",
+          "off_start": 42,
+          "off_end": 43,
+          "sentence_index": 11,
+          "next_word": 12
+        }
+      ],
+      "lang": 1,
+      "meta": {
+        "meter": "sswsswwsws",
+        "stanza": "0"
+      }
+    },
+    {
+      "text ": "I woke to black flak and the nightmare fighters.",
+      "words": [
+        {
+          "wf": "I",
+          "wtype": "word",
+          "off_start": 0,
+          "off_end": 1,
+          "sentence_index": 0,
+          "next_word": 1,
+          "ana": {
+            "lex": "I",
+            "gr.pos": "PRP"
+          }
+        },
+        {
+          "wf": "woke",
+          "wtype": "word",
+          "off_start": 1,
+          "off_end": 5,
+          "sentence_index": 1,
+          "next_word": 2,
+          "ana": {
+            "lex": "woke",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "to",
+          "wtype": "word",
+          "off_start": 5,
+          "off_end": 7,
+          "sentence_index": 2,
+          "next_word": 3,
+          "ana": {
+            "lex": "to",
+            "gr.pos": "TO"
+          }
+        },
+        {
+          "wf": "black",
+          "wtype": "word",
+          "off_start": 7,
+          "off_end": 12,
+          "sentence_index": 3,
+          "next_word": 4,
+          "ana": {
+            "lex": "black",
+            "gr.pos": "JJ"
+          }
+        },
+        {
+          "wf": "flak",
+          "wtype": "word",
+          "off_start": 12,
+          "off_end": 16,
+          "sentence_index": 4,
+          "next_word": 5,
+          "ana": {
+            "lex": "flak",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "and",
+          "wtype": "word",
+          "off_start": 16,
+          "off_end": 19,
+          "sentence_index": 5,
+          "next_word": 6,
+          "ana": {
+            "lex": "and",
+            "gr.pos": "CC"
+          }
+        },
+        {
+          "wf": "the",
+          "wtype": "word",
+          "off_start": 19,
+          "off_end": 22,
+          "sentence_index": 6,
+          "next_word": 7,
+          "ana": {
+            "lex": "the",
+            "gr.pos": "DT"
+          }
+        },
+        {
+          "wf": "nightmare",
+          "wtype": "word",
+          "off_start": 22,
+          "off_end": 31,
+          "sentence_index": 7,
+          "next_word": 8,
+          "ana": {
+            "lex": "nightmare",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "fighters",
+          "wtype": "word",
+          "off_start": 31,
+          "off_end": 39,
+          "sentence_index": 8,
+          "next_word": 9,
+          "ana": {
+            "lex": "fighter",
+            "gr.pos": "NNS"
+          }
+        },
+        {
+          "wf": ".",
+          "wtype": "punct",
+          "off_start": 39,
+          "off_end": 40,
+          "sentence_index": 9,
+          "next_word": 10
+        }
+      ],
+      "lang": 1,
+      "meta": {
+        "meter": "wswsswwswsw",
+        "stanza": "0"
+      }
+    },
+    {
+      "text ": "When I died they washed me out of the turret with a hose.",
+      "words": [
+        {
+          "wf": "When",
+          "wtype": "word",
+          "off_start": 0,
+          "off_end": 4,
+          "sentence_index": 0,
+          "next_word": 1,
+          "ana": {
+            "lex": "When",
+            "gr.pos": "WRB"
+          }
+        },
+        {
+          "wf": "I",
+          "wtype": "word",
+          "off_start": 4,
+          "off_end": 5,
+          "sentence_index": 1,
+          "next_word": 2,
+          "ana": {
+            "lex": "I",
+            "gr.pos": "PRP"
+          }
+        },
+        {
+          "wf": "died",
+          "wtype": "word",
+          "off_start": 5,
+          "off_end": 9,
+          "sentence_index": 2,
+          "next_word": 3,
+          "ana": {
+            "lex": "died",
+            "gr.pos": "VBD"
+          }
+        },
+        {
+          "wf": "they",
+          "wtype": "word",
+          "off_start": 9,
+          "off_end": 13,
+          "sentence_index": 3,
+          "next_word": 4,
+          "ana": {
+            "lex": "they",
+            "gr.pos": "PRP"
+          }
+        },
+        {
+          "wf": "washed",
+          "wtype": "word",
+          "off_start": 13,
+          "off_end": 19,
+          "sentence_index": 4,
+          "next_word": 5,
+          "ana": {
+            "lex": "washed",
+            "gr.pos": "VBN"
+          }
+        },
+        {
+          "wf": "me",
+          "wtype": "word",
+          "off_start": 19,
+          "off_end": 21,
+          "sentence_index": 5,
+          "next_word": 6,
+          "ana": {
+            "lex": "me",
+            "gr.pos": "PRP"
+          }
+        },
+        {
+          "wf": "out",
+          "wtype": "word",
+          "off_start": 21,
+          "off_end": 24,
+          "sentence_index": 6,
+          "next_word": 7,
+          "ana": {
+            "lex": "out",
+            "gr.pos": "IN"
+          }
+        },
+        {
+          "wf": "of",
+          "wtype": "word",
+          "off_start": 24,
+          "off_end": 26,
+          "sentence_index": 7,
+          "next_word": 8,
+          "ana": {
+            "lex": "of",
+            "gr.pos": "IN"
+          }
+        },
+        {
+          "wf": "the",
+          "wtype": "word",
+          "off_start": 26,
+          "off_end": 29,
+          "sentence_index": 8,
+          "next_word": 9,
+          "ana": {
+            "lex": "the",
+            "gr.pos": "DT"
+          }
+        },
+        {
+          "wf": "turret",
+          "wtype": "word",
+          "off_start": 29,
+          "off_end": 35,
+          "sentence_index": 9,
+          "next_word": 10,
+          "ana": {
+            "lex": "turret",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "with",
+          "wtype": "word",
+          "off_start": 35,
+          "off_end": 39,
+          "sentence_index": 10,
+          "next_word": 11,
+          "ana": {
+            "lex": "with",
+            "gr.pos": "IN"
+          }
+        },
+        {
+          "wf": "a",
+          "wtype": "word",
+          "off_start": 39,
+          "off_end": 40,
+          "sentence_index": 11,
+          "next_word": 12,
+          "ana": {
+            "lex": "a",
+            "gr.pos": "DT"
+          }
+        },
+        {
+          "wf": "hose",
+          "wtype": "word",
+          "off_start": 40,
+          "off_end": 44,
+          "sentence_index": 12,
+          "next_word": 13,
+          "ana": {
+            "lex": "hose",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": ".",
+          "wtype": "punct",
+          "off_start": 44,
+          "off_end": 45,
+          "sentence_index": 13,
+          "next_word": 14
+        }
+      ],
+      "lang": 1,
+      "meta": {
+        "meter": "swswswswwswws",
+        "stanza": "0"
+      }
+    }
+  ]
+}

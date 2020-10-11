@@ -1,0 +1,440 @@
+{
+  "meta": {
+    "filename": "i_feel_horrible._she_doesn't.json",
+    "title": "I Feel Horrible. She Doesn't",
+    "author": "Richard Brautigan",
+    "language": "English",
+    "school/period": "Beat",
+    "number_of_stanzas": "1",
+    "has_rhyme": "False",
+    "rhyme_scheme": "None"
+  },
+  "sentences": [
+    {
+      "text ": "I feel horrible. She doesn't",
+      "words": [
+        {
+          "wf": "I",
+          "wtype": "word",
+          "off_start": 0,
+          "off_end": 1,
+          "sentence_index": 0,
+          "next_word": 1,
+          "ana": {
+            "lex": "I",
+            "gr.pos": "PRP"
+          }
+        },
+        {
+          "wf": "feel",
+          "wtype": "word",
+          "off_start": 1,
+          "off_end": 5,
+          "sentence_index": 1,
+          "next_word": 2,
+          "ana": {
+            "lex": "feel",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "horrible",
+          "wtype": "word",
+          "off_start": 5,
+          "off_end": 13,
+          "sentence_index": 2,
+          "next_word": 3,
+          "ana": {
+            "lex": "horrible",
+            "gr.pos": "JJ"
+          }
+        },
+        {
+          "wf": ".",
+          "wtype": "punct",
+          "off_start": 13,
+          "off_end": 14,
+          "sentence_index": 3,
+          "next_word": 4
+        },
+        {
+          "wf": "She",
+          "wtype": "word",
+          "off_start": 14,
+          "off_end": 17,
+          "sentence_index": 4,
+          "next_word": 5,
+          "ana": {
+            "lex": "She",
+            "gr.pos": "PRP"
+          }
+        },
+        {
+          "wf": "does",
+          "wtype": "word",
+          "off_start": 17,
+          "off_end": 21,
+          "sentence_index": 5,
+          "next_word": 6,
+          "ana": {
+            "lex": "doe",
+            "gr.pos": "VBZ"
+          }
+        },
+        {
+          "wf": "n't",
+          "wtype": "word",
+          "off_start": 21,
+          "off_end": 24,
+          "sentence_index": 6,
+          "next_word": 7,
+          "ana": {
+            "lex": "n't",
+            "gr.pos": "RB"
+          }
+        }
+      ],
+      "lang": 1,
+      "meta": {
+        "meter": "swswswsw",
+        "stanza": "0"
+      }
+    },
+    {
+      "text ": "love me and I wander around",
+      "words": [
+        {
+          "wf": "love",
+          "wtype": "word",
+          "off_start": 0,
+          "off_end": 4,
+          "sentence_index": 0,
+          "next_word": 1,
+          "ana": {
+            "lex": "love",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "me",
+          "wtype": "word",
+          "off_start": 4,
+          "off_end": 6,
+          "sentence_index": 1,
+          "next_word": 2,
+          "ana": {
+            "lex": "me",
+            "gr.pos": "PRP"
+          }
+        },
+        {
+          "wf": "and",
+          "wtype": "word",
+          "off_start": 6,
+          "off_end": 9,
+          "sentence_index": 2,
+          "next_word": 3,
+          "ana": {
+            "lex": "and",
+            "gr.pos": "CC"
+          }
+        },
+        {
+          "wf": "I",
+          "wtype": "word",
+          "off_start": 9,
+          "off_end": 10,
+          "sentence_index": 3,
+          "next_word": 4,
+          "ana": {
+            "lex": "I",
+            "gr.pos": "PRP"
+          }
+        },
+        {
+          "wf": "wander",
+          "wtype": "word",
+          "off_start": 10,
+          "off_end": 16,
+          "sentence_index": 4,
+          "next_word": 5,
+          "ana": {
+            "lex": "wander",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "around",
+          "wtype": "word",
+          "off_start": 16,
+          "off_end": 22,
+          "sentence_index": 5,
+          "next_word": 6,
+          "ana": {
+            "lex": "around",
+            "gr.pos": "IN"
+          }
+        }
+      ],
+      "lang": 1,
+      "meta": {
+        "meter": "swwsswws",
+        "stanza": "0"
+      }
+    },
+    {
+      "text ": "the house like a sewing machine",
+      "words": [
+        {
+          "wf": "the",
+          "wtype": "word",
+          "off_start": 0,
+          "off_end": 3,
+          "sentence_index": 0,
+          "next_word": 1,
+          "ana": {
+            "lex": "the",
+            "gr.pos": "DT"
+          }
+        },
+        {
+          "wf": "house",
+          "wtype": "word",
+          "off_start": 3,
+          "off_end": 8,
+          "sentence_index": 1,
+          "next_word": 2,
+          "ana": {
+            "lex": "house",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "like",
+          "wtype": "word",
+          "off_start": 8,
+          "off_end": 12,
+          "sentence_index": 2,
+          "next_word": 3,
+          "ana": {
+            "lex": "like",
+            "gr.pos": "IN"
+          }
+        },
+        {
+          "wf": "a",
+          "wtype": "word",
+          "off_start": 12,
+          "off_end": 13,
+          "sentence_index": 3,
+          "next_word": 4,
+          "ana": {
+            "lex": "a",
+            "gr.pos": "DT"
+          }
+        },
+        {
+          "wf": "sewing",
+          "wtype": "word",
+          "off_start": 13,
+          "off_end": 19,
+          "sentence_index": 4,
+          "next_word": 5,
+          "ana": {
+            "lex": "sewing",
+            "gr.pos": "VBG"
+          }
+        },
+        {
+          "wf": "machine",
+          "wtype": "word",
+          "off_start": 19,
+          "off_end": 26,
+          "sentence_index": 5,
+          "next_word": 6,
+          "ana": {
+            "lex": "machine",
+            "gr.pos": "NN"
+          }
+        }
+      ],
+      "lang": 1,
+      "meta": {
+        "meter": "wswwswws",
+        "stanza": "0"
+      }
+    },
+    {
+      "text ": "that's just finished sewing",
+      "words": [
+        {
+          "wf": "that",
+          "wtype": "word",
+          "off_start": 0,
+          "off_end": 4,
+          "sentence_index": 0,
+          "next_word": 1,
+          "ana": {
+            "lex": "that",
+            "gr.pos": "IN"
+          }
+        },
+        {
+          "wf": "'s",
+          "wtype": "word",
+          "off_start": 4,
+          "off_end": 6,
+          "sentence_index": 1,
+          "next_word": 2,
+          "ana": {
+            "lex": "'s",
+            "gr.pos": "POS"
+          }
+        },
+        {
+          "wf": "just",
+          "wtype": "word",
+          "off_start": 6,
+          "off_end": 10,
+          "sentence_index": 2,
+          "next_word": 3,
+          "ana": {
+            "lex": "just",
+            "gr.pos": "RB"
+          }
+        },
+        {
+          "wf": "finished",
+          "wtype": "word",
+          "off_start": 10,
+          "off_end": 18,
+          "sentence_index": 3,
+          "next_word": 4,
+          "ana": {
+            "lex": "finished",
+            "gr.pos": "VBN"
+          }
+        },
+        {
+          "wf": "sewing",
+          "wtype": "word",
+          "off_start": 18,
+          "off_end": 24,
+          "sentence_index": 4,
+          "next_word": 5,
+          "ana": {
+            "lex": "sewing",
+            "gr.pos": "VBG"
+          }
+        }
+      ],
+      "lang": 1,
+      "meta": {
+        "meter": "wsswsw",
+        "stanza": "0"
+      }
+    },
+    {
+  "text ": "a turd to a garbage can lid.",
+  "words": [
+    {
+      "wf": "a",
+      "wtype": "word",
+      "off_start": 0,
+      "off_end": 1,
+      "sentence_index": 0,
+      "next_word": 1,
+      "ana": {
+        "lex": "a",
+        "gr.pos": "DT"
+      }
+    },
+    {
+      "wf": "turd",
+      "wtype": "word",
+      "off_start": 1,
+      "off_end": 5,
+      "sentence_index": 1,
+      "next_word": 2,
+      "ana": {
+        "lex": "turd",
+        "gr.pos": "NN"
+      }
+    },
+    {
+      "wf": "to",
+      "wtype": "word",
+      "off_start": 5,
+      "off_end": 7,
+      "sentence_index": 2,
+      "next_word": 3,
+      "ana": {
+        "lex": "to",
+        "gr.pos": "TO"
+      }
+    },
+    {
+      "wf": "a",
+      "wtype": "word",
+      "off_start": 7,
+      "off_end": 8,
+      "sentence_index": 3,
+      "next_word": 4,
+      "ana": {
+        "lex": "a",
+        "gr.pos": "DT"
+      }
+    },
+    {
+      "wf": "garbage",
+      "wtype": "word",
+      "off_start": 8,
+      "off_end": 15,
+      "sentence_index": 4,
+      "next_word": 5,
+      "ana": {
+        "lex": "garbage",
+        "gr.pos": "NN"
+      }
+    },
+    {
+      "wf": "can",
+      "wtype": "word",
+      "off_start": 15,
+      "off_end": 18,
+      "sentence_index": 5,
+      "next_word": 6,
+      "ana": {
+        "lex": "can",
+        "gr.pos": "MD"
+      }
+    },
+    {
+      "wf": "lid",
+      "wtype": "word",
+      "off_start": 18,
+      "off_end": 21,
+      "sentence_index": 6,
+      "next_word": 7,
+      "ana": {
+        "lex": "lid",
+        "gr.pos": "NN"
+      }
+    },
+    {
+      "wf": ".",
+      "wtype": "punct",
+      "off_start": 21,
+      "off_end": 22,
+      "sentence_index": 7,
+      "next_word": 8
+    }
+  ],
+  "lang": 1,
+  "meta": {
+    "meter": "wswwswws",
+    "stanza": "0"
+  }
+}
+  ]
+}

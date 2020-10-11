@@ -1,0 +1,1830 @@
+{
+  "meta": {
+    "filename": "subway_wind.json",
+    "title": "Subway Wind",
+    "author": "Claude Mckay",
+    "language": "English",
+    "school/period": "Harlem Renaissance",
+    "number_of_stanzas": "1",
+    "has_rhyme": "true",
+    "rhyme_scheme": "0101232345456767"
+  },
+  "sentences": [
+    {
+      "text ": "Far down, down through the city's great gaunt gut",
+      "words": [
+        {
+          "wf": "Far",
+          "wtype": "word",
+          "off_start": 0,
+          "off_end": 3,
+          "sentence_index": 0,
+          "next_word": 1,
+          "ana": {
+            "lex": "Far",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "down",
+          "wtype": "word",
+          "off_start": 3,
+          "off_end": 7,
+          "sentence_index": 1,
+          "next_word": 2,
+          "ana": {
+            "lex": "down",
+            "gr.pos": "RB"
+          }
+        },
+        {
+          "wf": ",",
+          "wtype": "punct",
+          "off_start": 7,
+          "off_end": 8,
+          "sentence_index": 2,
+          "next_word": 3
+        },
+        {
+          "wf": "down",
+          "wtype": "word",
+          "off_start": 8,
+          "off_end": 12,
+          "sentence_index": 3,
+          "next_word": 4,
+          "ana": {
+            "lex": "down",
+            "gr.pos": "RB"
+          }
+        },
+        {
+          "wf": "through",
+          "wtype": "word",
+          "off_start": 12,
+          "off_end": 19,
+          "sentence_index": 4,
+          "next_word": 5,
+          "ana": {
+            "lex": "through",
+            "gr.pos": "IN"
+          }
+        },
+        {
+          "wf": "the",
+          "wtype": "word",
+          "off_start": 19,
+          "off_end": 22,
+          "sentence_index": 5,
+          "next_word": 6,
+          "ana": {
+            "lex": "the",
+            "gr.pos": "DT"
+          }
+        },
+        {
+          "wf": "city",
+          "wtype": "word",
+          "off_start": 22,
+          "off_end": 26,
+          "sentence_index": 6,
+          "next_word": 7,
+          "ana": {
+            "lex": "city",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "'s",
+          "wtype": "word",
+          "off_start": 26,
+          "off_end": 28,
+          "sentence_index": 7,
+          "next_word": 8,
+          "ana": {
+            "lex": "'s",
+            "gr.pos": "POS"
+          }
+        },
+        {
+          "wf": "great",
+          "wtype": "word",
+          "off_start": 28,
+          "off_end": 33,
+          "sentence_index": 8,
+          "next_word": 9,
+          "ana": {
+            "lex": "great",
+            "gr.pos": "JJ"
+          }
+        },
+        {
+          "wf": "gaunt",
+          "wtype": "word",
+          "off_start": 33,
+          "off_end": 38,
+          "sentence_index": 9,
+          "next_word": 10,
+          "ana": {
+            "lex": "gaunt",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "gut",
+          "wtype": "word",
+          "off_start": 38,
+          "off_end": 41,
+          "sentence_index": 10,
+          "next_word": 11,
+          "ana": {
+            "lex": "gut",
+            "gr.pos": "NN"
+          }
+        }
+      ],
+      "lang": 1,
+      "meta": {
+        "meter": "swswwswsws",
+        "stanza": "0"
+      }
+    },
+    {
+      "text ": "The gray train rushing bears the weary wind;",
+      "words": [
+        {
+          "wf": "The",
+          "wtype": "word",
+          "off_start": 0,
+          "off_end": 3,
+          "sentence_index": 0,
+          "next_word": 1,
+          "ana": {
+            "lex": "The",
+            "gr.pos": "DT"
+          }
+        },
+        {
+          "wf": "gray",
+          "wtype": "word",
+          "off_start": 3,
+          "off_end": 7,
+          "sentence_index": 1,
+          "next_word": 2,
+          "ana": {
+            "lex": "gray",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "train",
+          "wtype": "word",
+          "off_start": 7,
+          "off_end": 12,
+          "sentence_index": 2,
+          "next_word": 3,
+          "ana": {
+            "lex": "train",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "rushing",
+          "wtype": "word",
+          "off_start": 12,
+          "off_end": 19,
+          "sentence_index": 3,
+          "next_word": 4,
+          "ana": {
+            "lex": "rushing",
+            "gr.pos": "VBG"
+          }
+        },
+        {
+          "wf": "bears",
+          "wtype": "word",
+          "off_start": 19,
+          "off_end": 24,
+          "sentence_index": 4,
+          "next_word": 5,
+          "ana": {
+            "lex": "bear",
+            "gr.pos": "NNS"
+          }
+        },
+        {
+          "wf": "the",
+          "wtype": "word",
+          "off_start": 24,
+          "off_end": 27,
+          "sentence_index": 5,
+          "next_word": 6,
+          "ana": {
+            "lex": "the",
+            "gr.pos": "DT"
+          }
+        },
+        {
+          "wf": "weary",
+          "wtype": "word",
+          "off_start": 27,
+          "off_end": 32,
+          "sentence_index": 6,
+          "next_word": 7,
+          "ana": {
+            "lex": "weary",
+            "gr.pos": "JJ"
+          }
+        },
+        {
+          "wf": "wind",
+          "wtype": "word",
+          "off_start": 32,
+          "off_end": 36,
+          "sentence_index": 7,
+          "next_word": 8,
+          "ana": {
+            "lex": "wind",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": ";",
+          "wtype": "punct",
+          "off_start": 36,
+          "off_end": 37,
+          "sentence_index": 8,
+          "next_word": 9
+        }
+      ],
+      "lang": 1,
+      "meta": {
+        "meter": "wswswswsws",
+        "stanza": "0"
+      }
+    },
+    {
+      "text ": "In the packed cars the fans the crowd's breath cut,",
+      "words": [
+        {
+          "wf": "In",
+          "wtype": "word",
+          "off_start": 0,
+          "off_end": 2,
+          "sentence_index": 0,
+          "next_word": 1,
+          "ana": {
+            "lex": "In",
+            "gr.pos": "IN"
+          }
+        },
+        {
+          "wf": "the",
+          "wtype": "word",
+          "off_start": 2,
+          "off_end": 5,
+          "sentence_index": 1,
+          "next_word": 2,
+          "ana": {
+            "lex": "the",
+            "gr.pos": "DT"
+          }
+        },
+        {
+          "wf": "packed",
+          "wtype": "word",
+          "off_start": 5,
+          "off_end": 11,
+          "sentence_index": 2,
+          "next_word": 3,
+          "ana": {
+            "lex": "packed",
+            "gr.pos": "NNS"
+          }
+        },
+        {
+          "wf": "cars",
+          "wtype": "word",
+          "off_start": 11,
+          "off_end": 15,
+          "sentence_index": 3,
+          "next_word": 4,
+          "ana": {
+            "lex": "car",
+            "gr.pos": "NNS"
+          }
+        },
+        {
+          "wf": "the",
+          "wtype": "word",
+          "off_start": 15,
+          "off_end": 18,
+          "sentence_index": 4,
+          "next_word": 5,
+          "ana": {
+            "lex": "the",
+            "gr.pos": "DT"
+          }
+        },
+        {
+          "wf": "fans",
+          "wtype": "word",
+          "off_start": 18,
+          "off_end": 22,
+          "sentence_index": 5,
+          "next_word": 6,
+          "ana": {
+            "lex": "fan",
+            "gr.pos": "NNS"
+          }
+        },
+        {
+          "wf": "the",
+          "wtype": "word",
+          "off_start": 22,
+          "off_end": 25,
+          "sentence_index": 6,
+          "next_word": 7,
+          "ana": {
+            "lex": "the",
+            "gr.pos": "DT"
+          }
+        },
+        {
+          "wf": "crowd",
+          "wtype": "word",
+          "off_start": 25,
+          "off_end": 30,
+          "sentence_index": 7,
+          "next_word": 8,
+          "ana": {
+            "lex": "crowd",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "'s",
+          "wtype": "word",
+          "off_start": 30,
+          "off_end": 32,
+          "sentence_index": 8,
+          "next_word": 9,
+          "ana": {
+            "lex": "'s",
+            "gr.pos": "POS"
+          }
+        },
+        {
+          "wf": "breath",
+          "wtype": "word",
+          "off_start": 32,
+          "off_end": 38,
+          "sentence_index": 9,
+          "next_word": 10,
+          "ana": {
+            "lex": "breath",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "cut",
+          "wtype": "word",
+          "off_start": 38,
+          "off_end": 41,
+          "sentence_index": 10,
+          "next_word": 11,
+          "ana": {
+            "lex": "cut",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": ",",
+          "wtype": "punct",
+          "off_start": 41,
+          "off_end": 42,
+          "sentence_index": 11,
+          "next_word": 12
+        }
+      ],
+      "lang": 1,
+      "meta": {
+        "meter": "wwsswswsws",
+        "stanza": "0"
+      }
+    },
+    {
+      "text ": "Leaving the sick and heavy air behind.",
+      "words": [
+        {
+          "wf": "Leaving",
+          "wtype": "word",
+          "off_start": 0,
+          "off_end": 7,
+          "sentence_index": 0,
+          "next_word": 1,
+          "ana": {
+            "lex": "Leaving",
+            "gr.pos": "VBG"
+          }
+        },
+        {
+          "wf": "the",
+          "wtype": "word",
+          "off_start": 7,
+          "off_end": 10,
+          "sentence_index": 1,
+          "next_word": 2,
+          "ana": {
+            "lex": "the",
+            "gr.pos": "DT"
+          }
+        },
+        {
+          "wf": "sick",
+          "wtype": "word",
+          "off_start": 10,
+          "off_end": 14,
+          "sentence_index": 2,
+          "next_word": 3,
+          "ana": {
+            "lex": "sick",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "and",
+          "wtype": "word",
+          "off_start": 14,
+          "off_end": 17,
+          "sentence_index": 3,
+          "next_word": 4,
+          "ana": {
+            "lex": "and",
+            "gr.pos": "CC"
+          }
+        },
+        {
+          "wf": "heavy",
+          "wtype": "word",
+          "off_start": 17,
+          "off_end": 22,
+          "sentence_index": 4,
+          "next_word": 5,
+          "ana": {
+            "lex": "heavy",
+            "gr.pos": "JJ"
+          }
+        },
+        {
+          "wf": "air",
+          "wtype": "word",
+          "off_start": 22,
+          "off_end": 25,
+          "sentence_index": 5,
+          "next_word": 6,
+          "ana": {
+            "lex": "air",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "behind",
+          "wtype": "word",
+          "off_start": 25,
+          "off_end": 31,
+          "sentence_index": 6,
+          "next_word": 7,
+          "ana": {
+            "lex": "behind",
+            "gr.pos": "IN"
+          }
+        },
+        {
+          "wf": ".",
+          "wtype": "punct",
+          "off_start": 31,
+          "off_end": 32,
+          "sentence_index": 7,
+          "next_word": 8
+        }
+      ],
+      "lang": 1,
+      "meta": {
+        "meter": "swwswswsws",
+        "stanza": "0"
+      }
+    },
+    {
+      "text ": "And pale-cheeked children seek the upper door",
+      "words": [
+        {
+          "wf": "And",
+          "wtype": "word",
+          "off_start": 0,
+          "off_end": 3,
+          "sentence_index": 0,
+          "next_word": 1,
+          "ana": {
+            "lex": "And",
+            "gr.pos": "CC"
+          }
+        },
+        {
+          "wf": "pale-cheeked",
+          "wtype": "word",
+          "off_start": 3,
+          "off_end": 15,
+          "sentence_index": 1,
+          "next_word": 2,
+          "ana": {
+            "lex": "pale-cheeked",
+            "gr.pos": "JJ"
+          }
+        },
+        {
+          "wf": "children",
+          "wtype": "word",
+          "off_start": 15,
+          "off_end": 23,
+          "sentence_index": 2,
+          "next_word": 3,
+          "ana": {
+            "lex": "child",
+            "gr.pos": "NNS"
+          }
+        },
+        {
+          "wf": "seek",
+          "wtype": "word",
+          "off_start": 23,
+          "off_end": 27,
+          "sentence_index": 3,
+          "next_word": 4,
+          "ana": {
+            "lex": "seek",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "the",
+          "wtype": "word",
+          "off_start": 27,
+          "off_end": 30,
+          "sentence_index": 4,
+          "next_word": 5,
+          "ana": {
+            "lex": "the",
+            "gr.pos": "DT"
+          }
+        },
+        {
+          "wf": "upper",
+          "wtype": "word",
+          "off_start": 30,
+          "off_end": 35,
+          "sentence_index": 5,
+          "next_word": 6,
+          "ana": {
+            "lex": "upper",
+            "gr.pos": "JJ"
+          }
+        },
+        {
+          "wf": "door",
+          "wtype": "word",
+          "off_start": 35,
+          "off_end": 39,
+          "sentence_index": 6,
+          "next_word": 7,
+          "ana": {
+            "lex": "door",
+            "gr.pos": "NN"
+          }
+        }
+      ],
+      "lang": 1,
+      "meta": {
+        "meter": "wswswswsws",
+        "stanza": "0"
+      }
+    },
+    {
+      "text ": "To give their summer jackets to the breeze;",
+      "words": [
+        {
+          "wf": "To",
+          "wtype": "word",
+          "off_start": 0,
+          "off_end": 2,
+          "sentence_index": 0,
+          "next_word": 1,
+          "ana": {
+            "lex": "To",
+            "gr.pos": "TO"
+          }
+        },
+        {
+          "wf": "give",
+          "wtype": "word",
+          "off_start": 2,
+          "off_end": 6,
+          "sentence_index": 1,
+          "next_word": 2,
+          "ana": {
+            "lex": "give",
+            "gr.pos": "VB"
+          }
+        },
+        {
+          "wf": "their",
+          "wtype": "word",
+          "off_start": 6,
+          "off_end": 11,
+          "sentence_index": 2,
+          "next_word": 3,
+          "ana": {
+            "lex": "their",
+            "gr.pos": "PRP$"
+          }
+        },
+        {
+          "wf": "summer",
+          "wtype": "word",
+          "off_start": 11,
+          "off_end": 17,
+          "sentence_index": 3,
+          "next_word": 4,
+          "ana": {
+            "lex": "summer",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "jackets",
+          "wtype": "word",
+          "off_start": 17,
+          "off_end": 24,
+          "sentence_index": 4,
+          "next_word": 5,
+          "ana": {
+            "lex": "jacket",
+            "gr.pos": "NNS"
+          }
+        },
+        {
+          "wf": "to",
+          "wtype": "word",
+          "off_start": 24,
+          "off_end": 26,
+          "sentence_index": 5,
+          "next_word": 6,
+          "ana": {
+            "lex": "to",
+            "gr.pos": "TO"
+          }
+        },
+        {
+          "wf": "the",
+          "wtype": "word",
+          "off_start": 26,
+          "off_end": 29,
+          "sentence_index": 6,
+          "next_word": 7,
+          "ana": {
+            "lex": "the",
+            "gr.pos": "DT"
+          }
+        },
+        {
+          "wf": "breeze",
+          "wtype": "word",
+          "off_start": 29,
+          "off_end": 35,
+          "sentence_index": 7,
+          "next_word": 8,
+          "ana": {
+            "lex": "breeze",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": ";",
+          "wtype": "punct",
+          "off_start": 35,
+          "off_end": 36,
+          "sentence_index": 8,
+          "next_word": 9
+        }
+      ],
+      "lang": 1,
+      "meta": {
+        "meter": "wswswswsws",
+        "stanza": "0"
+      }
+    },
+    {
+      "text ": "Their laugh is swallowed in the deafening roar",
+      "words": [
+        {
+          "wf": "Their",
+          "wtype": "word",
+          "off_start": 0,
+          "off_end": 5,
+          "sentence_index": 0,
+          "next_word": 1,
+          "ana": {
+            "lex": "Their",
+            "gr.pos": "PRP$"
+          }
+        },
+        {
+          "wf": "laugh",
+          "wtype": "word",
+          "off_start": 5,
+          "off_end": 10,
+          "sentence_index": 1,
+          "next_word": 2,
+          "ana": {
+            "lex": "laugh",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "is",
+          "wtype": "word",
+          "off_start": 10,
+          "off_end": 12,
+          "sentence_index": 2,
+          "next_word": 3,
+          "ana": {
+            "lex": "is",
+            "gr.pos": "VBZ"
+          }
+        },
+        {
+          "wf": "swallowed",
+          "wtype": "word",
+          "off_start": 12,
+          "off_end": 21,
+          "sentence_index": 3,
+          "next_word": 4,
+          "ana": {
+            "lex": "swallowed",
+            "gr.pos": "VBN"
+          }
+        },
+        {
+          "wf": "in",
+          "wtype": "word",
+          "off_start": 21,
+          "off_end": 23,
+          "sentence_index": 4,
+          "next_word": 5,
+          "ana": {
+            "lex": "in",
+            "gr.pos": "IN"
+          }
+        },
+        {
+          "wf": "the",
+          "wtype": "word",
+          "off_start": 23,
+          "off_end": 26,
+          "sentence_index": 5,
+          "next_word": 6,
+          "ana": {
+            "lex": "the",
+            "gr.pos": "DT"
+          }
+        },
+        {
+          "wf": "deafening",
+          "wtype": "word",
+          "off_start": 26,
+          "off_end": 35,
+          "sentence_index": 6,
+          "next_word": 7,
+          "ana": {
+            "lex": "deafening",
+            "gr.pos": "VBG"
+          }
+        },
+        {
+          "wf": "roar",
+          "wtype": "word",
+          "off_start": 35,
+          "off_end": 39,
+          "sentence_index": 7,
+          "next_word": 8,
+          "ana": {
+            "lex": "roar",
+            "gr.pos": "NN"
+          }
+        }
+      ],
+      "lang": 1,
+      "meta": {
+        "meter": "wswswswsws",
+        "stanza": "0"
+      }
+    },
+    {
+      "text ": "Of captive wind that moans for fields and seas;",
+      "words": [
+        {
+          "wf": "Of",
+          "wtype": "word",
+          "off_start": 0,
+          "off_end": 2,
+          "sentence_index": 0,
+          "next_word": 1,
+          "ana": {
+            "lex": "Of",
+            "gr.pos": "IN"
+          }
+        },
+        {
+          "wf": "captive",
+          "wtype": "word",
+          "off_start": 2,
+          "off_end": 9,
+          "sentence_index": 1,
+          "next_word": 2,
+          "ana": {
+            "lex": "captive",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "wind",
+          "wtype": "word",
+          "off_start": 9,
+          "off_end": 13,
+          "sentence_index": 2,
+          "next_word": 3,
+          "ana": {
+            "lex": "wind",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "that",
+          "wtype": "word",
+          "off_start": 13,
+          "off_end": 17,
+          "sentence_index": 3,
+          "next_word": 4,
+          "ana": {
+            "lex": "that",
+            "gr.pos": "IN"
+          }
+        },
+        {
+          "wf": "moans",
+          "wtype": "word",
+          "off_start": 17,
+          "off_end": 22,
+          "sentence_index": 4,
+          "next_word": 5,
+          "ana": {
+            "lex": "moan",
+            "gr.pos": "NNS"
+          }
+        },
+        {
+          "wf": "for",
+          "wtype": "word",
+          "off_start": 22,
+          "off_end": 25,
+          "sentence_index": 5,
+          "next_word": 6,
+          "ana": {
+            "lex": "for",
+            "gr.pos": "IN"
+          }
+        },
+        {
+          "wf": "fields",
+          "wtype": "word",
+          "off_start": 25,
+          "off_end": 31,
+          "sentence_index": 6,
+          "next_word": 7,
+          "ana": {
+            "lex": "field",
+            "gr.pos": "NNS"
+          }
+        },
+        {
+          "wf": "and",
+          "wtype": "word",
+          "off_start": 31,
+          "off_end": 34,
+          "sentence_index": 7,
+          "next_word": 8,
+          "ana": {
+            "lex": "and",
+            "gr.pos": "CC"
+          }
+        },
+        {
+          "wf": "seas",
+          "wtype": "word",
+          "off_start": 34,
+          "off_end": 38,
+          "sentence_index": 8,
+          "next_word": 9,
+          "ana": {
+            "lex": "sea",
+            "gr.pos": "NNS"
+          }
+        },
+        {
+          "wf": ";",
+          "wtype": "punct",
+          "off_start": 38,
+          "off_end": 39,
+          "sentence_index": 9,
+          "next_word": 10
+        }
+      ],
+      "lang": 1,
+      "meta": {
+        "meter": "wswswswsws",
+        "stanza": "0"
+      }
+    },
+    {
+      "text ": "Seas cooling warm where native schooners drift",
+      "words": [
+        {
+          "wf": "Seas",
+          "wtype": "word",
+          "off_start": 0,
+          "off_end": 4,
+          "sentence_index": 0,
+          "next_word": 1,
+          "ana": {
+            "lex": "Seas",
+            "gr.pos": "NNS"
+          }
+        },
+        {
+          "wf": "cooling",
+          "wtype": "word",
+          "off_start": 4,
+          "off_end": 11,
+          "sentence_index": 1,
+          "next_word": 2,
+          "ana": {
+            "lex": "cooling",
+            "gr.pos": "VBG"
+          }
+        },
+        {
+          "wf": "warm",
+          "wtype": "word",
+          "off_start": 11,
+          "off_end": 15,
+          "sentence_index": 2,
+          "next_word": 3,
+          "ana": {
+            "lex": "warm",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "where",
+          "wtype": "word",
+          "off_start": 15,
+          "off_end": 20,
+          "sentence_index": 3,
+          "next_word": 4,
+          "ana": {
+            "lex": "where",
+            "gr.pos": "WRB"
+          }
+        },
+        {
+          "wf": "native",
+          "wtype": "word",
+          "off_start": 20,
+          "off_end": 26,
+          "sentence_index": 4,
+          "next_word": 5,
+          "ana": {
+            "lex": "native",
+            "gr.pos": "JJ"
+          }
+        },
+        {
+          "wf": "schooners",
+          "wtype": "word",
+          "off_start": 26,
+          "off_end": 35,
+          "sentence_index": 5,
+          "next_word": 6,
+          "ana": {
+            "lex": "schooner",
+            "gr.pos": "NNS"
+          }
+        },
+        {
+          "wf": "drift",
+          "wtype": "word",
+          "off_start": 35,
+          "off_end": 40,
+          "sentence_index": 6,
+          "next_word": 7,
+          "ana": {
+            "lex": "drift",
+            "gr.pos": "NN"
+          }
+        }
+      ],
+      "lang": 1,
+      "meta": {
+        "meter": "sswswswsws",
+        "stanza": "0"
+      }
+    },
+    {
+      "text ": "Through sleepy waters, while gulls wheel and sweep,",
+      "words": [
+        {
+          "wf": "Through",
+          "wtype": "word",
+          "off_start": 0,
+          "off_end": 7,
+          "sentence_index": 0,
+          "next_word": 1,
+          "ana": {
+            "lex": "Through",
+            "gr.pos": "IN"
+          }
+        },
+        {
+          "wf": "sleepy",
+          "wtype": "word",
+          "off_start": 7,
+          "off_end": 13,
+          "sentence_index": 1,
+          "next_word": 2,
+          "ana": {
+            "lex": "sleepy",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "waters",
+          "wtype": "word",
+          "off_start": 13,
+          "off_end": 19,
+          "sentence_index": 2,
+          "next_word": 3,
+          "ana": {
+            "lex": "water",
+            "gr.pos": "NNS"
+          }
+        },
+        {
+          "wf": ",",
+          "wtype": "punct",
+          "off_start": 19,
+          "off_end": 20,
+          "sentence_index": 3,
+          "next_word": 4
+        },
+        {
+          "wf": "while",
+          "wtype": "word",
+          "off_start": 20,
+          "off_end": 25,
+          "sentence_index": 4,
+          "next_word": 5,
+          "ana": {
+            "lex": "while",
+            "gr.pos": "IN"
+          }
+        },
+        {
+          "wf": "gulls",
+          "wtype": "word",
+          "off_start": 25,
+          "off_end": 30,
+          "sentence_index": 5,
+          "next_word": 6,
+          "ana": {
+            "lex": "gull",
+            "gr.pos": "NNS"
+          }
+        },
+        {
+          "wf": "wheel",
+          "wtype": "word",
+          "off_start": 30,
+          "off_end": 35,
+          "sentence_index": 6,
+          "next_word": 7,
+          "ana": {
+            "lex": "wheel",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "and",
+          "wtype": "word",
+          "off_start": 35,
+          "off_end": 38,
+          "sentence_index": 7,
+          "next_word": 8,
+          "ana": {
+            "lex": "and",
+            "gr.pos": "CC"
+          }
+        },
+        {
+          "wf": "sweep",
+          "wtype": "word",
+          "off_start": 38,
+          "off_end": 43,
+          "sentence_index": 8,
+          "next_word": 9,
+          "ana": {
+            "lex": "sweep",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": ",",
+          "wtype": "punct",
+          "off_start": 43,
+          "off_end": 44,
+          "sentence_index": 9,
+          "next_word": 10
+        }
+      ],
+      "lang": 1,
+      "meta": {
+        "meter": "wswswswsws",
+        "stanza": "0"
+      }
+    },
+    {
+      "text ": "Waiting for windy waves the keels to lift",
+      "words": [
+        {
+          "wf": "Waiting",
+          "wtype": "word",
+          "off_start": 0,
+          "off_end": 7,
+          "sentence_index": 0,
+          "next_word": 1,
+          "ana": {
+            "lex": "Waiting",
+            "gr.pos": "VBG"
+          }
+        },
+        {
+          "wf": "for",
+          "wtype": "word",
+          "off_start": 7,
+          "off_end": 10,
+          "sentence_index": 1,
+          "next_word": 2,
+          "ana": {
+            "lex": "for",
+            "gr.pos": "IN"
+          }
+        },
+        {
+          "wf": "windy",
+          "wtype": "word",
+          "off_start": 10,
+          "off_end": 15,
+          "sentence_index": 2,
+          "next_word": 3,
+          "ana": {
+            "lex": "windy",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "waves",
+          "wtype": "word",
+          "off_start": 15,
+          "off_end": 20,
+          "sentence_index": 3,
+          "next_word": 4,
+          "ana": {
+            "lex": "wave",
+            "gr.pos": "NNS"
+          }
+        },
+        {
+          "wf": "the",
+          "wtype": "word",
+          "off_start": 20,
+          "off_end": 23,
+          "sentence_index": 4,
+          "next_word": 5,
+          "ana": {
+            "lex": "the",
+            "gr.pos": "DT"
+          }
+        },
+        {
+          "wf": "keels",
+          "wtype": "word",
+          "off_start": 23,
+          "off_end": 28,
+          "sentence_index": 5,
+          "next_word": 6,
+          "ana": {
+            "lex": "keel",
+            "gr.pos": "NNS"
+          }
+        },
+        {
+          "wf": "to",
+          "wtype": "word",
+          "off_start": 28,
+          "off_end": 30,
+          "sentence_index": 6,
+          "next_word": 7,
+          "ana": {
+            "lex": "to",
+            "gr.pos": "TO"
+          }
+        },
+        {
+          "wf": "lift",
+          "wtype": "word",
+          "off_start": 30,
+          "off_end": 34,
+          "sentence_index": 7,
+          "next_word": 8,
+          "ana": {
+            "lex": "lift",
+            "gr.pos": "NN"
+          }
+        }
+      ],
+      "lang": 1,
+      "meta": {
+        "meter": "swwswswsws",
+        "stanza": "0"
+      }
+    },
+    {
+      "text ": "Lightly among the islands of the deep;",
+      "words": [
+        {
+          "wf": "Lightly",
+          "wtype": "word",
+          "off_start": 0,
+          "off_end": 7,
+          "sentence_index": 0,
+          "next_word": 1,
+          "ana": {
+            "lex": "Lightly",
+            "gr.pos": "RB"
+          }
+        },
+        {
+          "wf": "among",
+          "wtype": "word",
+          "off_start": 7,
+          "off_end": 12,
+          "sentence_index": 1,
+          "next_word": 2,
+          "ana": {
+            "lex": "among",
+            "gr.pos": "IN"
+          }
+        },
+        {
+          "wf": "the",
+          "wtype": "word",
+          "off_start": 12,
+          "off_end": 15,
+          "sentence_index": 2,
+          "next_word": 3,
+          "ana": {
+            "lex": "the",
+            "gr.pos": "DT"
+          }
+        },
+        {
+          "wf": "islands",
+          "wtype": "word",
+          "off_start": 15,
+          "off_end": 22,
+          "sentence_index": 3,
+          "next_word": 4,
+          "ana": {
+            "lex": "island",
+            "gr.pos": "NNS"
+          }
+        },
+        {
+          "wf": "of",
+          "wtype": "word",
+          "off_start": 22,
+          "off_end": 24,
+          "sentence_index": 4,
+          "next_word": 5,
+          "ana": {
+            "lex": "of",
+            "gr.pos": "IN"
+          }
+        },
+        {
+          "wf": "the",
+          "wtype": "word",
+          "off_start": 24,
+          "off_end": 27,
+          "sentence_index": 5,
+          "next_word": 6,
+          "ana": {
+            "lex": "the",
+            "gr.pos": "DT"
+          }
+        },
+        {
+          "wf": "deep",
+          "wtype": "word",
+          "off_start": 27,
+          "off_end": 31,
+          "sentence_index": 6,
+          "next_word": 7,
+          "ana": {
+            "lex": "deep",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": ";",
+          "wtype": "punct",
+          "off_start": 31,
+          "off_end": 32,
+          "sentence_index": 7,
+          "next_word": 8
+        }
+      ],
+      "lang": 1,
+      "meta": {
+        "meter": "swwswswsws",
+        "stanza": "0"
+      }
+    },
+    {
+      "text ": "Islands of lofty palm trees blooming white",
+      "words": [
+        {
+          "wf": "Islands",
+          "wtype": "word",
+          "off_start": 0,
+          "off_end": 7,
+          "sentence_index": 0,
+          "next_word": 1,
+          "ana": {
+            "lex": "Islands",
+            "gr.pos": "NNS"
+          }
+        },
+        {
+          "wf": "of",
+          "wtype": "word",
+          "off_start": 7,
+          "off_end": 9,
+          "sentence_index": 1,
+          "next_word": 2,
+          "ana": {
+            "lex": "of",
+            "gr.pos": "IN"
+          }
+        },
+        {
+          "wf": "lofty",
+          "wtype": "word",
+          "off_start": 9,
+          "off_end": 14,
+          "sentence_index": 2,
+          "next_word": 3,
+          "ana": {
+            "lex": "lofty",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "palm",
+          "wtype": "word",
+          "off_start": 14,
+          "off_end": 18,
+          "sentence_index": 3,
+          "next_word": 4,
+          "ana": {
+            "lex": "palm",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "trees",
+          "wtype": "word",
+          "off_start": 18,
+          "off_end": 23,
+          "sentence_index": 4,
+          "next_word": 5,
+          "ana": {
+            "lex": "tree",
+            "gr.pos": "NNS"
+          }
+        },
+        {
+          "wf": "blooming",
+          "wtype": "word",
+          "off_start": 23,
+          "off_end": 31,
+          "sentence_index": 5,
+          "next_word": 6,
+          "ana": {
+            "lex": "blooming",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "white",
+          "wtype": "word",
+          "off_start": 31,
+          "off_end": 36,
+          "sentence_index": 6,
+          "next_word": 7,
+          "ana": {
+            "lex": "white",
+            "gr.pos": "JJ"
+          }
+        }
+      ],
+      "lang": 1,
+      "meta": {
+        "meter": "swwswswsws",
+        "stanza": "0"
+      }
+    },
+    {
+      "text ": "That led their perfume to the tropic sea,",
+      "words": [
+        {
+          "wf": "That",
+          "wtype": "word",
+          "off_start": 0,
+          "off_end": 4,
+          "sentence_index": 0,
+          "next_word": 1,
+          "ana": {
+            "lex": "That",
+            "gr.pos": "DT"
+          }
+        },
+        {
+          "wf": "led",
+          "wtype": "word",
+          "off_start": 4,
+          "off_end": 7,
+          "sentence_index": 1,
+          "next_word": 2,
+          "ana": {
+            "lex": "led",
+            "gr.pos": "VBN"
+          }
+        },
+        {
+          "wf": "their",
+          "wtype": "word",
+          "off_start": 7,
+          "off_end": 12,
+          "sentence_index": 2,
+          "next_word": 3,
+          "ana": {
+            "lex": "their",
+            "gr.pos": "PRP$"
+          }
+        },
+        {
+          "wf": "perfume",
+          "wtype": "word",
+          "off_start": 12,
+          "off_end": 19,
+          "sentence_index": 3,
+          "next_word": 4,
+          "ana": {
+            "lex": "perfume",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "to",
+          "wtype": "word",
+          "off_start": 19,
+          "off_end": 21,
+          "sentence_index": 4,
+          "next_word": 5,
+          "ana": {
+            "lex": "to",
+            "gr.pos": "TO"
+          }
+        },
+        {
+          "wf": "the",
+          "wtype": "word",
+          "off_start": 21,
+          "off_end": 24,
+          "sentence_index": 5,
+          "next_word": 6,
+          "ana": {
+            "lex": "the",
+            "gr.pos": "DT"
+          }
+        },
+        {
+          "wf": "tropic",
+          "wtype": "word",
+          "off_start": 24,
+          "off_end": 30,
+          "sentence_index": 6,
+          "next_word": 7,
+          "ana": {
+            "lex": "tropic",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "sea",
+          "wtype": "word",
+          "off_start": 30,
+          "off_end": 33,
+          "sentence_index": 7,
+          "next_word": 8,
+          "ana": {
+            "lex": "sea",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": ",",
+          "wtype": "punct",
+          "off_start": 33,
+          "off_end": 34,
+          "sentence_index": 8,
+          "next_word": 9
+        }
+      ],
+      "lang": 1,
+      "meta": {
+        "meter": "wswwswwsws",
+        "stanza": "0"
+      }
+    },
+    {
+      "text ": "Where fields lie idle in the dew-drenched night,",
+      "words": [
+        {
+          "wf": "Where",
+          "wtype": "word",
+          "off_start": 0,
+          "off_end": 5,
+          "sentence_index": 0,
+          "next_word": 1,
+          "ana": {
+            "lex": "Where",
+            "gr.pos": "WRB"
+          }
+        },
+        {
+          "wf": "fields",
+          "wtype": "word",
+          "off_start": 5,
+          "off_end": 11,
+          "sentence_index": 1,
+          "next_word": 2,
+          "ana": {
+            "lex": "field",
+            "gr.pos": "NNS"
+          }
+        },
+        {
+          "wf": "lie",
+          "wtype": "word",
+          "off_start": 11,
+          "off_end": 14,
+          "sentence_index": 2,
+          "next_word": 3,
+          "ana": {
+            "lex": "lie",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "idle",
+          "wtype": "word",
+          "off_start": 14,
+          "off_end": 18,
+          "sentence_index": 3,
+          "next_word": 4,
+          "ana": {
+            "lex": "idle",
+            "gr.pos": "JJ"
+          }
+        },
+        {
+          "wf": "in",
+          "wtype": "word",
+          "off_start": 18,
+          "off_end": 20,
+          "sentence_index": 4,
+          "next_word": 5,
+          "ana": {
+            "lex": "in",
+            "gr.pos": "IN"
+          }
+        },
+        {
+          "wf": "the",
+          "wtype": "word",
+          "off_start": 20,
+          "off_end": 23,
+          "sentence_index": 5,
+          "next_word": 6,
+          "ana": {
+            "lex": "the",
+            "gr.pos": "DT"
+          }
+        },
+        {
+          "wf": "dew-drenched",
+          "wtype": "word",
+          "off_start": 23,
+          "off_end": 35,
+          "sentence_index": 6,
+          "next_word": 7,
+          "ana": {
+            "lex": "dew-drenched",
+            "gr.pos": "JJ"
+          }
+        },
+        {
+          "wf": "night",
+          "wtype": "word",
+          "off_start": 35,
+          "off_end": 40,
+          "sentence_index": 7,
+          "next_word": 8,
+          "ana": {
+            "lex": "night",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": ",",
+          "wtype": "punct",
+          "off_start": 40,
+          "off_end": 41,
+          "sentence_index": 8,
+          "next_word": 9
+        }
+      ],
+      "lang": 1,
+      "meta": {
+        "meter": "wswswswsws",
+        "stanza": "0"
+      }
+    },
+    {
+      "text ": "And the Trades float above them fresh and free.",
+      "words": [
+        {
+          "wf": "And",
+          "wtype": "word",
+          "off_start": 0,
+          "off_end": 3,
+          "sentence_index": 0,
+          "next_word": 1,
+          "ana": {
+            "lex": "And",
+            "gr.pos": "CC"
+          }
+        },
+        {
+          "wf": "the",
+          "wtype": "word",
+          "off_start": 3,
+          "off_end": 6,
+          "sentence_index": 1,
+          "next_word": 2,
+          "ana": {
+            "lex": "the",
+            "gr.pos": "DT"
+          }
+        },
+        {
+          "wf": "Trades",
+          "wtype": "word",
+          "off_start": 6,
+          "off_end": 12,
+          "sentence_index": 2,
+          "next_word": 3,
+          "ana": {
+            "lex": "Trades",
+            "gr.pos": "NNS"
+          }
+        },
+        {
+          "wf": "float",
+          "wtype": "word",
+          "off_start": 12,
+          "off_end": 17,
+          "sentence_index": 3,
+          "next_word": 4,
+          "ana": {
+            "lex": "float",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "above",
+          "wtype": "word",
+          "off_start": 17,
+          "off_end": 22,
+          "sentence_index": 4,
+          "next_word": 5,
+          "ana": {
+            "lex": "above",
+            "gr.pos": "IN"
+          }
+        },
+        {
+          "wf": "them",
+          "wtype": "word",
+          "off_start": 22,
+          "off_end": 26,
+          "sentence_index": 5,
+          "next_word": 6,
+          "ana": {
+            "lex": "them",
+            "gr.pos": "PRP"
+          }
+        },
+        {
+          "wf": "fresh",
+          "wtype": "word",
+          "off_start": 26,
+          "off_end": 31,
+          "sentence_index": 6,
+          "next_word": 7,
+          "ana": {
+            "lex": "fresh",
+            "gr.pos": "JJ"
+          }
+        },
+        {
+          "wf": "and",
+          "wtype": "word",
+          "off_start": 31,
+          "off_end": 34,
+          "sentence_index": 7,
+          "next_word": 8,
+          "ana": {
+            "lex": "and",
+            "gr.pos": "CC"
+          }
+        },
+        {
+          "wf": "free",
+          "wtype": "word",
+          "off_start": 34,
+          "off_end": 38,
+          "sentence_index": 8,
+          "next_word": 9,
+          "ana": {
+            "lex": "free",
+            "gr.pos": "JJ"
+          }
+        },
+        {
+          "wf": ".",
+          "wtype": "punct",
+          "off_start": 38,
+          "off_end": 39,
+          "sentence_index": 9,
+          "next_word": 10
+        }
+      ],
+      "lang": 1,
+      "meta": {
+        "meter": "wwsswswsws",
+        "stanza": "0"
+      }
+    }
+  ]
+}

@@ -1,0 +1,968 @@
+{
+  "meta": {
+    "filename": "blizzard.json",
+    "title": "Blizzard",
+    "author": "William Carlos Williams",
+    "language": "English",
+    "school/period": "Imagist",
+    "number_of_stanzas": "1",
+    "has_rhyme": "False",
+    "rhyme_scheme": "None"
+  },
+  "sentences": [
+    {
+      "text ": "Snow:",
+      "words": [
+        {
+          "wf": "Snow",
+          "wtype": "word",
+          "off_start": 0,
+          "off_end": 4,
+          "sentence_index": 0,
+          "next_word": 1,
+          "ana": {
+            "lex": "Snow",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": ":",
+          "wtype": "punct",
+          "off_start": 4,
+          "off_end": 5,
+          "sentence_index": 1,
+          "next_word": 2
+        }
+      ],
+      "lang": 1,
+      "meta": {
+        "meter": "s",
+        "stanza": "0"
+      }
+    },
+    {
+      "text ": "years of anger following",
+      "words": [
+        {
+          "wf": "years",
+          "wtype": "word",
+          "off_start": 0,
+          "off_end": 5,
+          "sentence_index": 0,
+          "next_word": 1,
+          "ana": {
+            "lex": "year",
+            "gr.pos": "NNS"
+          }
+        },
+        {
+          "wf": "of",
+          "wtype": "word",
+          "off_start": 5,
+          "off_end": 7,
+          "sentence_index": 1,
+          "next_word": 2,
+          "ana": {
+            "lex": "of",
+            "gr.pos": "IN"
+          }
+        },
+        {
+          "wf": "anger",
+          "wtype": "word",
+          "off_start": 7,
+          "off_end": 12,
+          "sentence_index": 2,
+          "next_word": 3,
+          "ana": {
+            "lex": "anger",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "following",
+          "wtype": "word",
+          "off_start": 12,
+          "off_end": 21,
+          "sentence_index": 3,
+          "next_word": 4,
+          "ana": {
+            "lex": "following",
+            "gr.pos": "VBG"
+          }
+        }
+      ],
+      "lang": 1,
+      "meta": {
+        "meter": "swswsws",
+        "stanza": "0"
+      }
+    },
+    {
+      "text ": "hours that float idly down \u2014",
+      "words": [
+        {
+          "wf": "hours",
+          "wtype": "word",
+          "off_start": 0,
+          "off_end": 5,
+          "sentence_index": 0,
+          "next_word": 1,
+          "ana": {
+            "lex": "hour",
+            "gr.pos": "NNS"
+          }
+        },
+        {
+          "wf": "that",
+          "wtype": "word",
+          "off_start": 5,
+          "off_end": 9,
+          "sentence_index": 1,
+          "next_word": 2,
+          "ana": {
+            "lex": "that",
+            "gr.pos": "IN"
+          }
+        },
+        {
+          "wf": "float",
+          "wtype": "word",
+          "off_start": 9,
+          "off_end": 14,
+          "sentence_index": 2,
+          "next_word": 3,
+          "ana": {
+            "lex": "float",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "idly",
+          "wtype": "word",
+          "off_start": 14,
+          "off_end": 18,
+          "sentence_index": 3,
+          "next_word": 4,
+          "ana": {
+            "lex": "idly",
+            "gr.pos": "RB"
+          }
+        },
+        {
+          "wf": "down",
+          "wtype": "word",
+          "off_start": 18,
+          "off_end": 22,
+          "sentence_index": 4,
+          "next_word": 5,
+          "ana": {
+            "lex": "down",
+            "gr.pos": "RB"
+          }
+        },
+        {
+          "wf": "\u2014",
+          "wtype": "word",
+          "off_start": 22,
+          "off_end": 23,
+          "sentence_index": 5,
+          "next_word": 6,
+          "ana": {
+            "lex": "\u2014",
+            "gr.pos": "NN"
+          }
+        }
+      ],
+      "lang": 1,
+      "meta": {
+        "meter": "swswsws",
+        "stanza": "0"
+      }
+    },
+    {
+      "text ": "the blizzard",
+      "words": [
+        {
+          "wf": "the",
+          "wtype": "word",
+          "off_start": 0,
+          "off_end": 3,
+          "sentence_index": 0,
+          "next_word": 1,
+          "ana": {
+            "lex": "the",
+            "gr.pos": "DT"
+          }
+        },
+        {
+          "wf": "blizzard",
+          "wtype": "word",
+          "off_start": 3,
+          "off_end": 11,
+          "sentence_index": 1,
+          "next_word": 2,
+          "ana": {
+            "lex": "blizzard",
+            "gr.pos": "NN"
+          }
+        }
+      ],
+      "lang": 1,
+      "meta": {
+        "meter": "wsw",
+        "stanza": "0"
+      }
+    },
+    {
+      "text ": "drifts its weight",
+      "words": [
+        {
+          "wf": "drifts",
+          "wtype": "word",
+          "off_start": 0,
+          "off_end": 6,
+          "sentence_index": 0,
+          "next_word": 1,
+          "ana": {
+            "lex": "drift",
+            "gr.pos": "NNS"
+          }
+        },
+        {
+          "wf": "its",
+          "wtype": "word",
+          "off_start": 6,
+          "off_end": 9,
+          "sentence_index": 1,
+          "next_word": 2,
+          "ana": {
+            "lex": "it",
+            "gr.pos": "PRP$"
+          }
+        },
+        {
+          "wf": "weight",
+          "wtype": "word",
+          "off_start": 9,
+          "off_end": 15,
+          "sentence_index": 2,
+          "next_word": 3,
+          "ana": {
+            "lex": "weight",
+            "gr.pos": "NN"
+          }
+        }
+      ],
+      "lang": 1,
+      "meta": {
+        "meter": "sws",
+        "stanza": "0"
+      }
+    },
+    {
+      "text ": "deeper and deeper for three days",
+      "words": [
+        {
+          "wf": "deeper",
+          "wtype": "word",
+          "off_start": 0,
+          "off_end": 6,
+          "sentence_index": 0,
+          "next_word": 1,
+          "ana": {
+            "lex": "deeper",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "and",
+          "wtype": "word",
+          "off_start": 6,
+          "off_end": 9,
+          "sentence_index": 1,
+          "next_word": 2,
+          "ana": {
+            "lex": "and",
+            "gr.pos": "CC"
+          }
+        },
+        {
+          "wf": "deeper",
+          "wtype": "word",
+          "off_start": 9,
+          "off_end": 15,
+          "sentence_index": 2,
+          "next_word": 3,
+          "ana": {
+            "lex": "deeper",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "for",
+          "wtype": "word",
+          "off_start": 15,
+          "off_end": 18,
+          "sentence_index": 3,
+          "next_word": 4,
+          "ana": {
+            "lex": "for",
+            "gr.pos": "IN"
+          }
+        },
+        {
+          "wf": "three",
+          "wtype": "word",
+          "off_start": 18,
+          "off_end": 23,
+          "sentence_index": 4,
+          "next_word": 5,
+          "ana": {
+            "lex": "three",
+            "gr.pos": "CD"
+          }
+        },
+        {
+          "wf": "days",
+          "wtype": "word",
+          "off_start": 23,
+          "off_end": 27,
+          "sentence_index": 5,
+          "next_word": 6,
+          "ana": {
+            "lex": "day",
+            "gr.pos": "NNS"
+          }
+        }
+      ],
+      "lang": 1,
+      "meta": {
+        "meter": "swwswsws",
+        "stanza": "0"
+      }
+    },
+    {
+      "text ": "or sixty years, eh? Then",
+      "words": [
+        {
+          "wf": "or",
+          "wtype": "word",
+          "off_start": 0,
+          "off_end": 2,
+          "sentence_index": 0,
+          "next_word": 1,
+          "ana": {
+            "lex": "or",
+            "gr.pos": "CC"
+          }
+        },
+        {
+          "wf": "sixty",
+          "wtype": "word",
+          "off_start": 2,
+          "off_end": 7,
+          "sentence_index": 1,
+          "next_word": 2,
+          "ana": {
+            "lex": "sixty",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "years",
+          "wtype": "word",
+          "off_start": 7,
+          "off_end": 12,
+          "sentence_index": 2,
+          "next_word": 3,
+          "ana": {
+            "lex": "year",
+            "gr.pos": "NNS"
+          }
+        },
+        {
+          "wf": ",",
+          "wtype": "punct",
+          "off_start": 12,
+          "off_end": 13,
+          "sentence_index": 3,
+          "next_word": 4
+        },
+        {
+          "wf": "eh",
+          "wtype": "word",
+          "off_start": 13,
+          "off_end": 15,
+          "sentence_index": 4,
+          "next_word": 5,
+          "ana": {
+            "lex": "eh",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "?",
+          "wtype": "punct",
+          "off_start": 15,
+          "off_end": 16,
+          "sentence_index": 5,
+          "next_word": 6
+        },
+        {
+          "wf": "Then",
+          "wtype": "word",
+          "off_start": 16,
+          "off_end": 20,
+          "sentence_index": 6,
+          "next_word": 7,
+          "ana": {
+            "lex": "Then",
+            "gr.pos": "RB"
+          }
+        }
+      ],
+      "lang": 1,
+      "meta": {
+        "meter": "wswsws",
+        "stanza": "0"
+      }
+    },
+    {
+      "text ": "the sun! a clutter of",
+      "words": [
+        {
+          "wf": "the",
+          "wtype": "word",
+          "off_start": 0,
+          "off_end": 3,
+          "sentence_index": 0,
+          "next_word": 1,
+          "ana": {
+            "lex": "the",
+            "gr.pos": "DT"
+          }
+        },
+        {
+          "wf": "sun",
+          "wtype": "word",
+          "off_start": 3,
+          "off_end": 6,
+          "sentence_index": 1,
+          "next_word": 2,
+          "ana": {
+            "lex": "sun",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "!",
+          "wtype": "punct",
+          "off_start": 6,
+          "off_end": 7,
+          "sentence_index": 2,
+          "next_word": 3
+        },
+        {
+          "wf": "a",
+          "wtype": "word",
+          "off_start": 7,
+          "off_end": 8,
+          "sentence_index": 3,
+          "next_word": 4,
+          "ana": {
+            "lex": "a",
+            "gr.pos": "DT"
+          }
+        },
+        {
+          "wf": "clutter",
+          "wtype": "word",
+          "off_start": 8,
+          "off_end": 15,
+          "sentence_index": 4,
+          "next_word": 5,
+          "ana": {
+            "lex": "clutter",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "of",
+          "wtype": "word",
+          "off_start": 15,
+          "off_end": 17,
+          "sentence_index": 5,
+          "next_word": 6,
+          "ana": {
+            "lex": "of",
+            "gr.pos": "IN"
+          }
+        }
+      ],
+      "lang": 1,
+      "meta": {
+        "meter": "wswsws",
+        "stanza": "0"
+      }
+    },
+    {
+      "text ": "yellow and blue flakes \u2014",
+      "words": [
+        {
+          "wf": "yellow",
+          "wtype": "word",
+          "off_start": 0,
+          "off_end": 6,
+          "sentence_index": 0,
+          "next_word": 1,
+          "ana": {
+            "lex": "yellow",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "and",
+          "wtype": "word",
+          "off_start": 6,
+          "off_end": 9,
+          "sentence_index": 1,
+          "next_word": 2,
+          "ana": {
+            "lex": "and",
+            "gr.pos": "CC"
+          }
+        },
+        {
+          "wf": "blue",
+          "wtype": "word",
+          "off_start": 9,
+          "off_end": 13,
+          "sentence_index": 2,
+          "next_word": 3,
+          "ana": {
+            "lex": "blue",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "flakes",
+          "wtype": "word",
+          "off_start": 13,
+          "off_end": 19,
+          "sentence_index": 3,
+          "next_word": 4,
+          "ana": {
+            "lex": "flake",
+            "gr.pos": "NNS"
+          }
+        },
+        {
+          "wf": "\u2014",
+          "wtype": "word",
+          "off_start": 19,
+          "off_end": 20,
+          "sentence_index": 4,
+          "next_word": 5,
+          "ana": {
+            "lex": "\u2014",
+            "gr.pos": "NN"
+          }
+        }
+      ],
+      "lang": 1,
+      "meta": {
+        "meter": "swsws",
+        "stanza": "0"
+      }
+    },
+    {
+      "text ": "Hairy looking trees stand out",
+      "words": [
+        {
+          "wf": "Hairy",
+          "wtype": "word",
+          "off_start": 0,
+          "off_end": 5,
+          "sentence_index": 0,
+          "next_word": 1,
+          "ana": {
+            "lex": "Hairy",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "looking",
+          "wtype": "word",
+          "off_start": 5,
+          "off_end": 12,
+          "sentence_index": 1,
+          "next_word": 2,
+          "ana": {
+            "lex": "looking",
+            "gr.pos": "VBG"
+          }
+        },
+        {
+          "wf": "trees",
+          "wtype": "word",
+          "off_start": 12,
+          "off_end": 17,
+          "sentence_index": 2,
+          "next_word": 3,
+          "ana": {
+            "lex": "tree",
+            "gr.pos": "NNS"
+          }
+        },
+        {
+          "wf": "stand",
+          "wtype": "word",
+          "off_start": 17,
+          "off_end": 22,
+          "sentence_index": 3,
+          "next_word": 4,
+          "ana": {
+            "lex": "stand",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "out",
+          "wtype": "word",
+          "off_start": 22,
+          "off_end": 25,
+          "sentence_index": 4,
+          "next_word": 5,
+          "ana": {
+            "lex": "out",
+            "gr.pos": "IN"
+          }
+        }
+      ],
+      "lang": 1,
+      "meta": {
+        "meter": "swswssw",
+        "stanza": "0"
+      }
+    },
+    {
+      "text ": "in long alleys",
+      "words": [
+        {
+          "wf": "in",
+          "wtype": "word",
+          "off_start": 0,
+          "off_end": 2,
+          "sentence_index": 0,
+          "next_word": 1,
+          "ana": {
+            "lex": "in",
+            "gr.pos": "IN"
+          }
+        },
+        {
+          "wf": "long",
+          "wtype": "word",
+          "off_start": 2,
+          "off_end": 6,
+          "sentence_index": 1,
+          "next_word": 2,
+          "ana": {
+            "lex": "long",
+            "gr.pos": "RB"
+          }
+        },
+        {
+          "wf": "alleys",
+          "wtype": "word",
+          "off_start": 6,
+          "off_end": 12,
+          "sentence_index": 2,
+          "next_word": 3,
+          "ana": {
+            "lex": "alley",
+            "gr.pos": "NNS"
+          }
+        }
+      ],
+      "lang": 1,
+      "meta": {
+        "meter": "wssw",
+        "stanza": "0"
+      }
+    },
+    {
+      "text ": "over a wild solitude.",
+      "words": [
+        {
+          "wf": "over",
+          "wtype": "word",
+          "off_start": 0,
+          "off_end": 4,
+          "sentence_index": 0,
+          "next_word": 1,
+          "ana": {
+            "lex": "over",
+            "gr.pos": "IN"
+          }
+        },
+        {
+          "wf": "a",
+          "wtype": "word",
+          "off_start": 4,
+          "off_end": 5,
+          "sentence_index": 1,
+          "next_word": 2,
+          "ana": {
+            "lex": "a",
+            "gr.pos": "DT"
+          }
+        },
+        {
+          "wf": "wild",
+          "wtype": "word",
+          "off_start": 5,
+          "off_end": 9,
+          "sentence_index": 2,
+          "next_word": 3,
+          "ana": {
+            "lex": "wild",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "solitude",
+          "wtype": "word",
+          "off_start": 9,
+          "off_end": 17,
+          "sentence_index": 3,
+          "next_word": 4,
+          "ana": {
+            "lex": "solitude",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": ".",
+          "wtype": "punct",
+          "off_start": 17,
+          "off_end": 18,
+          "sentence_index": 4,
+          "next_word": 5
+        }
+      ],
+      "lang": 1,
+      "meta": {
+        "meter": "swswsws",
+        "stanza": "0"
+      }
+    },
+    {
+      "text ": "The man turns and there \u2014",
+      "words": [
+        {
+          "wf": "The",
+          "wtype": "word",
+          "off_start": 0,
+          "off_end": 3,
+          "sentence_index": 0,
+          "next_word": 1,
+          "ana": {
+            "lex": "The",
+            "gr.pos": "DT"
+          }
+        },
+        {
+          "wf": "man",
+          "wtype": "word",
+          "off_start": 3,
+          "off_end": 6,
+          "sentence_index": 1,
+          "next_word": 2,
+          "ana": {
+            "lex": "man",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "turns",
+          "wtype": "word",
+          "off_start": 6,
+          "off_end": 11,
+          "sentence_index": 2,
+          "next_word": 3,
+          "ana": {
+            "lex": "turn",
+            "gr.pos": "NNS"
+          }
+        },
+        {
+          "wf": "and",
+          "wtype": "word",
+          "off_start": 11,
+          "off_end": 14,
+          "sentence_index": 3,
+          "next_word": 4,
+          "ana": {
+            "lex": "and",
+            "gr.pos": "CC"
+          }
+        },
+        {
+          "wf": "there",
+          "wtype": "word",
+          "off_start": 14,
+          "off_end": 19,
+          "sentence_index": 4,
+          "next_word": 5,
+          "ana": {
+            "lex": "there",
+            "gr.pos": "RB"
+          }
+        },
+        {
+          "wf": "\u2014",
+          "wtype": "word",
+          "off_start": 19,
+          "off_end": 20,
+          "sentence_index": 5,
+          "next_word": 6,
+          "ana": {
+            "lex": "\u2014",
+            "gr.pos": "NN"
+          }
+        }
+      ],
+      "lang": 1,
+      "meta": {
+        "meter": "wssww",
+        "stanza": "0"
+      }
+    },
+    {
+      "text ": "his solitary track stretched out",
+      "words": [
+        {
+          "wf": "his",
+          "wtype": "word",
+          "off_start": 0,
+          "off_end": 3,
+          "sentence_index": 0,
+          "next_word": 1,
+          "ana": {
+            "lex": "his",
+            "gr.pos": "PRP$"
+          }
+        },
+        {
+          "wf": "solitary",
+          "wtype": "word",
+          "off_start": 3,
+          "off_end": 11,
+          "sentence_index": 1,
+          "next_word": 2,
+          "ana": {
+            "lex": "solitary",
+            "gr.pos": "JJ"
+          }
+        },
+        {
+          "wf": "track",
+          "wtype": "word",
+          "off_start": 11,
+          "off_end": 16,
+          "sentence_index": 2,
+          "next_word": 3,
+          "ana": {
+            "lex": "track",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": "stretched",
+          "wtype": "word",
+          "off_start": 16,
+          "off_end": 25,
+          "sentence_index": 3,
+          "next_word": 4,
+          "ana": {
+            "lex": "stretched",
+            "gr.pos": "VBN"
+          }
+        },
+        {
+          "wf": "out",
+          "wtype": "word",
+          "off_start": 25,
+          "off_end": 28,
+          "sentence_index": 4,
+          "next_word": 5,
+          "ana": {
+            "lex": "out",
+            "gr.pos": "IN"
+          }
+        }
+      ],
+      "lang": 1,
+      "meta": {
+        "meter": "wswswssw",
+        "stanza": "0"
+      }
+    },
+    {
+      "text ": "upon the world.",
+      "words": [
+        {
+          "wf": "upon",
+          "wtype": "word",
+          "off_start": 0,
+          "off_end": 4,
+          "sentence_index": 0,
+          "next_word": 1,
+          "ana": {
+            "lex": "upon",
+            "gr.pos": "IN"
+          }
+        },
+        {
+          "wf": "the",
+          "wtype": "word",
+          "off_start": 4,
+          "off_end": 7,
+          "sentence_index": 1,
+          "next_word": 2,
+          "ana": {
+            "lex": "the",
+            "gr.pos": "DT"
+          }
+        },
+        {
+          "wf": "world",
+          "wtype": "word",
+          "off_start": 7,
+          "off_end": 12,
+          "sentence_index": 2,
+          "next_word": 3,
+          "ana": {
+            "lex": "world",
+            "gr.pos": "NN"
+          }
+        },
+        {
+          "wf": ".",
+          "wtype": "punct",
+          "off_start": 12,
+          "off_end": 13,
+          "sentence_index": 3,
+          "next_word": 4
+        }
+      ],
+      "lang": 1,
+      "meta": {
+        "meter": "wsws",
+        "stanza": "0"
+      }
+    }
+  ]
+}

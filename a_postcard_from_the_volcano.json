@@ -1,82 +1,35 @@
 {
   "meta": {
-    "filename": "a_postcard_from_the_volcano.json",
-    "title": "A Postcard from the Volcano",
-    "author": "Wallace Stevens",
-    "language": "English",
-    "school/period": "Modern",
-    "number_of_stanzas": "8",
-    "has_rhyme": "false"
+    "filename": "",
+    "title": "",
+    "author": "",
+    "language": "",
+    "school/period": "",
+    "number_of_stanzas": "",
+    "has_rhyme": ""
   },
   "sentences": [
     {
-      "text ": "Children picking up our bones",
+      "text ": "",
       "words": [
         {
-          "wf": "Children",
-          "wtype": "word",
+          "wf": "",
+          "wtype": "",
           "off_start": 0,
-          "off_end": 8,
+          "off_end": 0,
           "sentence_index": 0,
-          "next_word": 1,
+          "next_word": 0,
           "ana": {
-            "lex": "Children",
-            "gr.pos": "NNS"
+            "lex": "",
+            "gr.pos": ""
           }
         },
-        {
-          "wf": "picking",
-          "wtype": "word",
-          "off_start": 8,
-          "off_end": 15,
-          "sentence_index": 1,
-          "next_word": 2,
-          "ana": {
-            "lex": "picking",
-            "gr.pos": "VBG"
-          }
-        },
-        {
-          "wf": "up",
-          "wtype": "word",
-          "off_start": 15,
-          "off_end": 17,
-          "sentence_index": 2,
-          "next_word": 3,
-          "ana": {
-            "lex": "up",
-            "gr.pos": "RB"
-          }
-        },
-        {
-          "wf": "our",
-          "wtype": "word",
-          "off_start": 17,
-          "off_end": 20,
-          "sentence_index": 3,
-          "next_word": 4,
-          "ana": {
-            "lex": "our",
-            "gr.pos": "PRP$"
-          }
-        },
-        {
-          "wf": "bones",
-          "wtype": "word",
-          "off_start": 20,
-          "off_end": 25,
-          "sentence_index": 4,
-          "next_word": 5,
-          "ana": {
-            "lex": "bone",
-            "gr.pos": "NNS"
-          }
-        }
+
       ],
       "lang": 1,
       "meta": {
-        "meter": "swswsws",
-        "stanza": "0"
+        "meter": "",
+        "stanza": ""
       }
     },
     {
