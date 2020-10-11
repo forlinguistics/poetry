@@ -1,594 +1,670 @@
 {
-  "meta": {
-    "filename": "winter_trees.json",
-    "title": "Winter Trees",
-    "author": "William Carlos Williams",
-    "language": "English",
-    "school/period": "Imagist",
-    "number_of_stanzas": "1",
-    "has_rhyme": "False",
-    "rhyme_scheme": "None"
-  },
-  "sentences": [
-    {
-      "text ": "All the complicated details",
-      "words": [
-        {
-          "wf": "All",
-          "wtype": "word",
-          "off_start": 0,
-          "off_end": 3,
-          "sentence_index": 0,
-          "next_word": 1,
-          "ana": {
-            "lex": "All",
-            "gr.pos": "DT"
-          }
-        },
-        {
-          "wf": "the",
-          "wtype": "word",
-          "off_start": 3,
-          "off_end": 6,
-          "sentence_index": 1,
-          "next_word": 2,
-          "ana": {
-            "lex": "the",
-            "gr.pos": "DT"
-          }
-        },
-        {
-          "wf": "complicated",
-          "wtype": "word",
-          "off_start": 6,
-          "off_end": 17,
-          "sentence_index": 2,
-          "next_word": 3,
-          "ana": {
-            "lex": "complicated",
-            "gr.pos": "VBN"
-          }
-        },
-        {
-          "wf": "details",
-          "wtype": "word",
-          "off_start": 17,
-          "off_end": 24,
-          "sentence_index": 3,
-          "next_word": 4,
-          "ana": {
-            "lex": "detail",
-            "gr.pos": "NNS"
-          }
-        }
-      ],
-      "lang": 1,
-      "meta": {
-        "meter": "swswswsw",
-        "stanza": "0"
-      }
+    "meta": {
+        "filename": "winter_trees.json",
+        "title": "Winter Trees",
+        "author": "William Carlos Williams",
+        "language": "English",
+        "school/period": "Imagist",
+        "number_of_stanzas": "1",
+        "has_rhyme": "False",
+        "rhyme_scheme": "None"
     },
-    {
-      "text ": "of the attiring and",
-      "words": [
+    "sentences": [
         {
-          "wf": "of",
-          "wtype": "word",
-          "off_start": 0,
-          "off_end": 2,
-          "sentence_index": 0,
-          "next_word": 1,
-          "ana": {
-            "lex": "of",
-            "gr.pos": "IN"
-          }
+            "text ": "All the complicated details",
+            "words": [
+                {
+                    "wf": "All",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 3,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "ana": [
+                        {
+                            "lex": "All",
+                            "gr.pos": "DT"
+                        }
+                    ]
+                },
+                {
+                    "wf": "the",
+                    "wtype": "word",
+                    "off_start": 3,
+                    "off_end": 6,
+                    "sentence_index": 1,
+                    "next_word": 2,
+                    "ana": [
+                        {
+                            "lex": "the",
+                            "gr.pos": "DT"
+                        }
+                    ]
+                },
+                {
+                    "wf": "complicated",
+                    "wtype": "word",
+                    "off_start": 6,
+                    "off_end": 17,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "ana": [
+                        {
+                            "lex": "complicated",
+                            "gr.pos": "VBN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "details",
+                    "wtype": "word",
+                    "off_start": 17,
+                    "off_end": 24,
+                    "sentence_index": 3,
+                    "next_word": 4,
+                    "ana": [
+                        {
+                            "lex": "detail",
+                            "gr.pos": "NNS"
+                        }
+                    ]
+                }
+            ],
+            "lang": 0,
+            "meta": {
+                "meter": "swswswsw",
+                "stanza": "0"
+            }
         },
         {
-          "wf": "the",
-          "wtype": "word",
-          "off_start": 2,
-          "off_end": 5,
-          "sentence_index": 1,
-          "next_word": 2,
-          "ana": {
-            "lex": "the",
-            "gr.pos": "DT"
-          }
+            "text ": "of the attiring and",
+            "words": [
+                {
+                    "wf": "of",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 2,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "ana": [
+                        {
+                            "lex": "of",
+                            "gr.pos": "IN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "the",
+                    "wtype": "word",
+                    "off_start": 2,
+                    "off_end": 5,
+                    "sentence_index": 1,
+                    "next_word": 2,
+                    "ana": [
+                        {
+                            "lex": "the",
+                            "gr.pos": "DT"
+                        }
+                    ]
+                },
+                {
+                    "wf": "attiring",
+                    "wtype": "word",
+                    "off_start": 5,
+                    "off_end": 13,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "ana": [
+                        {
+                            "lex": "attiring",
+                            "gr.pos": "VBG"
+                        }
+                    ]
+                },
+                {
+                    "wf": "and",
+                    "wtype": "word",
+                    "off_start": 13,
+                    "off_end": 16,
+                    "sentence_index": 3,
+                    "next_word": 4,
+                    "ana": [
+                        {
+                            "lex": "and",
+                            "gr.pos": "CC"
+                        }
+                    ]
+                }
+            ],
+            "lang": 0,
+            "meta": {
+                "meter": "wswsws",
+                "stanza": "0"
+            }
         },
         {
-          "wf": "attiring",
-          "wtype": "word",
-          "off_start": 5,
-          "off_end": 13,
-          "sentence_index": 2,
-          "next_word": 3,
-          "ana": {
-            "lex": "attiring",
-            "gr.pos": "VBG"
-          }
+            "text ": "the disattiring are completed!",
+            "words": [
+                {
+                    "wf": "the",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 3,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "ana": [
+                        {
+                            "lex": "the",
+                            "gr.pos": "DT"
+                        }
+                    ]
+                },
+                {
+                    "wf": "disattiring",
+                    "wtype": "word",
+                    "off_start": 3,
+                    "off_end": 14,
+                    "sentence_index": 1,
+                    "next_word": 2,
+                    "ana": [
+                        {
+                            "lex": "disattiring",
+                            "gr.pos": "VBG"
+                        }
+                    ]
+                },
+                {
+                    "wf": "are",
+                    "wtype": "word",
+                    "off_start": 14,
+                    "off_end": 17,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "ana": [
+                        {
+                            "lex": "are",
+                            "gr.pos": "VBP"
+                        }
+                    ]
+                },
+                {
+                    "wf": "completed",
+                    "wtype": "word",
+                    "off_start": 17,
+                    "off_end": 26,
+                    "sentence_index": 3,
+                    "next_word": 4,
+                    "ana": [
+                        {
+                            "lex": "completed",
+                            "gr.pos": "VBN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "!",
+                    "wtype": "punct",
+                    "off_start": 26,
+                    "off_end": 27,
+                    "sentence_index": 4,
+                    "next_word": 5
+                }
+            ],
+            "lang": 0,
+            "meta": {
+                "meter": "wswswswsw",
+                "stanza": "0"
+            }
         },
         {
-          "wf": "and",
-          "wtype": "word",
-          "off_start": 13,
-          "off_end": 16,
-          "sentence_index": 3,
-          "next_word": 4,
-          "ana": {
-            "lex": "and",
-            "gr.pos": "CC"
-          }
+            "text ": "A liquid moon",
+            "words": [
+                {
+                    "wf": "A",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 1,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "ana": [
+                        {
+                            "lex": "A",
+                            "gr.pos": "DT"
+                        }
+                    ]
+                },
+                {
+                    "wf": "liquid",
+                    "wtype": "word",
+                    "off_start": 1,
+                    "off_end": 7,
+                    "sentence_index": 1,
+                    "next_word": 2,
+                    "ana": [
+                        {
+                            "lex": "liquid",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "moon",
+                    "wtype": "word",
+                    "off_start": 7,
+                    "off_end": 11,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "ana": [
+                        {
+                            "lex": "moon",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                }
+            ],
+            "lang": 0,
+            "meta": {
+                "meter": "wsws",
+                "stanza": "0"
+            }
+        },
+        {
+            "text ": "moves gently among",
+            "words": [
+                {
+                    "wf": "moves",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 5,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "ana": [
+                        {
+                            "lex": "move",
+                            "gr.pos": "NNS"
+                        }
+                    ]
+                },
+                {
+                    "wf": "gently",
+                    "wtype": "word",
+                    "off_start": 5,
+                    "off_end": 11,
+                    "sentence_index": 1,
+                    "next_word": 2,
+                    "ana": [
+                        {
+                            "lex": "gently",
+                            "gr.pos": "RB"
+                        }
+                    ]
+                },
+                {
+                    "wf": "among",
+                    "wtype": "word",
+                    "off_start": 11,
+                    "off_end": 16,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "ana": [
+                        {
+                            "lex": "among",
+                            "gr.pos": "IN"
+                        }
+                    ]
+                }
+            ],
+            "lang": 0,
+            "meta": {
+                "meter": "sswws",
+                "stanza": "0"
+            }
+        },
+        {
+            "text ": "the long branches.",
+            "words": [
+                {
+                    "wf": "the",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 3,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "ana": [
+                        {
+                            "lex": "the",
+                            "gr.pos": "DT"
+                        }
+                    ]
+                },
+                {
+                    "wf": "long",
+                    "wtype": "word",
+                    "off_start": 3,
+                    "off_end": 7,
+                    "sentence_index": 1,
+                    "next_word": 2,
+                    "ana": [
+                        {
+                            "lex": "long",
+                            "gr.pos": "RB"
+                        }
+                    ]
+                },
+                {
+                    "wf": "branches",
+                    "wtype": "word",
+                    "off_start": 7,
+                    "off_end": 15,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "ana": [
+                        {
+                            "lex": "branch",
+                            "gr.pos": "NNS"
+                        }
+                    ]
+                },
+                {
+                    "wf": ".",
+                    "wtype": "punct",
+                    "off_start": 15,
+                    "off_end": 16,
+                    "sentence_index": 3,
+                    "next_word": 4
+                }
+            ],
+            "lang": 0,
+            "meta": {
+                "meter": "wssw",
+                "stanza": "0"
+            }
+        },
+        {
+            "text ": "Thus having prepared their buds",
+            "words": [
+                {
+                    "wf": "Thus",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 4,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "ana": [
+                        {
+                            "lex": "Thus",
+                            "gr.pos": "RB"
+                        }
+                    ]
+                },
+                {
+                    "wf": "having",
+                    "wtype": "word",
+                    "off_start": 4,
+                    "off_end": 10,
+                    "sentence_index": 1,
+                    "next_word": 2,
+                    "ana": [
+                        {
+                            "lex": "having",
+                            "gr.pos": "VBG"
+                        }
+                    ]
+                },
+                {
+                    "wf": "prepared",
+                    "wtype": "word",
+                    "off_start": 10,
+                    "off_end": 18,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "ana": [
+                        {
+                            "lex": "prepared",
+                            "gr.pos": "JJ"
+                        }
+                    ]
+                },
+                {
+                    "wf": "their",
+                    "wtype": "word",
+                    "off_start": 18,
+                    "off_end": 23,
+                    "sentence_index": 3,
+                    "next_word": 4,
+                    "ana": [
+                        {
+                            "lex": "their",
+                            "gr.pos": "PRP$"
+                        }
+                    ]
+                },
+                {
+                    "wf": "buds",
+                    "wtype": "word",
+                    "off_start": 23,
+                    "off_end": 27,
+                    "sentence_index": 4,
+                    "next_word": 5,
+                    "ana": [
+                        {
+                            "lex": "bud",
+                            "gr.pos": "NNS"
+                        }
+                    ]
+                }
+            ],
+            "lang": 0,
+            "meta": {
+                "meter": "sswwsws",
+                "stanza": "0"
+            }
+        },
+        {
+            "text ": "against a sure winter",
+            "words": [
+                {
+                    "wf": "against",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 7,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "ana": [
+                        {
+                            "lex": "against",
+                            "gr.pos": "IN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "a",
+                    "wtype": "word",
+                    "off_start": 7,
+                    "off_end": 8,
+                    "sentence_index": 1,
+                    "next_word": 2,
+                    "ana": [
+                        {
+                            "lex": "a",
+                            "gr.pos": "DT"
+                        }
+                    ]
+                },
+                {
+                    "wf": "sure",
+                    "wtype": "word",
+                    "off_start": 8,
+                    "off_end": 12,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "ana": [
+                        {
+                            "lex": "sure",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "winter",
+                    "wtype": "word",
+                    "off_start": 12,
+                    "off_end": 18,
+                    "sentence_index": 3,
+                    "next_word": 4,
+                    "ana": [
+                        {
+                            "lex": "winter",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                }
+            ],
+            "lang": 0,
+            "meta": {
+                "meter": "wswssw",
+                "stanza": "0"
+            }
+        },
+        {
+            "text ": "the wise trees",
+            "words": [
+                {
+                    "wf": "the",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 3,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "ana": [
+                        {
+                            "lex": "the",
+                            "gr.pos": "DT"
+                        }
+                    ]
+                },
+                {
+                    "wf": "wise",
+                    "wtype": "word",
+                    "off_start": 3,
+                    "off_end": 7,
+                    "sentence_index": 1,
+                    "next_word": 2,
+                    "ana": [
+                        {
+                            "lex": "wise",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "trees",
+                    "wtype": "word",
+                    "off_start": 7,
+                    "off_end": 12,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "ana": [
+                        {
+                            "lex": "tree",
+                            "gr.pos": "NNS"
+                        }
+                    ]
+                }
+            ],
+            "lang": 0,
+            "meta": {
+                "meter": "wsw",
+                "stanza": "0"
+            }
+        },
+        {
+            "text ": "stand sleeping in the cold.",
+            "words": [
+                {
+                    "wf": "stand",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 5,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "ana": [
+                        {
+                            "lex": "stand",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "sleeping",
+                    "wtype": "word",
+                    "off_start": 5,
+                    "off_end": 13,
+                    "sentence_index": 1,
+                    "next_word": 2,
+                    "ana": [
+                        {
+                            "lex": "sleeping",
+                            "gr.pos": "VBG"
+                        }
+                    ]
+                },
+                {
+                    "wf": "in",
+                    "wtype": "word",
+                    "off_start": 13,
+                    "off_end": 15,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "ana": [
+                        {
+                            "lex": "in",
+                            "gr.pos": "IN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "the",
+                    "wtype": "word",
+                    "off_start": 15,
+                    "off_end": 18,
+                    "sentence_index": 3,
+                    "next_word": 4,
+                    "ana": [
+                        {
+                            "lex": "the",
+                            "gr.pos": "DT"
+                        }
+                    ]
+                },
+                {
+                    "wf": "cold",
+                    "wtype": "word",
+                    "off_start": 18,
+                    "off_end": 22,
+                    "sentence_index": 4,
+                    "next_word": 5,
+                    "ana": [
+                        {
+                            "lex": "cold",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                },
+                {
+                    "wf": ".",
+                    "wtype": "punct",
+                    "off_start": 22,
+                    "off_end": 23,
+                    "sentence_index": 5,
+                    "next_word": 6
+                }
+            ],
+            "lang": 0,
+            "meta": {
+                "meter": "sswsws",
+                "stanza": "0"
+            }
         }
-      ],
-      "lang": 1,
-      "meta": {
-        "meter": "wswsws",
-        "stanza": "0"
-      }
-    },
-    {
-      "text ": "the disattiring are completed!",
-      "words": [
-        {
-          "wf": "the",
-          "wtype": "word",
-          "off_start": 0,
-          "off_end": 3,
-          "sentence_index": 0,
-          "next_word": 1,
-          "ana": {
-            "lex": "the",
-            "gr.pos": "DT"
-          }
-        },
-        {
-          "wf": "disattiring",
-          "wtype": "word",
-          "off_start": 3,
-          "off_end": 14,
-          "sentence_index": 1,
-          "next_word": 2,
-          "ana": {
-            "lex": "disattiring",
-            "gr.pos": "VBG"
-          }
-        },
-        {
-          "wf": "are",
-          "wtype": "word",
-          "off_start": 14,
-          "off_end": 17,
-          "sentence_index": 2,
-          "next_word": 3,
-          "ana": {
-            "lex": "are",
-            "gr.pos": "VBP"
-          }
-        },
-        {
-          "wf": "completed",
-          "wtype": "word",
-          "off_start": 17,
-          "off_end": 26,
-          "sentence_index": 3,
-          "next_word": 4,
-          "ana": {
-            "lex": "completed",
-            "gr.pos": "VBN"
-          }
-        },
-        {
-          "wf": "!",
-          "wtype": "punct",
-          "off_start": 26,
-          "off_end": 27,
-          "sentence_index": 4,
-          "next_word": 5
-        }
-      ],
-      "lang": 1,
-      "meta": {
-        "meter": "wswswswsw",
-        "stanza": "0"
-      }
-    },
-    {
-      "text ": "A liquid moon",
-      "words": [
-        {
-          "wf": "A",
-          "wtype": "word",
-          "off_start": 0,
-          "off_end": 1,
-          "sentence_index": 0,
-          "next_word": 1,
-          "ana": {
-            "lex": "A",
-            "gr.pos": "DT"
-          }
-        },
-        {
-          "wf": "liquid",
-          "wtype": "word",
-          "off_start": 1,
-          "off_end": 7,
-          "sentence_index": 1,
-          "next_word": 2,
-          "ana": {
-            "lex": "liquid",
-            "gr.pos": "NN"
-          }
-        },
-        {
-          "wf": "moon",
-          "wtype": "word",
-          "off_start": 7,
-          "off_end": 11,
-          "sentence_index": 2,
-          "next_word": 3,
-          "ana": {
-            "lex": "moon",
-            "gr.pos": "NN"
-          }
-        }
-      ],
-      "lang": 1,
-      "meta": {
-        "meter": "wsws",
-        "stanza": "0"
-      }
-    },
-    {
-      "text ": "moves gently among",
-      "words": [
-        {
-          "wf": "moves",
-          "wtype": "word",
-          "off_start": 0,
-          "off_end": 5,
-          "sentence_index": 0,
-          "next_word": 1,
-          "ana": {
-            "lex": "move",
-            "gr.pos": "NNS"
-          }
-        },
-        {
-          "wf": "gently",
-          "wtype": "word",
-          "off_start": 5,
-          "off_end": 11,
-          "sentence_index": 1,
-          "next_word": 2,
-          "ana": {
-            "lex": "gently",
-            "gr.pos": "RB"
-          }
-        },
-        {
-          "wf": "among",
-          "wtype": "word",
-          "off_start": 11,
-          "off_end": 16,
-          "sentence_index": 2,
-          "next_word": 3,
-          "ana": {
-            "lex": "among",
-            "gr.pos": "IN"
-          }
-        }
-      ],
-      "lang": 1,
-      "meta": {
-        "meter": "sswws",
-        "stanza": "0"
-      }
-    },
-    {
-      "text ": "the long branches.",
-      "words": [
-        {
-          "wf": "the",
-          "wtype": "word",
-          "off_start": 0,
-          "off_end": 3,
-          "sentence_index": 0,
-          "next_word": 1,
-          "ana": {
-            "lex": "the",
-            "gr.pos": "DT"
-          }
-        },
-        {
-          "wf": "long",
-          "wtype": "word",
-          "off_start": 3,
-          "off_end": 7,
-          "sentence_index": 1,
-          "next_word": 2,
-          "ana": {
-            "lex": "long",
-            "gr.pos": "RB"
-          }
-        },
-        {
-          "wf": "branches",
-          "wtype": "word",
-          "off_start": 7,
-          "off_end": 15,
-          "sentence_index": 2,
-          "next_word": 3,
-          "ana": {
-            "lex": "branch",
-            "gr.pos": "NNS"
-          }
-        },
-        {
-          "wf": ".",
-          "wtype": "punct",
-          "off_start": 15,
-          "off_end": 16,
-          "sentence_index": 3,
-          "next_word": 4
-        }
-      ],
-      "lang": 1,
-      "meta": {
-        "meter": "wssw",
-        "stanza": "0"
-      }
-    },
-    {
-      "text ": "Thus having prepared their buds",
-      "words": [
-        {
-          "wf": "Thus",
-          "wtype": "word",
-          "off_start": 0,
-          "off_end": 4,
-          "sentence_index": 0,
-          "next_word": 1,
-          "ana": {
-            "lex": "Thus",
-            "gr.pos": "RB"
-          }
-        },
-        {
-          "wf": "having",
-          "wtype": "word",
-          "off_start": 4,
-          "off_end": 10,
-          "sentence_index": 1,
-          "next_word": 2,
-          "ana": {
-            "lex": "having",
-            "gr.pos": "VBG"
-          }
-        },
-        {
-          "wf": "prepared",
-          "wtype": "word",
-          "off_start": 10,
-          "off_end": 18,
-          "sentence_index": 2,
-          "next_word": 3,
-          "ana": {
-            "lex": "prepared",
-            "gr.pos": "JJ"
-          }
-        },
-        {
-          "wf": "their",
-          "wtype": "word",
-          "off_start": 18,
-          "off_end": 23,
-          "sentence_index": 3,
-          "next_word": 4,
-          "ana": {
-            "lex": "their",
-            "gr.pos": "PRP$"
-          }
-        },
-        {
-          "wf": "buds",
-          "wtype": "word",
-          "off_start": 23,
-          "off_end": 27,
-          "sentence_index": 4,
-          "next_word": 5,
-          "ana": {
-            "lex": "bud",
-            "gr.pos": "NNS"
-          }
-        }
-      ],
-      "lang": 1,
-      "meta": {
-        "meter": "sswwsws",
-        "stanza": "0"
-      }
-    },
-    {
-      "text ": "against a sure winter",
-      "words": [
-        {
-          "wf": "against",
-          "wtype": "word",
-          "off_start": 0,
-          "off_end": 7,
-          "sentence_index": 0,
-          "next_word": 1,
-          "ana": {
-            "lex": "against",
-            "gr.pos": "IN"
-          }
-        },
-        {
-          "wf": "a",
-          "wtype": "word",
-          "off_start": 7,
-          "off_end": 8,
-          "sentence_index": 1,
-          "next_word": 2,
-          "ana": {
-            "lex": "a",
-            "gr.pos": "DT"
-          }
-        },
-        {
-          "wf": "sure",
-          "wtype": "word",
-          "off_start": 8,
-          "off_end": 12,
-          "sentence_index": 2,
-          "next_word": 3,
-          "ana": {
-            "lex": "sure",
-            "gr.pos": "NN"
-          }
-        },
-        {
-          "wf": "winter",
-          "wtype": "word",
-          "off_start": 12,
-          "off_end": 18,
-          "sentence_index": 3,
-          "next_word": 4,
-          "ana": {
-            "lex": "winter",
-            "gr.pos": "NN"
-          }
-        }
-      ],
-      "lang": 1,
-      "meta": {
-        "meter": "wswssw",
-        "stanza": "0"
-      }
-    },
-    {
-      "text ": "the wise trees",
-      "words": [
-        {
-          "wf": "the",
-          "wtype": "word",
-          "off_start": 0,
-          "off_end": 3,
-          "sentence_index": 0,
-          "next_word": 1,
-          "ana": {
-            "lex": "the",
-            "gr.pos": "DT"
-          }
-        },
-        {
-          "wf": "wise",
-          "wtype": "word",
-          "off_start": 3,
-          "off_end": 7,
-          "sentence_index": 1,
-          "next_word": 2,
-          "ana": {
-            "lex": "wise",
-            "gr.pos": "NN"
-          }
-        },
-        {
-          "wf": "trees",
-          "wtype": "word",
-          "off_start": 7,
-          "off_end": 12,
-          "sentence_index": 2,
-          "next_word": 3,
-          "ana": {
-            "lex": "tree",
-            "gr.pos": "NNS"
-          }
-        }
-      ],
-      "lang": 1,
-      "meta": {
-        "meter": "wsw",
-        "stanza": "0"
-      }
-    },
-    {
-      "text ": "stand sleeping in the cold.",
-      "words": [
-        {
-          "wf": "stand",
-          "wtype": "word",
-          "off_start": 0,
-          "off_end": 5,
-          "sentence_index": 0,
-          "next_word": 1,
-          "ana": {
-            "lex": "stand",
-            "gr.pos": "NN"
-          }
-        },
-        {
-          "wf": "sleeping",
-          "wtype": "word",
-          "off_start": 5,
-          "off_end": 13,
-          "sentence_index": 1,
-          "next_word": 2,
-          "ana": {
-            "lex": "sleeping",
-            "gr.pos": "VBG"
-          }
-        },
-        {
-          "wf": "in",
-          "wtype": "word",
-          "off_start": 13,
-          "off_end": 15,
-          "sentence_index": 2,
-          "next_word": 3,
-          "ana": {
-            "lex": "in",
-            "gr.pos": "IN"
-          }
-        },
-        {
-          "wf": "the",
-          "wtype": "word",
-          "off_start": 15,
-          "off_end": 18,
-          "sentence_index": 3,
-          "next_word": 4,
-          "ana": {
-            "lex": "the",
-            "gr.pos": "DT"
-          }
-        },
-        {
-          "wf": "cold",
-          "wtype": "word",
-          "off_start": 18,
-          "off_end": 22,
-          "sentence_index": 4,
-          "next_word": 5,
-          "ana": {
-            "lex": "cold",
-            "gr.pos": "NN"
-          }
-        },
-        {
-          "wf": ".",
-          "wtype": "punct",
-          "off_start": 22,
-          "off_end": 23,
-          "sentence_index": 5,
-          "next_word": 6
-        }
-      ],
-      "lang": 1,
-      "meta": {
-        "meter": "sswsws",
-        "stanza": "0"
-      }
-    }
-  ]
+    ]
 }

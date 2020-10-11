@@ -1,37 +1,38 @@
 {
-  "meta": {
-    "filename": "",
-    "title": "",
-    "author": "",
-    "language": "",
-    "school/period": "",
-    "number_of_stanzas": "",
-    "has_rhyme": "",
-    "rhyme_scheme": ""
-  },
-  "sentences": [
-    {
-      "text ": "",
-      "words": [
+    "meta": {
+        "filename": "",
+        "title": "",
+        "author": "",
+        "language": "",
+        "school/period": "",
+        "number_of_stanzas": "",
+        "has_rhyme": "",
+        "rhyme_scheme": ""
+    },
+    "sentences": [
         {
-          "wf": "",
-          "wtype": "",
-          "off_start": 0,
-          "off_end": 0,
-          "sentence_index": 0,
-          "next_word": 0,
-          "ana": {
-            "lex": "",
-            "gr.pos": ""
-          }
+            "text ": "",
+            "words": [
+                {
+                    "wf": "",
+                    "wtype": "",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "sentence_index": 0,
+                    "next_word": 0,
+                    "ana": [
+                        {
+                            "lex": "",
+                            "gr.pos": ""
+                        }
+                    ]
+                }
+            ],
+            "lang": 0,
+            "meta": {
+                "meter": "",
+                "stanza": ""
+            }
         }
-
-      ],
-      "lang": 1,
-      "meta": {
-        "meter": "",
-        "stanza": ""
-      }
-    }
-  ]
+    ]
 }
