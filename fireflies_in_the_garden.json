@@ -1,0 +1,818 @@
+{
+  "meta": {
+    "filename": "fireflies_in_the_garden.json",
+    "title": "Fireflies in the Garden",
+    "author": "Robert Frost",
+    "language": "English",
+    "school/period": "proto",
+    "number_of_stanzas": "1",
+    "has_rhyme": "True",
+    "rhyme_scheme": "000111"
+  },
+  "sentences": [
+    {
+      "text ": "Here come real stars to fill the upper skies,",
+      "words": [
+        {
+          "wf": "Here",
+          "wtype": "word",
+          "off_start": 0,
+          "off_end": 4,
+          "sentence_index": 0,
+          "next_word": 1,
+          "ana": [
+            {
+              "lex": "Here",
+              "gr.pos": "RB"
+            }
+          ]
+        },
+        {
+          "wf": "come",
+          "wtype": "word",
+          "off_start": 4,
+          "off_end": 8,
+          "sentence_index": 1,
+          "next_word": 2,
+          "ana": [
+            {
+              "lex": "come",
+              "gr.pos": "VB"
+            }
+          ]
+        },
+        {
+          "wf": "real",
+          "wtype": "word",
+          "off_start": 8,
+          "off_end": 12,
+          "sentence_index": 2,
+          "next_word": 3,
+          "ana": [
+            {
+              "lex": "real",
+              "gr.pos": "JJ"
+            }
+          ]
+        },
+        {
+          "wf": "stars",
+          "wtype": "word",
+          "off_start": 12,
+          "off_end": 17,
+          "sentence_index": 3,
+          "next_word": 4,
+          "ana": [
+            {
+              "lex": "star",
+              "gr.pos": "NNS"
+            }
+          ]
+        },
+        {
+          "wf": "to",
+          "wtype": "word",
+          "off_start": 17,
+          "off_end": 19,
+          "sentence_index": 4,
+          "next_word": 5,
+          "ana": [
+            {
+              "lex": "to",
+              "gr.pos": "TO"
+            }
+          ]
+        },
+        {
+          "wf": "fill",
+          "wtype": "word",
+          "off_start": 19,
+          "off_end": 23,
+          "sentence_index": 5,
+          "next_word": 6,
+          "ana": [
+            {
+              "lex": "fill",
+              "gr.pos": "NN"
+            }
+          ]
+        },
+        {
+          "wf": "the",
+          "wtype": "word",
+          "off_start": 23,
+          "off_end": 26,
+          "sentence_index": 6,
+          "next_word": 7,
+          "ana": [
+            {
+              "lex": "the",
+              "gr.pos": "DT"
+            }
+          ]
+        },
+        {
+          "wf": "upper",
+          "wtype": "word",
+          "off_start": 26,
+          "off_end": 31,
+          "sentence_index": 7,
+          "next_word": 8,
+          "ana": [
+            {
+              "lex": "upper",
+              "gr.pos": "JJ"
+            }
+          ]
+        },
+        {
+          "wf": "skies",
+          "wtype": "word",
+          "off_start": 31,
+          "off_end": 36,
+          "sentence_index": 8,
+          "next_word": 9,
+          "ana": [
+            {
+              "lex": "sky",
+              "gr.pos": "NNS"
+            }
+          ]
+        },
+        {
+          "wf": ",",
+          "wtype": "punct",
+          "off_start": 36,
+          "off_end": 37,
+          "sentence_index": 9,
+          "next_word": 10
+        }
+      ],
+      "lang": 1,
+      "meta": {
+        "meter": "wswswswsws",
+        "stanza": "0"
+      }
+    },
+    {
+      "text ": "And here on earth come emulating flies,",
+      "words": [
+        {
+          "wf": "And",
+          "wtype": "word",
+          "off_start": 0,
+          "off_end": 3,
+          "sentence_index": 0,
+          "next_word": 1,
+          "ana": [
+            {
+              "lex": "And",
+              "gr.pos": "CC"
+            }
+          ]
+        },
+        {
+          "wf": "here",
+          "wtype": "word",
+          "off_start": 3,
+          "off_end": 7,
+          "sentence_index": 1,
+          "next_word": 2,
+          "ana": [
+            {
+              "lex": "here",
+              "gr.pos": "RB"
+            }
+          ]
+        },
+        {
+          "wf": "on",
+          "wtype": "word",
+          "off_start": 7,
+          "off_end": 9,
+          "sentence_index": 2,
+          "next_word": 3,
+          "ana": [
+            {
+              "lex": "on",
+              "gr.pos": "IN"
+            }
+          ]
+        },
+        {
+          "wf": "earth",
+          "wtype": "word",
+          "off_start": 9,
+          "off_end": 14,
+          "sentence_index": 3,
+          "next_word": 4,
+          "ana": [
+            {
+              "lex": "earth",
+              "gr.pos": "NN"
+            }
+          ]
+        },
+        {
+          "wf": "come",
+          "wtype": "word",
+          "off_start": 14,
+          "off_end": 18,
+          "sentence_index": 4,
+          "next_word": 5,
+          "ana": [
+            {
+              "lex": "come",
+              "gr.pos": "VB"
+            }
+          ]
+        },
+        {
+          "wf": "emulating",
+          "wtype": "word",
+          "off_start": 18,
+          "off_end": 27,
+          "sentence_index": 5,
+          "next_word": 6,
+          "ana": [
+            {
+              "lex": "emulating",
+              "gr.pos": "VBG"
+            }
+          ]
+        },
+        {
+          "wf": "flies",
+          "wtype": "word",
+          "off_start": 27,
+          "off_end": 32,
+          "sentence_index": 6,
+          "next_word": 7,
+          "ana": [
+            {
+              "lex": "fly",
+              "gr.pos": "NNS"
+            }
+          ]
+        },
+        {
+          "wf": ",",
+          "wtype": "punct",
+          "off_start": 32,
+          "off_end": 33,
+          "sentence_index": 7,
+          "next_word": 8
+        }
+      ],
+      "lang": 1,
+      "meta": {
+        "meter": "wswswswsws",
+        "stanza": "0"
+      }
+    },
+    {
+      "text ": "That though they never equal stars in size,",
+      "words": [
+        {
+          "wf": "That",
+          "wtype": "word",
+          "off_start": 0,
+          "off_end": 4,
+          "sentence_index": 0,
+          "next_word": 1,
+          "ana": [
+            {
+              "lex": "That",
+              "gr.pos": "DT"
+            }
+          ]
+        },
+        {
+          "wf": "though",
+          "wtype": "word",
+          "off_start": 4,
+          "off_end": 10,
+          "sentence_index": 1,
+          "next_word": 2,
+          "ana": [
+            {
+              "lex": "though",
+              "gr.pos": "IN"
+            }
+          ]
+        },
+        {
+          "wf": "they",
+          "wtype": "word",
+          "off_start": 10,
+          "off_end": 14,
+          "sentence_index": 2,
+          "next_word": 3,
+          "ana": [
+            {
+              "lex": "they",
+              "gr.pos": "PRP"
+            }
+          ]
+        },
+        {
+          "wf": "never",
+          "wtype": "word",
+          "off_start": 14,
+          "off_end": 19,
+          "sentence_index": 3,
+          "next_word": 4,
+          "ana": [
+            {
+              "lex": "never",
+              "gr.pos": "RB"
+            }
+          ]
+        },
+        {
+          "wf": "equal",
+          "wtype": "word",
+          "off_start": 19,
+          "off_end": 24,
+          "sentence_index": 4,
+          "next_word": 5,
+          "ana": [
+            {
+              "lex": "equal",
+              "gr.pos": "JJ"
+            }
+          ]
+        },
+        {
+          "wf": "stars",
+          "wtype": "word",
+          "off_start": 24,
+          "off_end": 29,
+          "sentence_index": 5,
+          "next_word": 6,
+          "ana": [
+            {
+              "lex": "star",
+              "gr.pos": "NNS"
+            }
+          ]
+        },
+        {
+          "wf": "in",
+          "wtype": "word",
+          "off_start": 29,
+          "off_end": 31,
+          "sentence_index": 6,
+          "next_word": 7,
+          "ana": [
+            {
+              "lex": "in",
+              "gr.pos": "IN"
+            }
+          ]
+        },
+        {
+          "wf": "size",
+          "wtype": "word",
+          "off_start": 31,
+          "off_end": 35,
+          "sentence_index": 7,
+          "next_word": 8,
+          "ana": [
+            {
+              "lex": "size",
+              "gr.pos": "NN"
+            }
+          ]
+        },
+        {
+          "wf": ",",
+          "wtype": "punct",
+          "off_start": 35,
+          "off_end": 36,
+          "sentence_index": 8,
+          "next_word": 9
+        }
+      ],
+      "lang": 1,
+      "meta": {
+        "meter": "swwswswsws",
+        "stanza": "0"
+      }
+    },
+    {
+      "text ": "(And they were never really stars at heart)",
+      "words": [
+        {
+          "wf": "(",
+          "wtype": "punct",
+          "off_start": 0,
+          "off_end": 1,
+          "sentence_index": 0,
+          "next_word": 1
+        },
+        {
+          "wf": "And",
+          "wtype": "word",
+          "off_start": 1,
+          "off_end": 4,
+          "sentence_index": 1,
+          "next_word": 2,
+          "ana": [
+            {
+              "lex": "And",
+              "gr.pos": "CC"
+            }
+          ]
+        },
+        {
+          "wf": "they",
+          "wtype": "word",
+          "off_start": 4,
+          "off_end": 8,
+          "sentence_index": 2,
+          "next_word": 3,
+          "ana": [
+            {
+              "lex": "they",
+              "gr.pos": "PRP"
+            }
+          ]
+        },
+        {
+          "wf": "were",
+          "wtype": "word",
+          "off_start": 8,
+          "off_end": 12,
+          "sentence_index": 3,
+          "next_word": 4,
+          "ana": [
+            {
+              "lex": "were",
+              "gr.pos": "VBD"
+            }
+          ]
+        },
+        {
+          "wf": "never",
+          "wtype": "word",
+          "off_start": 12,
+          "off_end": 17,
+          "sentence_index": 4,
+          "next_word": 5,
+          "ana": [
+            {
+              "lex": "never",
+              "gr.pos": "RB"
+            }
+          ]
+        },
+        {
+          "wf": "really",
+          "wtype": "word",
+          "off_start": 17,
+          "off_end": 23,
+          "sentence_index": 5,
+          "next_word": 6,
+          "ana": [
+            {
+              "lex": "really",
+              "gr.pos": "RB"
+            }
+          ]
+        },
+        {
+          "wf": "stars",
+          "wtype": "word",
+          "off_start": 23,
+          "off_end": 28,
+          "sentence_index": 6,
+          "next_word": 7,
+          "ana": [
+            {
+              "lex": "star",
+              "gr.pos": "NNS"
+            }
+          ]
+        },
+        {
+          "wf": "at",
+          "wtype": "word",
+          "off_start": 28,
+          "off_end": 30,
+          "sentence_index": 7,
+          "next_word": 8,
+          "ana": [
+            {
+              "lex": "at",
+              "gr.pos": "IN"
+            }
+          ]
+        },
+        {
+          "wf": "heart",
+          "wtype": "word",
+          "off_start": 30,
+          "off_end": 35,
+          "sentence_index": 8,
+          "next_word": 9,
+          "ana": [
+            {
+              "lex": "heart",
+              "gr.pos": "NN"
+            }
+          ]
+        },
+        {
+          "wf": ")",
+          "wtype": "punct",
+          "off_start": 35,
+          "off_end": 36,
+          "sentence_index": 9,
+          "next_word": 10
+        }
+      ],
+      "lang": 1,
+      "meta": {
+        "meter": "wswswswsws",
+        "stanza": "0"
+      }
+    },
+    {
+      "text ": "Achieve at times a very star-like start.",
+      "words": [
+        {
+          "wf": "Achieve",
+          "wtype": "word",
+          "off_start": 0,
+          "off_end": 7,
+          "sentence_index": 0,
+          "next_word": 1,
+          "ana": [
+            {
+              "lex": "Achieve",
+              "gr.pos": "VB"
+            }
+          ]
+        },
+        {
+          "wf": "at",
+          "wtype": "word",
+          "off_start": 7,
+          "off_end": 9,
+          "sentence_index": 1,
+          "next_word": 2,
+          "ana": [
+            {
+              "lex": "at",
+              "gr.pos": "IN"
+            }
+          ]
+        },
+        {
+          "wf": "times",
+          "wtype": "word",
+          "off_start": 9,
+          "off_end": 14,
+          "sentence_index": 2,
+          "next_word": 3,
+          "ana": [
+            {
+              "lex": "time",
+              "gr.pos": "NNS"
+            }
+          ]
+        },
+        {
+          "wf": "a",
+          "wtype": "word",
+          "off_start": 14,
+          "off_end": 15,
+          "sentence_index": 3,
+          "next_word": 4,
+          "ana": [
+            {
+              "lex": "a",
+              "gr.pos": "DT"
+            }
+          ]
+        },
+        {
+          "wf": "very",
+          "wtype": "word",
+          "off_start": 15,
+          "off_end": 19,
+          "sentence_index": 4,
+          "next_word": 5,
+          "ana": [
+            {
+              "lex": "very",
+              "gr.pos": "RB"
+            }
+          ]
+        },
+        {
+          "wf": "star-like",
+          "wtype": "word",
+          "off_start": 19,
+          "off_end": 28,
+          "sentence_index": 5,
+          "next_word": 6,
+          "ana": [
+            {
+              "lex": "star-like",
+              "gr.pos": "NN"
+            }
+          ]
+        },
+        {
+          "wf": "start",
+          "wtype": "word",
+          "off_start": 28,
+          "off_end": 33,
+          "sentence_index": 6,
+          "next_word": 7,
+          "ana": [
+            {
+              "lex": "start",
+              "gr.pos": "NN"
+            }
+          ]
+        },
+        {
+          "wf": ".",
+          "wtype": "punct",
+          "off_start": 33,
+          "off_end": 34,
+          "sentence_index": 7,
+          "next_word": 8
+        }
+      ],
+      "lang": 1,
+      "meta": {
+        "meter": "wswswswsws",
+        "stanza": "0"
+      }
+    },
+    {
+      "text ": "Only, of course, they can't sustain the part.",
+      "words": [
+        {
+          "wf": "Only",
+          "wtype": "word",
+          "off_start": 0,
+          "off_end": 4,
+          "sentence_index": 0,
+          "next_word": 1,
+          "ana": [
+            {
+              "lex": "Only",
+              "gr.pos": "RB"
+            }
+          ]
+        },
+        {
+          "wf": ",",
+          "wtype": "punct",
+          "off_start": 4,
+          "off_end": 5,
+          "sentence_index": 1,
+          "next_word": 2
+        },
+        {
+          "wf": "of",
+          "wtype": "word",
+          "off_start": 5,
+          "off_end": 7,
+          "sentence_index": 2,
+          "next_word": 3,
+          "ana": [
+            {
+              "lex": "of",
+              "gr.pos": "IN"
+            }
+          ]
+        },
+        {
+          "wf": "course",
+          "wtype": "word",
+          "off_start": 7,
+          "off_end": 13,
+          "sentence_index": 3,
+          "next_word": 4,
+          "ana": [
+            {
+              "lex": "course",
+              "gr.pos": "NN"
+            }
+          ]
+        },
+        {
+          "wf": ",",
+          "wtype": "punct",
+          "off_start": 13,
+          "off_end": 14,
+          "sentence_index": 4,
+          "next_word": 5
+        },
+        {
+          "wf": "they",
+          "wtype": "word",
+          "off_start": 14,
+          "off_end": 18,
+          "sentence_index": 5,
+          "next_word": 6,
+          "ana": [
+            {
+              "lex": "they",
+              "gr.pos": "PRP"
+            }
+          ]
+        },
+        {
+          "wf": "ca",
+          "wtype": "word",
+          "off_start": 18,
+          "off_end": 20,
+          "sentence_index": 6,
+          "next_word": 7,
+          "ana": [
+            {
+              "lex": "ca",
+              "gr.pos": "MD"
+            }
+          ]
+        },
+        {
+          "wf": "n't",
+          "wtype": "word",
+          "off_start": 20,
+          "off_end": 23,
+          "sentence_index": 7,
+          "next_word": 8,
+          "ana": [
+            {
+              "lex": "n't",
+              "gr.pos": "RB"
+            }
+          ]
+        },
+        {
+          "wf": "sustain",
+          "wtype": "word",
+          "off_start": 23,
+          "off_end": 30,
+          "sentence_index": 8,
+          "next_word": 9,
+          "ana": [
+            {
+              "lex": "sustain",
+              "gr.pos": "NN"
+            }
+          ]
+        },
+        {
+          "wf": "the",
+          "wtype": "word",
+          "off_start": 30,
+          "off_end": 33,
+          "sentence_index": 9,
+          "next_word": 10,
+          "ana": [
+            {
+              "lex": "the",
+              "gr.pos": "DT"
+            }
+          ]
+        },
+        {
+          "wf": "part",
+          "wtype": "word",
+          "off_start": 33,
+          "off_end": 37,
+          "sentence_index": 10,
+          "next_word": 11,
+          "ana": [
+            {
+              "lex": "part",
+              "gr.pos": "NN"
+            }
+          ]
+        },
+        {
+          "wf": ".",
+          "wtype": "punct",
+          "off_start": 37,
+          "off_end": 38,
+          "sentence_index": 11,
+          "next_word": 12
+        }
+      ],
+      "lang": 1,
+      "meta": {
+        "meter": "swwswswsws",
+        "stanza": "0"
+      }
+    }
+  ]
+}

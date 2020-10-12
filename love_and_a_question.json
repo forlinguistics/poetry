@@ -1,0 +1,3560 @@
+{
+    "meta": {
+        "filename": "love_and_a_question.json",
+        "title": "Love and a Question",
+        "author": "Robert Frost",
+        "language": "English",
+        "school/period": "proto",
+        "number_of_stanzas": "4",
+        "has_rhyme": "True",
+        "rhyme_scheme": "01213454"
+    },
+    "sentences": [
+        {
+            "text ": "A Stranger came to the door at eve,",
+            "words": [
+                {
+                    "wf": "A",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 1,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "ana": [
+                        {
+                            "lex": "A",
+                            "gr.pos": "DT"
+                        }
+                    ]
+                },
+                {
+                    "wf": "Stranger",
+                    "wtype": "word",
+                    "off_start": 1,
+                    "off_end": 9,
+                    "sentence_index": 1,
+                    "next_word": 2,
+                    "ana": [
+                        {
+                            "lex": "Stranger",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "came",
+                    "wtype": "word",
+                    "off_start": 9,
+                    "off_end": 13,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "ana": [
+                        {
+                            "lex": "came",
+                            "gr.pos": "VBD"
+                        }
+                    ]
+                },
+                {
+                    "wf": "to",
+                    "wtype": "word",
+                    "off_start": 13,
+                    "off_end": 15,
+                    "sentence_index": 3,
+                    "next_word": 4,
+                    "ana": [
+                        {
+                            "lex": "to",
+                            "gr.pos": "TO"
+                        }
+                    ]
+                },
+                {
+                    "wf": "the",
+                    "wtype": "word",
+                    "off_start": 15,
+                    "off_end": 18,
+                    "sentence_index": 4,
+                    "next_word": 5,
+                    "ana": [
+                        {
+                            "lex": "the",
+                            "gr.pos": "DT"
+                        }
+                    ]
+                },
+                {
+                    "wf": "door",
+                    "wtype": "word",
+                    "off_start": 18,
+                    "off_end": 22,
+                    "sentence_index": 5,
+                    "next_word": 6,
+                    "ana": [
+                        {
+                            "lex": "door",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "at",
+                    "wtype": "word",
+                    "off_start": 22,
+                    "off_end": 24,
+                    "sentence_index": 6,
+                    "next_word": 7,
+                    "ana": [
+                        {
+                            "lex": "at",
+                            "gr.pos": "IN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "eve",
+                    "wtype": "word",
+                    "off_start": 24,
+                    "off_end": 27,
+                    "sentence_index": 7,
+                    "next_word": 8,
+                    "ana": [
+                        {
+                            "lex": "eve",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 27,
+                    "off_end": 28,
+                    "sentence_index": 8,
+                    "next_word": 9
+                }
+            ],
+            "lang": 1,
+            "meta": {
+                "meter": "wswswwsws",
+                "stanza": "0"
+            }
+        },
+        {
+            "text ": "And he spoke the bridegroom fair.",
+            "words": [
+                {
+                    "wf": "And",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 3,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "ana": [
+                        {
+                            "lex": "And",
+                            "gr.pos": "CC"
+                        }
+                    ]
+                },
+                {
+                    "wf": "he",
+                    "wtype": "word",
+                    "off_start": 3,
+                    "off_end": 5,
+                    "sentence_index": 1,
+                    "next_word": 2,
+                    "ana": [
+                        {
+                            "lex": "he",
+                            "gr.pos": "PRP"
+                        }
+                    ]
+                },
+                {
+                    "wf": "spoke",
+                    "wtype": "word",
+                    "off_start": 5,
+                    "off_end": 10,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "ana": [
+                        {
+                            "lex": "spoke",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "the",
+                    "wtype": "word",
+                    "off_start": 10,
+                    "off_end": 13,
+                    "sentence_index": 3,
+                    "next_word": 4,
+                    "ana": [
+                        {
+                            "lex": "the",
+                            "gr.pos": "DT"
+                        }
+                    ]
+                },
+                {
+                    "wf": "bridegroom",
+                    "wtype": "word",
+                    "off_start": 13,
+                    "off_end": 23,
+                    "sentence_index": 4,
+                    "next_word": 5,
+                    "ana": [
+                        {
+                            "lex": "bridegroom",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "fair",
+                    "wtype": "word",
+                    "off_start": 23,
+                    "off_end": 27,
+                    "sentence_index": 5,
+                    "next_word": 6,
+                    "ana": [
+                        {
+                            "lex": "fair",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                },
+                {
+                    "wf": ".",
+                    "wtype": "punct",
+                    "off_start": 27,
+                    "off_end": 28,
+                    "sentence_index": 6,
+                    "next_word": 7
+                }
+            ],
+            "lang": 1,
+            "meta": {
+                "meter": "wwswsws",
+                "stanza": "0"
+            }
+        },
+        {
+            "text ": "He bore a green-white stick in his hand,",
+            "words": [
+                {
+                    "wf": "He",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 2,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "ana": [
+                        {
+                            "lex": "He",
+                            "gr.pos": "PRP"
+                        }
+                    ]
+                },
+                {
+                    "wf": "bore",
+                    "wtype": "word",
+                    "off_start": 2,
+                    "off_end": 6,
+                    "sentence_index": 1,
+                    "next_word": 2,
+                    "ana": [
+                        {
+                            "lex": "bore",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "a",
+                    "wtype": "word",
+                    "off_start": 6,
+                    "off_end": 7,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "ana": [
+                        {
+                            "lex": "a",
+                            "gr.pos": "DT"
+                        }
+                    ]
+                },
+                {
+                    "wf": "green-white",
+                    "wtype": "word",
+                    "off_start": 7,
+                    "off_end": 18,
+                    "sentence_index": 3,
+                    "next_word": 4,
+                    "ana": [
+                        {
+                            "lex": "green-white",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "stick",
+                    "wtype": "word",
+                    "off_start": 18,
+                    "off_end": 23,
+                    "sentence_index": 4,
+                    "next_word": 5,
+                    "ana": [
+                        {
+                            "lex": "stick",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "in",
+                    "wtype": "word",
+                    "off_start": 23,
+                    "off_end": 25,
+                    "sentence_index": 5,
+                    "next_word": 6,
+                    "ana": [
+                        {
+                            "lex": "in",
+                            "gr.pos": "IN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "his",
+                    "wtype": "word",
+                    "off_start": 25,
+                    "off_end": 28,
+                    "sentence_index": 6,
+                    "next_word": 7,
+                    "ana": [
+                        {
+                            "lex": "his",
+                            "gr.pos": "PRP$"
+                        }
+                    ]
+                },
+                {
+                    "wf": "hand",
+                    "wtype": "word",
+                    "off_start": 28,
+                    "off_end": 32,
+                    "sentence_index": 7,
+                    "next_word": 8,
+                    "ana": [
+                        {
+                            "lex": "hand",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 32,
+                    "off_end": 33,
+                    "sentence_index": 8,
+                    "next_word": 9
+                }
+            ],
+            "lang": 1,
+            "meta": {
+                "meter": "wswswswws",
+                "stanza": "0"
+            }
+        },
+        {
+            "text ": "And, for all burden, care.",
+            "words": [
+                {
+                    "wf": "And",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 3,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "ana": [
+                        {
+                            "lex": "And",
+                            "gr.pos": "CC"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 3,
+                    "off_end": 4,
+                    "sentence_index": 1,
+                    "next_word": 2
+                },
+                {
+                    "wf": "for",
+                    "wtype": "word",
+                    "off_start": 4,
+                    "off_end": 7,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "ana": [
+                        {
+                            "lex": "for",
+                            "gr.pos": "IN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "all",
+                    "wtype": "word",
+                    "off_start": 7,
+                    "off_end": 10,
+                    "sentence_index": 3,
+                    "next_word": 4,
+                    "ana": [
+                        {
+                            "lex": "all",
+                            "gr.pos": "DT"
+                        }
+                    ]
+                },
+                {
+                    "wf": "burden",
+                    "wtype": "word",
+                    "off_start": 10,
+                    "off_end": 16,
+                    "sentence_index": 4,
+                    "next_word": 5,
+                    "ana": [
+                        {
+                            "lex": "burden",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 16,
+                    "off_end": 17,
+                    "sentence_index": 5,
+                    "next_word": 6
+                },
+                {
+                    "wf": "care",
+                    "wtype": "word",
+                    "off_start": 17,
+                    "off_end": 21,
+                    "sentence_index": 6,
+                    "next_word": 7,
+                    "ana": [
+                        {
+                            "lex": "care",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                },
+                {
+                    "wf": ".",
+                    "wtype": "punct",
+                    "off_start": 21,
+                    "off_end": 22,
+                    "sentence_index": 7,
+                    "next_word": 8
+                }
+            ],
+            "lang": 1,
+            "meta": {
+                "meter": "wwssws",
+                "stanza": "0"
+            }
+        },
+        {
+            "text ": "He asked with the eyes more than the lips",
+            "words": [
+                {
+                    "wf": "He",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 2,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "ana": [
+                        {
+                            "lex": "He",
+                            "gr.pos": "PRP"
+                        }
+                    ]
+                },
+                {
+                    "wf": "asked",
+                    "wtype": "word",
+                    "off_start": 2,
+                    "off_end": 7,
+                    "sentence_index": 1,
+                    "next_word": 2,
+                    "ana": [
+                        {
+                            "lex": "asked",
+                            "gr.pos": "VBN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "with",
+                    "wtype": "word",
+                    "off_start": 7,
+                    "off_end": 11,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "ana": [
+                        {
+                            "lex": "with",
+                            "gr.pos": "IN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "the",
+                    "wtype": "word",
+                    "off_start": 11,
+                    "off_end": 14,
+                    "sentence_index": 3,
+                    "next_word": 4,
+                    "ana": [
+                        {
+                            "lex": "the",
+                            "gr.pos": "DT"
+                        }
+                    ]
+                },
+                {
+                    "wf": "eyes",
+                    "wtype": "word",
+                    "off_start": 14,
+                    "off_end": 18,
+                    "sentence_index": 4,
+                    "next_word": 5,
+                    "ana": [
+                        {
+                            "lex": "eye",
+                            "gr.pos": "NNS"
+                        }
+                    ]
+                },
+                {
+                    "wf": "more",
+                    "wtype": "word",
+                    "off_start": 18,
+                    "off_end": 22,
+                    "sentence_index": 5,
+                    "next_word": 6,
+                    "ana": [
+                        {
+                            "lex": "more",
+                            "gr.pos": "RBR"
+                        }
+                    ]
+                },
+                {
+                    "wf": "than",
+                    "wtype": "word",
+                    "off_start": 22,
+                    "off_end": 26,
+                    "sentence_index": 6,
+                    "next_word": 7,
+                    "ana": [
+                        {
+                            "lex": "than",
+                            "gr.pos": "IN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "the",
+                    "wtype": "word",
+                    "off_start": 26,
+                    "off_end": 29,
+                    "sentence_index": 7,
+                    "next_word": 8,
+                    "ana": [
+                        {
+                            "lex": "the",
+                            "gr.pos": "DT"
+                        }
+                    ]
+                },
+                {
+                    "wf": "lips",
+                    "wtype": "word",
+                    "off_start": 29,
+                    "off_end": 33,
+                    "sentence_index": 8,
+                    "next_word": 9,
+                    "ana": [
+                        {
+                            "lex": "lip",
+                            "gr.pos": "NNS"
+                        }
+                    ]
+                }
+            ],
+            "lang": 1,
+            "meta": {
+                "meter": "wswwsswws",
+                "stanza": "0"
+            }
+        },
+        {
+            "text ": "For a shelter for the night,",
+            "words": [
+                {
+                    "wf": "For",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 3,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "ana": [
+                        {
+                            "lex": "For",
+                            "gr.pos": "IN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "a",
+                    "wtype": "word",
+                    "off_start": 3,
+                    "off_end": 4,
+                    "sentence_index": 1,
+                    "next_word": 2,
+                    "ana": [
+                        {
+                            "lex": "a",
+                            "gr.pos": "DT"
+                        }
+                    ]
+                },
+                {
+                    "wf": "shelter",
+                    "wtype": "word",
+                    "off_start": 4,
+                    "off_end": 11,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "ana": [
+                        {
+                            "lex": "shelter",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "for",
+                    "wtype": "word",
+                    "off_start": 11,
+                    "off_end": 14,
+                    "sentence_index": 3,
+                    "next_word": 4,
+                    "ana": [
+                        {
+                            "lex": "for",
+                            "gr.pos": "IN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "the",
+                    "wtype": "word",
+                    "off_start": 14,
+                    "off_end": 17,
+                    "sentence_index": 4,
+                    "next_word": 5,
+                    "ana": [
+                        {
+                            "lex": "the",
+                            "gr.pos": "DT"
+                        }
+                    ]
+                },
+                {
+                    "wf": "night",
+                    "wtype": "word",
+                    "off_start": 17,
+                    "off_end": 22,
+                    "sentence_index": 5,
+                    "next_word": 6,
+                    "ana": [
+                        {
+                            "lex": "night",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 22,
+                    "off_end": 23,
+                    "sentence_index": 6,
+                    "next_word": 7
+                }
+            ],
+            "lang": 1,
+            "meta": {
+                "meter": "wwswsws",
+                "stanza": "0"
+            }
+        },
+        {
+            "text ": "And he turned and looked at the road afar",
+            "words": [
+                {
+                    "wf": "And",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 3,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "ana": [
+                        {
+                            "lex": "And",
+                            "gr.pos": "CC"
+                        }
+                    ]
+                },
+                {
+                    "wf": "he",
+                    "wtype": "word",
+                    "off_start": 3,
+                    "off_end": 5,
+                    "sentence_index": 1,
+                    "next_word": 2,
+                    "ana": [
+                        {
+                            "lex": "he",
+                            "gr.pos": "PRP"
+                        }
+                    ]
+                },
+                {
+                    "wf": "turned",
+                    "wtype": "word",
+                    "off_start": 5,
+                    "off_end": 11,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "ana": [
+                        {
+                            "lex": "turned",
+                            "gr.pos": "VBD"
+                        }
+                    ]
+                },
+                {
+                    "wf": "and",
+                    "wtype": "word",
+                    "off_start": 11,
+                    "off_end": 14,
+                    "sentence_index": 3,
+                    "next_word": 4,
+                    "ana": [
+                        {
+                            "lex": "and",
+                            "gr.pos": "CC"
+                        }
+                    ]
+                },
+                {
+                    "wf": "looked",
+                    "wtype": "word",
+                    "off_start": 14,
+                    "off_end": 20,
+                    "sentence_index": 4,
+                    "next_word": 5,
+                    "ana": [
+                        {
+                            "lex": "looked",
+                            "gr.pos": "VBD"
+                        }
+                    ]
+                },
+                {
+                    "wf": "at",
+                    "wtype": "word",
+                    "off_start": 20,
+                    "off_end": 22,
+                    "sentence_index": 5,
+                    "next_word": 6,
+                    "ana": [
+                        {
+                            "lex": "at",
+                            "gr.pos": "IN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "the",
+                    "wtype": "word",
+                    "off_start": 22,
+                    "off_end": 25,
+                    "sentence_index": 6,
+                    "next_word": 7,
+                    "ana": [
+                        {
+                            "lex": "the",
+                            "gr.pos": "DT"
+                        }
+                    ]
+                },
+                {
+                    "wf": "road",
+                    "wtype": "word",
+                    "off_start": 25,
+                    "off_end": 29,
+                    "sentence_index": 7,
+                    "next_word": 8,
+                    "ana": [
+                        {
+                            "lex": "road",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "afar",
+                    "wtype": "word",
+                    "off_start": 29,
+                    "off_end": 33,
+                    "sentence_index": 8,
+                    "next_word": 9,
+                    "ana": [
+                        {
+                            "lex": "afar",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                }
+            ],
+            "lang": 1,
+            "meta": {
+                "meter": "wwswswwsws",
+                "stanza": "0"
+            }
+        },
+        {
+            "text ": "Without a window light.",
+            "words": [
+                {
+                    "wf": "Without",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 7,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "ana": [
+                        {
+                            "lex": "Without",
+                            "gr.pos": "IN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "a",
+                    "wtype": "word",
+                    "off_start": 7,
+                    "off_end": 8,
+                    "sentence_index": 1,
+                    "next_word": 2,
+                    "ana": [
+                        {
+                            "lex": "a",
+                            "gr.pos": "DT"
+                        }
+                    ]
+                },
+                {
+                    "wf": "window",
+                    "wtype": "word",
+                    "off_start": 8,
+                    "off_end": 14,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "ana": [
+                        {
+                            "lex": "window",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "light",
+                    "wtype": "word",
+                    "off_start": 14,
+                    "off_end": 19,
+                    "sentence_index": 3,
+                    "next_word": 4,
+                    "ana": [
+                        {
+                            "lex": "light",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                },
+                {
+                    "wf": ".",
+                    "wtype": "punct",
+                    "off_start": 19,
+                    "off_end": 20,
+                    "sentence_index": 4,
+                    "next_word": 5
+                }
+            ],
+            "lang": 1,
+            "meta": {
+                "meter": "wswsws",
+                "stanza": "0"
+            }
+        },
+        {
+            "text ": "The bridegroom came forth into the porch",
+            "words": [
+                {
+                    "wf": "The",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 3,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "ana": [
+                        {
+                            "lex": "The",
+                            "gr.pos": "DT"
+                        }
+                    ]
+                },
+                {
+                    "wf": "bridegroom",
+                    "wtype": "word",
+                    "off_start": 3,
+                    "off_end": 13,
+                    "sentence_index": 1,
+                    "next_word": 2,
+                    "ana": [
+                        {
+                            "lex": "bridegroom",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "came",
+                    "wtype": "word",
+                    "off_start": 13,
+                    "off_end": 17,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "ana": [
+                        {
+                            "lex": "came",
+                            "gr.pos": "VBD"
+                        }
+                    ]
+                },
+                {
+                    "wf": "forth",
+                    "wtype": "word",
+                    "off_start": 17,
+                    "off_end": 22,
+                    "sentence_index": 3,
+                    "next_word": 4,
+                    "ana": [
+                        {
+                            "lex": "forth",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "into",
+                    "wtype": "word",
+                    "off_start": 22,
+                    "off_end": 26,
+                    "sentence_index": 4,
+                    "next_word": 5,
+                    "ana": [
+                        {
+                            "lex": "into",
+                            "gr.pos": "IN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "the",
+                    "wtype": "word",
+                    "off_start": 26,
+                    "off_end": 29,
+                    "sentence_index": 5,
+                    "next_word": 6,
+                    "ana": [
+                        {
+                            "lex": "the",
+                            "gr.pos": "DT"
+                        }
+                    ]
+                },
+                {
+                    "wf": "porch",
+                    "wtype": "word",
+                    "off_start": 29,
+                    "off_end": 34,
+                    "sentence_index": 6,
+                    "next_word": 7,
+                    "ana": [
+                        {
+                            "lex": "porch",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                }
+            ],
+            "lang": 1,
+            "meta": {
+                "meter": "wswsswsws",
+                "stanza": "1"
+            }
+        },
+        {
+            "text ": "With, 'Let us look at the sky,",
+            "words": [
+                {
+                    "wf": "With",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 4,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "ana": [
+                        {
+                            "lex": "With",
+                            "gr.pos": "IN"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 4,
+                    "off_end": 5,
+                    "sentence_index": 1,
+                    "next_word": 2
+                },
+                {
+                    "wf": "'Let",
+                    "wtype": "word",
+                    "off_start": 5,
+                    "off_end": 9,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "ana": [
+                        {
+                            "lex": "'Let",
+                            "gr.pos": "NNS"
+                        }
+                    ]
+                },
+                {
+                    "wf": "us",
+                    "wtype": "word",
+                    "off_start": 9,
+                    "off_end": 11,
+                    "sentence_index": 3,
+                    "next_word": 4,
+                    "ana": [
+                        {
+                            "lex": "u",
+                            "gr.pos": "PRP"
+                        }
+                    ]
+                },
+                {
+                    "wf": "look",
+                    "wtype": "word",
+                    "off_start": 11,
+                    "off_end": 15,
+                    "sentence_index": 4,
+                    "next_word": 5,
+                    "ana": [
+                        {
+                            "lex": "look",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "at",
+                    "wtype": "word",
+                    "off_start": 15,
+                    "off_end": 17,
+                    "sentence_index": 5,
+                    "next_word": 6,
+                    "ana": [
+                        {
+                            "lex": "at",
+                            "gr.pos": "IN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "the",
+                    "wtype": "word",
+                    "off_start": 17,
+                    "off_end": 20,
+                    "sentence_index": 6,
+                    "next_word": 7,
+                    "ana": [
+                        {
+                            "lex": "the",
+                            "gr.pos": "DT"
+                        }
+                    ]
+                },
+                {
+                    "wf": "sky",
+                    "wtype": "word",
+                    "off_start": 20,
+                    "off_end": 23,
+                    "sentence_index": 7,
+                    "next_word": 8,
+                    "ana": [
+                        {
+                            "lex": "sky",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 23,
+                    "off_end": 24,
+                    "sentence_index": 8,
+                    "next_word": 9
+                }
+            ],
+            "lang": 1,
+            "meta": {
+                "meter": "wswswws",
+                "stanza": "1"
+            }
+        },
+        {
+            "text ": "And question what of the night to be,",
+            "words": [
+                {
+                    "wf": "And",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 3,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "ana": [
+                        {
+                            "lex": "And",
+                            "gr.pos": "CC"
+                        }
+                    ]
+                },
+                {
+                    "wf": "question",
+                    "wtype": "word",
+                    "off_start": 3,
+                    "off_end": 11,
+                    "sentence_index": 1,
+                    "next_word": 2,
+                    "ana": [
+                        {
+                            "lex": "question",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "what",
+                    "wtype": "word",
+                    "off_start": 11,
+                    "off_end": 15,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "ana": [
+                        {
+                            "lex": "what",
+                            "gr.pos": "WP"
+                        }
+                    ]
+                },
+                {
+                    "wf": "of",
+                    "wtype": "word",
+                    "off_start": 15,
+                    "off_end": 17,
+                    "sentence_index": 3,
+                    "next_word": 4,
+                    "ana": [
+                        {
+                            "lex": "of",
+                            "gr.pos": "IN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "the",
+                    "wtype": "word",
+                    "off_start": 17,
+                    "off_end": 20,
+                    "sentence_index": 4,
+                    "next_word": 5,
+                    "ana": [
+                        {
+                            "lex": "the",
+                            "gr.pos": "DT"
+                        }
+                    ]
+                },
+                {
+                    "wf": "night",
+                    "wtype": "word",
+                    "off_start": 20,
+                    "off_end": 25,
+                    "sentence_index": 5,
+                    "next_word": 6,
+                    "ana": [
+                        {
+                            "lex": "night",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "to",
+                    "wtype": "word",
+                    "off_start": 25,
+                    "off_end": 27,
+                    "sentence_index": 6,
+                    "next_word": 7,
+                    "ana": [
+                        {
+                            "lex": "to",
+                            "gr.pos": "TO"
+                        }
+                    ]
+                },
+                {
+                    "wf": "be",
+                    "wtype": "word",
+                    "off_start": 27,
+                    "off_end": 29,
+                    "sentence_index": 7,
+                    "next_word": 8,
+                    "ana": [
+                        {
+                            "lex": "be",
+                            "gr.pos": "VB"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 29,
+                    "off_end": 30,
+                    "sentence_index": 8,
+                    "next_word": 9
+                }
+            ],
+            "lang": 1,
+            "meta": {
+                "meter": "wswswwsws",
+                "stanza": "1"
+            }
+        },
+        {
+            "text ": "Stranger, you and I.'",
+            "words": [
+                {
+                    "wf": "Stranger",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 8,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "ana": [
+                        {
+                            "lex": "Stranger",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 8,
+                    "off_end": 9,
+                    "sentence_index": 1,
+                    "next_word": 2
+                },
+                {
+                    "wf": "you",
+                    "wtype": "word",
+                    "off_start": 9,
+                    "off_end": 12,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "ana": [
+                        {
+                            "lex": "you",
+                            "gr.pos": "PRP"
+                        }
+                    ]
+                },
+                {
+                    "wf": "and",
+                    "wtype": "word",
+                    "off_start": 12,
+                    "off_end": 15,
+                    "sentence_index": 3,
+                    "next_word": 4,
+                    "ana": [
+                        {
+                            "lex": "and",
+                            "gr.pos": "CC"
+                        }
+                    ]
+                },
+                {
+                    "wf": "I",
+                    "wtype": "word",
+                    "off_start": 15,
+                    "off_end": 16,
+                    "sentence_index": 4,
+                    "next_word": 5,
+                    "ana": [
+                        {
+                            "lex": "I",
+                            "gr.pos": "PRP"
+                        }
+                    ]
+                },
+                {
+                    "wf": ".",
+                    "wtype": "punct",
+                    "off_start": 16,
+                    "off_end": 17,
+                    "sentence_index": 5,
+                    "next_word": 6
+                },
+                {
+                    "wf": "'",
+                    "wtype": "punct",
+                    "off_start": 17,
+                    "off_end": 18,
+                    "sentence_index": 6,
+                    "next_word": 7
+                }
+            ],
+            "lang": 1,
+            "meta": {
+                "meter": "swsws",
+                "stanza": "1"
+            }
+        },
+        {
+            "text ": "The woodbine leaves littered the yard,",
+            "words": [
+                {
+                    "wf": "The",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 3,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "ana": [
+                        {
+                            "lex": "The",
+                            "gr.pos": "DT"
+                        }
+                    ]
+                },
+                {
+                    "wf": "woodbine",
+                    "wtype": "word",
+                    "off_start": 3,
+                    "off_end": 11,
+                    "sentence_index": 1,
+                    "next_word": 2,
+                    "ana": [
+                        {
+                            "lex": "woodbine",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "leaves",
+                    "wtype": "word",
+                    "off_start": 11,
+                    "off_end": 17,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "ana": [
+                        {
+                            "lex": "leaf",
+                            "gr.pos": "NNS"
+                        }
+                    ]
+                },
+                {
+                    "wf": "littered",
+                    "wtype": "word",
+                    "off_start": 17,
+                    "off_end": 25,
+                    "sentence_index": 3,
+                    "next_word": 4,
+                    "ana": [
+                        {
+                            "lex": "littered",
+                            "gr.pos": "VBN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "the",
+                    "wtype": "word",
+                    "off_start": 25,
+                    "off_end": 28,
+                    "sentence_index": 4,
+                    "next_word": 5,
+                    "ana": [
+                        {
+                            "lex": "the",
+                            "gr.pos": "DT"
+                        }
+                    ]
+                },
+                {
+                    "wf": "yard",
+                    "wtype": "word",
+                    "off_start": 28,
+                    "off_end": 32,
+                    "sentence_index": 5,
+                    "next_word": 6,
+                    "ana": [
+                        {
+                            "lex": "yard",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 32,
+                    "off_end": 33,
+                    "sentence_index": 6,
+                    "next_word": 7
+                }
+            ],
+            "lang": 1,
+            "meta": {
+                "meter": "wswsswws",
+                "stanza": "1"
+            }
+        },
+        {
+            "text ": "The woodbine berries were blue,",
+            "words": [
+                {
+                    "wf": "The",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 3,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "ana": [
+                        {
+                            "lex": "The",
+                            "gr.pos": "DT"
+                        }
+                    ]
+                },
+                {
+                    "wf": "woodbine",
+                    "wtype": "word",
+                    "off_start": 3,
+                    "off_end": 11,
+                    "sentence_index": 1,
+                    "next_word": 2,
+                    "ana": [
+                        {
+                            "lex": "woodbine",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "berries",
+                    "wtype": "word",
+                    "off_start": 11,
+                    "off_end": 18,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "ana": [
+                        {
+                            "lex": "berry",
+                            "gr.pos": "NNS"
+                        }
+                    ]
+                },
+                {
+                    "wf": "were",
+                    "wtype": "word",
+                    "off_start": 18,
+                    "off_end": 22,
+                    "sentence_index": 3,
+                    "next_word": 4,
+                    "ana": [
+                        {
+                            "lex": "were",
+                            "gr.pos": "VBD"
+                        }
+                    ]
+                },
+                {
+                    "wf": "blue",
+                    "wtype": "word",
+                    "off_start": 22,
+                    "off_end": 26,
+                    "sentence_index": 4,
+                    "next_word": 5,
+                    "ana": [
+                        {
+                            "lex": "blue",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 26,
+                    "off_end": 27,
+                    "sentence_index": 5,
+                    "next_word": 6
+                }
+            ],
+            "lang": 1,
+            "meta": {
+                "meter": "wswswws",
+                "stanza": "1"
+            }
+        },
+        {
+            "text ": "Autumn, yes, winter was in the wind;",
+            "words": [
+                {
+                    "wf": "Autumn",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 6,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "ana": [
+                        {
+                            "lex": "Autumn",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 6,
+                    "off_end": 7,
+                    "sentence_index": 1,
+                    "next_word": 2
+                },
+                {
+                    "wf": "yes",
+                    "wtype": "word",
+                    "off_start": 7,
+                    "off_end": 10,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "ana": [
+                        {
+                            "lex": "yes",
+                            "gr.pos": "NNS"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 10,
+                    "off_end": 11,
+                    "sentence_index": 3,
+                    "next_word": 4
+                },
+                {
+                    "wf": "winter",
+                    "wtype": "word",
+                    "off_start": 11,
+                    "off_end": 17,
+                    "sentence_index": 4,
+                    "next_word": 5,
+                    "ana": [
+                        {
+                            "lex": "winter",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "was",
+                    "wtype": "word",
+                    "off_start": 17,
+                    "off_end": 20,
+                    "sentence_index": 5,
+                    "next_word": 6,
+                    "ana": [
+                        {
+                            "lex": "wa",
+                            "gr.pos": "VBD"
+                        }
+                    ]
+                },
+                {
+                    "wf": "in",
+                    "wtype": "word",
+                    "off_start": 20,
+                    "off_end": 22,
+                    "sentence_index": 6,
+                    "next_word": 7,
+                    "ana": [
+                        {
+                            "lex": "in",
+                            "gr.pos": "IN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "the",
+                    "wtype": "word",
+                    "off_start": 22,
+                    "off_end": 25,
+                    "sentence_index": 7,
+                    "next_word": 8,
+                    "ana": [
+                        {
+                            "lex": "the",
+                            "gr.pos": "DT"
+                        }
+                    ]
+                },
+                {
+                    "wf": "wind",
+                    "wtype": "word",
+                    "off_start": 25,
+                    "off_end": 29,
+                    "sentence_index": 8,
+                    "next_word": 9,
+                    "ana": [
+                        {
+                            "lex": "wind",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                },
+                {
+                    "wf": ";",
+                    "wtype": "punct",
+                    "off_start": 29,
+                    "off_end": 30,
+                    "sentence_index": 9,
+                    "next_word": 10
+                }
+            ],
+            "lang": 1,
+            "meta": {
+                "meter": "swsswswws",
+                "stanza": "1"
+            }
+        },
+        {
+            "text ": "'Stranger, I wish I knew.'",
+            "words": [
+                {
+                    "wf": "'Stranger",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 9,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "ana": [
+                        {
+                            "lex": "'Stranger",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 9,
+                    "off_end": 10,
+                    "sentence_index": 1,
+                    "next_word": 2
+                },
+                {
+                    "wf": "I",
+                    "wtype": "word",
+                    "off_start": 10,
+                    "off_end": 11,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "ana": [
+                        {
+                            "lex": "I",
+                            "gr.pos": "PRP"
+                        }
+                    ]
+                },
+                {
+                    "wf": "wish",
+                    "wtype": "word",
+                    "off_start": 11,
+                    "off_end": 15,
+                    "sentence_index": 3,
+                    "next_word": 4,
+                    "ana": [
+                        {
+                            "lex": "wish",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "I",
+                    "wtype": "word",
+                    "off_start": 15,
+                    "off_end": 16,
+                    "sentence_index": 4,
+                    "next_word": 5,
+                    "ana": [
+                        {
+                            "lex": "I",
+                            "gr.pos": "PRP"
+                        }
+                    ]
+                },
+                {
+                    "wf": "knew",
+                    "wtype": "word",
+                    "off_start": 16,
+                    "off_end": 20,
+                    "sentence_index": 5,
+                    "next_word": 6,
+                    "ana": [
+                        {
+                            "lex": "knew",
+                            "gr.pos": "NNS"
+                        }
+                    ]
+                },
+                {
+                    "wf": ".",
+                    "wtype": "punct",
+                    "off_start": 20,
+                    "off_end": 21,
+                    "sentence_index": 6,
+                    "next_word": 7
+                },
+                {
+                    "wf": "'",
+                    "wtype": "punct",
+                    "off_start": 21,
+                    "off_end": 22,
+                    "sentence_index": 7,
+                    "next_word": 8
+                }
+            ],
+            "lang": 1,
+            "meta": {
+                "meter": "swssws",
+                "stanza": "1"
+            }
+        },
+        {
+            "text ": "Within, the bride in the dusk alone",
+            "words": [
+                {
+                    "wf": "Within",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 6,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "ana": [
+                        {
+                            "lex": "Within",
+                            "gr.pos": "IN"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 6,
+                    "off_end": 7,
+                    "sentence_index": 1,
+                    "next_word": 2
+                },
+                {
+                    "wf": "the",
+                    "wtype": "word",
+                    "off_start": 7,
+                    "off_end": 10,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "ana": [
+                        {
+                            "lex": "the",
+                            "gr.pos": "DT"
+                        }
+                    ]
+                },
+                {
+                    "wf": "bride",
+                    "wtype": "word",
+                    "off_start": 10,
+                    "off_end": 15,
+                    "sentence_index": 3,
+                    "next_word": 4,
+                    "ana": [
+                        {
+                            "lex": "bride",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "in",
+                    "wtype": "word",
+                    "off_start": 15,
+                    "off_end": 17,
+                    "sentence_index": 4,
+                    "next_word": 5,
+                    "ana": [
+                        {
+                            "lex": "in",
+                            "gr.pos": "IN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "the",
+                    "wtype": "word",
+                    "off_start": 17,
+                    "off_end": 20,
+                    "sentence_index": 5,
+                    "next_word": 6,
+                    "ana": [
+                        {
+                            "lex": "the",
+                            "gr.pos": "DT"
+                        }
+                    ]
+                },
+                {
+                    "wf": "dusk",
+                    "wtype": "word",
+                    "off_start": 20,
+                    "off_end": 24,
+                    "sentence_index": 6,
+                    "next_word": 7,
+                    "ana": [
+                        {
+                            "lex": "dusk",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "alone",
+                    "wtype": "word",
+                    "off_start": 24,
+                    "off_end": 29,
+                    "sentence_index": 7,
+                    "next_word": 8,
+                    "ana": [
+                        {
+                            "lex": "alone",
+                            "gr.pos": "RB"
+                        }
+                    ]
+                }
+            ],
+            "lang": 1,
+            "meta": {
+                "meter": "wswswwsws",
+                "stanza": "2"
+            }
+        },
+        {
+            "text ": "Bent over the open fire,",
+            "words": [
+                {
+                    "wf": "Bent",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 4,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "ana": [
+                        {
+                            "lex": "Bent",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "over",
+                    "wtype": "word",
+                    "off_start": 4,
+                    "off_end": 8,
+                    "sentence_index": 1,
+                    "next_word": 2,
+                    "ana": [
+                        {
+                            "lex": "over",
+                            "gr.pos": "IN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "the",
+                    "wtype": "word",
+                    "off_start": 8,
+                    "off_end": 11,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "ana": [
+                        {
+                            "lex": "the",
+                            "gr.pos": "DT"
+                        }
+                    ]
+                },
+                {
+                    "wf": "open",
+                    "wtype": "word",
+                    "off_start": 11,
+                    "off_end": 15,
+                    "sentence_index": 3,
+                    "next_word": 4,
+                    "ana": [
+                        {
+                            "lex": "open",
+                            "gr.pos": "JJ"
+                        }
+                    ]
+                },
+                {
+                    "wf": "fire",
+                    "wtype": "word",
+                    "off_start": 15,
+                    "off_end": 19,
+                    "sentence_index": 4,
+                    "next_word": 5,
+                    "ana": [
+                        {
+                            "lex": "fire",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 19,
+                    "off_end": 20,
+                    "sentence_index": 5,
+                    "next_word": 6
+                }
+            ],
+            "lang": 1,
+            "meta": {
+                "meter": "sswwswsw",
+                "stanza": "2"
+            }
+        },
+        {
+            "text ": "Her face rose-red with the glowing coal",
+            "words": [
+                {
+                    "wf": "Her",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 3,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "ana": [
+                        {
+                            "lex": "Her",
+                            "gr.pos": "PRP$"
+                        }
+                    ]
+                },
+                {
+                    "wf": "face",
+                    "wtype": "word",
+                    "off_start": 3,
+                    "off_end": 7,
+                    "sentence_index": 1,
+                    "next_word": 2,
+                    "ana": [
+                        {
+                            "lex": "face",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "rose-red",
+                    "wtype": "word",
+                    "off_start": 7,
+                    "off_end": 15,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "ana": [
+                        {
+                            "lex": "rose-red",
+                            "gr.pos": "JJ"
+                        }
+                    ]
+                },
+                {
+                    "wf": "with",
+                    "wtype": "word",
+                    "off_start": 15,
+                    "off_end": 19,
+                    "sentence_index": 3,
+                    "next_word": 4,
+                    "ana": [
+                        {
+                            "lex": "with",
+                            "gr.pos": "IN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "the",
+                    "wtype": "word",
+                    "off_start": 19,
+                    "off_end": 22,
+                    "sentence_index": 4,
+                    "next_word": 5,
+                    "ana": [
+                        {
+                            "lex": "the",
+                            "gr.pos": "DT"
+                        }
+                    ]
+                },
+                {
+                    "wf": "glowing",
+                    "wtype": "word",
+                    "off_start": 22,
+                    "off_end": 29,
+                    "sentence_index": 5,
+                    "next_word": 6,
+                    "ana": [
+                        {
+                            "lex": "glowing",
+                            "gr.pos": "VBG"
+                        }
+                    ]
+                },
+                {
+                    "wf": "coal",
+                    "wtype": "word",
+                    "off_start": 29,
+                    "off_end": 33,
+                    "sentence_index": 6,
+                    "next_word": 7,
+                    "ana": [
+                        {
+                            "lex": "coal",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                }
+            ],
+            "lang": 1,
+            "meta": {
+                "meter": "wswswwsws",
+                "stanza": "2"
+            }
+        },
+        {
+            "text ": "And the thought of the heart's desire.",
+            "words": [
+                {
+                    "wf": "And",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 3,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "ana": [
+                        {
+                            "lex": "And",
+                            "gr.pos": "CC"
+                        }
+                    ]
+                },
+                {
+                    "wf": "the",
+                    "wtype": "word",
+                    "off_start": 3,
+                    "off_end": 6,
+                    "sentence_index": 1,
+                    "next_word": 2,
+                    "ana": [
+                        {
+                            "lex": "the",
+                            "gr.pos": "DT"
+                        }
+                    ]
+                },
+                {
+                    "wf": "thought",
+                    "wtype": "word",
+                    "off_start": 6,
+                    "off_end": 13,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "ana": [
+                        {
+                            "lex": "thought",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "of",
+                    "wtype": "word",
+                    "off_start": 13,
+                    "off_end": 15,
+                    "sentence_index": 3,
+                    "next_word": 4,
+                    "ana": [
+                        {
+                            "lex": "of",
+                            "gr.pos": "IN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "the",
+                    "wtype": "word",
+                    "off_start": 15,
+                    "off_end": 18,
+                    "sentence_index": 4,
+                    "next_word": 5,
+                    "ana": [
+                        {
+                            "lex": "the",
+                            "gr.pos": "DT"
+                        }
+                    ]
+                },
+                {
+                    "wf": "heart",
+                    "wtype": "word",
+                    "off_start": 18,
+                    "off_end": 23,
+                    "sentence_index": 5,
+                    "next_word": 6,
+                    "ana": [
+                        {
+                            "lex": "heart",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "'s",
+                    "wtype": "word",
+                    "off_start": 23,
+                    "off_end": 25,
+                    "sentence_index": 6,
+                    "next_word": 7,
+                    "ana": [
+                        {
+                            "lex": "'s",
+                            "gr.pos": "POS"
+                        }
+                    ]
+                },
+                {
+                    "wf": "desire",
+                    "wtype": "word",
+                    "off_start": 25,
+                    "off_end": 31,
+                    "sentence_index": 7,
+                    "next_word": 8,
+                    "ana": [
+                        {
+                            "lex": "desire",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                },
+                {
+                    "wf": ".",
+                    "wtype": "punct",
+                    "off_start": 31,
+                    "off_end": 32,
+                    "sentence_index": 8,
+                    "next_word": 9
+                }
+            ],
+            "lang": 1,
+            "meta": {
+                "meter": "wwswwswsw",
+                "stanza": "2"
+            }
+        },
+        {
+            "text ": "The bridegroom looked at the weary road,",
+            "words": [
+                {
+                    "wf": "The",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 3,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "ana": [
+                        {
+                            "lex": "The",
+                            "gr.pos": "DT"
+                        }
+                    ]
+                },
+                {
+                    "wf": "bridegroom",
+                    "wtype": "word",
+                    "off_start": 3,
+                    "off_end": 13,
+                    "sentence_index": 1,
+                    "next_word": 2,
+                    "ana": [
+                        {
+                            "lex": "bridegroom",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "looked",
+                    "wtype": "word",
+                    "off_start": 13,
+                    "off_end": 19,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "ana": [
+                        {
+                            "lex": "looked",
+                            "gr.pos": "VBD"
+                        }
+                    ]
+                },
+                {
+                    "wf": "at",
+                    "wtype": "word",
+                    "off_start": 19,
+                    "off_end": 21,
+                    "sentence_index": 3,
+                    "next_word": 4,
+                    "ana": [
+                        {
+                            "lex": "at",
+                            "gr.pos": "IN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "the",
+                    "wtype": "word",
+                    "off_start": 21,
+                    "off_end": 24,
+                    "sentence_index": 4,
+                    "next_word": 5,
+                    "ana": [
+                        {
+                            "lex": "the",
+                            "gr.pos": "DT"
+                        }
+                    ]
+                },
+                {
+                    "wf": "weary",
+                    "wtype": "word",
+                    "off_start": 24,
+                    "off_end": 29,
+                    "sentence_index": 5,
+                    "next_word": 6,
+                    "ana": [
+                        {
+                            "lex": "weary",
+                            "gr.pos": "JJ"
+                        }
+                    ]
+                },
+                {
+                    "wf": "road",
+                    "wtype": "word",
+                    "off_start": 29,
+                    "off_end": 33,
+                    "sentence_index": 6,
+                    "next_word": 7,
+                    "ana": [
+                        {
+                            "lex": "road",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 33,
+                    "off_end": 34,
+                    "sentence_index": 7,
+                    "next_word": 8
+                }
+            ],
+            "lang": 1,
+            "meta": {
+                "meter": "wswswwsws",
+                "stanza": "2"
+            }
+        },
+        {
+            "text ": "Yet saw but her within,",
+            "words": [
+                {
+                    "wf": "Yet",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 3,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "ana": [
+                        {
+                            "lex": "Yet",
+                            "gr.pos": "RB"
+                        }
+                    ]
+                },
+                {
+                    "wf": "saw",
+                    "wtype": "word",
+                    "off_start": 3,
+                    "off_end": 6,
+                    "sentence_index": 1,
+                    "next_word": 2,
+                    "ana": [
+                        {
+                            "lex": "saw",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "but",
+                    "wtype": "word",
+                    "off_start": 6,
+                    "off_end": 9,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "ana": [
+                        {
+                            "lex": "but",
+                            "gr.pos": "CC"
+                        }
+                    ]
+                },
+                {
+                    "wf": "her",
+                    "wtype": "word",
+                    "off_start": 9,
+                    "off_end": 12,
+                    "sentence_index": 3,
+                    "next_word": 4,
+                    "ana": [
+                        {
+                            "lex": "her",
+                            "gr.pos": "PRP$"
+                        }
+                    ]
+                },
+                {
+                    "wf": "within",
+                    "wtype": "word",
+                    "off_start": 12,
+                    "off_end": 18,
+                    "sentence_index": 4,
+                    "next_word": 5,
+                    "ana": [
+                        {
+                            "lex": "within",
+                            "gr.pos": "IN"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 18,
+                    "off_end": 19,
+                    "sentence_index": 5,
+                    "next_word": 6
+                }
+            ],
+            "lang": 1,
+            "meta": {
+                "meter": "wswsws",
+                "stanza": "2"
+            }
+        },
+        {
+            "text ": "And wished her heart in a case of gold",
+            "words": [
+                {
+                    "wf": "And",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 3,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "ana": [
+                        {
+                            "lex": "And",
+                            "gr.pos": "CC"
+                        }
+                    ]
+                },
+                {
+                    "wf": "wished",
+                    "wtype": "word",
+                    "off_start": 3,
+                    "off_end": 9,
+                    "sentence_index": 1,
+                    "next_word": 2,
+                    "ana": [
+                        {
+                            "lex": "wished",
+                            "gr.pos": "VBN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "her",
+                    "wtype": "word",
+                    "off_start": 9,
+                    "off_end": 12,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "ana": [
+                        {
+                            "lex": "her",
+                            "gr.pos": "PRP$"
+                        }
+                    ]
+                },
+                {
+                    "wf": "heart",
+                    "wtype": "word",
+                    "off_start": 12,
+                    "off_end": 17,
+                    "sentence_index": 3,
+                    "next_word": 4,
+                    "ana": [
+                        {
+                            "lex": "heart",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "in",
+                    "wtype": "word",
+                    "off_start": 17,
+                    "off_end": 19,
+                    "sentence_index": 4,
+                    "next_word": 5,
+                    "ana": [
+                        {
+                            "lex": "in",
+                            "gr.pos": "IN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "a",
+                    "wtype": "word",
+                    "off_start": 19,
+                    "off_end": 20,
+                    "sentence_index": 5,
+                    "next_word": 6,
+                    "ana": [
+                        {
+                            "lex": "a",
+                            "gr.pos": "DT"
+                        }
+                    ]
+                },
+                {
+                    "wf": "case",
+                    "wtype": "word",
+                    "off_start": 20,
+                    "off_end": 24,
+                    "sentence_index": 6,
+                    "next_word": 7,
+                    "ana": [
+                        {
+                            "lex": "case",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "of",
+                    "wtype": "word",
+                    "off_start": 24,
+                    "off_end": 26,
+                    "sentence_index": 7,
+                    "next_word": 8,
+                    "ana": [
+                        {
+                            "lex": "of",
+                            "gr.pos": "IN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "gold",
+                    "wtype": "word",
+                    "off_start": 26,
+                    "off_end": 30,
+                    "sentence_index": 8,
+                    "next_word": 9,
+                    "ana": [
+                        {
+                            "lex": "gold",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                }
+            ],
+            "lang": 1,
+            "meta": {
+                "meter": "wswswwsws",
+                "stanza": "2"
+            }
+        },
+        {
+            "text ": "And pinned with a silver pin.",
+            "words": [
+                {
+                    "wf": "And",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 3,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "ana": [
+                        {
+                            "lex": "And",
+                            "gr.pos": "CC"
+                        }
+                    ]
+                },
+                {
+                    "wf": "pinned",
+                    "wtype": "word",
+                    "off_start": 3,
+                    "off_end": 9,
+                    "sentence_index": 1,
+                    "next_word": 2,
+                    "ana": [
+                        {
+                            "lex": "pinned",
+                            "gr.pos": "VBN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "with",
+                    "wtype": "word",
+                    "off_start": 9,
+                    "off_end": 13,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "ana": [
+                        {
+                            "lex": "with",
+                            "gr.pos": "IN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "a",
+                    "wtype": "word",
+                    "off_start": 13,
+                    "off_end": 14,
+                    "sentence_index": 3,
+                    "next_word": 4,
+                    "ana": [
+                        {
+                            "lex": "a",
+                            "gr.pos": "DT"
+                        }
+                    ]
+                },
+                {
+                    "wf": "silver",
+                    "wtype": "word",
+                    "off_start": 14,
+                    "off_end": 20,
+                    "sentence_index": 4,
+                    "next_word": 5,
+                    "ana": [
+                        {
+                            "lex": "silver",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "pin",
+                    "wtype": "word",
+                    "off_start": 20,
+                    "off_end": 23,
+                    "sentence_index": 5,
+                    "next_word": 6,
+                    "ana": [
+                        {
+                            "lex": "pin",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                },
+                {
+                    "wf": ".",
+                    "wtype": "punct",
+                    "off_start": 23,
+                    "off_end": 24,
+                    "sentence_index": 6,
+                    "next_word": 7
+                }
+            ],
+            "lang": 1,
+            "meta": {
+                "meter": "wswwsws",
+                "stanza": "2"
+            }
+        },
+        {
+            "text ": "The bridegroom thought it little to give",
+            "words": [
+                {
+                    "wf": "The",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 3,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "ana": [
+                        {
+                            "lex": "The",
+                            "gr.pos": "DT"
+                        }
+                    ]
+                },
+                {
+                    "wf": "bridegroom",
+                    "wtype": "word",
+                    "off_start": 3,
+                    "off_end": 13,
+                    "sentence_index": 1,
+                    "next_word": 2,
+                    "ana": [
+                        {
+                            "lex": "bridegroom",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "thought",
+                    "wtype": "word",
+                    "off_start": 13,
+                    "off_end": 20,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "ana": [
+                        {
+                            "lex": "thought",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "it",
+                    "wtype": "word",
+                    "off_start": 20,
+                    "off_end": 22,
+                    "sentence_index": 3,
+                    "next_word": 4,
+                    "ana": [
+                        {
+                            "lex": "it",
+                            "gr.pos": "PRP"
+                        }
+                    ]
+                },
+                {
+                    "wf": "little",
+                    "wtype": "word",
+                    "off_start": 22,
+                    "off_end": 28,
+                    "sentence_index": 4,
+                    "next_word": 5,
+                    "ana": [
+                        {
+                            "lex": "little",
+                            "gr.pos": "JJ"
+                        }
+                    ]
+                },
+                {
+                    "wf": "to",
+                    "wtype": "word",
+                    "off_start": 28,
+                    "off_end": 30,
+                    "sentence_index": 5,
+                    "next_word": 6,
+                    "ana": [
+                        {
+                            "lex": "to",
+                            "gr.pos": "TO"
+                        }
+                    ]
+                },
+                {
+                    "wf": "give",
+                    "wtype": "word",
+                    "off_start": 30,
+                    "off_end": 34,
+                    "sentence_index": 6,
+                    "next_word": 7,
+                    "ana": [
+                        {
+                            "lex": "give",
+                            "gr.pos": "VB"
+                        }
+                    ]
+                }
+            ],
+            "lang": 1,
+            "meta": {
+                "meter": "wswswswws",
+                "stanza": "3"
+            }
+        },
+        {
+            "text ": "A dole of bread, a purse,",
+            "words": [
+                {
+                    "wf": "A",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 1,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "ana": [
+                        {
+                            "lex": "A",
+                            "gr.pos": "DT"
+                        }
+                    ]
+                },
+                {
+                    "wf": "dole",
+                    "wtype": "word",
+                    "off_start": 1,
+                    "off_end": 5,
+                    "sentence_index": 1,
+                    "next_word": 2,
+                    "ana": [
+                        {
+                            "lex": "dole",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "of",
+                    "wtype": "word",
+                    "off_start": 5,
+                    "off_end": 7,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "ana": [
+                        {
+                            "lex": "of",
+                            "gr.pos": "IN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "bread",
+                    "wtype": "word",
+                    "off_start": 7,
+                    "off_end": 12,
+                    "sentence_index": 3,
+                    "next_word": 4,
+                    "ana": [
+                        {
+                            "lex": "bread",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 12,
+                    "off_end": 13,
+                    "sentence_index": 4,
+                    "next_word": 5
+                },
+                {
+                    "wf": "a",
+                    "wtype": "word",
+                    "off_start": 13,
+                    "off_end": 14,
+                    "sentence_index": 5,
+                    "next_word": 6,
+                    "ana": [
+                        {
+                            "lex": "a",
+                            "gr.pos": "DT"
+                        }
+                    ]
+                },
+                {
+                    "wf": "purse",
+                    "wtype": "word",
+                    "off_start": 14,
+                    "off_end": 19,
+                    "sentence_index": 6,
+                    "next_word": 7,
+                    "ana": [
+                        {
+                            "lex": "purse",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 19,
+                    "off_end": 20,
+                    "sentence_index": 7,
+                    "next_word": 8
+                }
+            ],
+            "lang": 1,
+            "meta": {
+                "meter": "wswsws",
+                "stanza": "3"
+            }
+        },
+        {
+            "text ": "A heartfelt prayer for the poor of God,",
+            "words": [
+                {
+                    "wf": "A",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 1,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "ana": [
+                        {
+                            "lex": "A",
+                            "gr.pos": "DT"
+                        }
+                    ]
+                },
+                {
+                    "wf": "heartfelt",
+                    "wtype": "word",
+                    "off_start": 1,
+                    "off_end": 10,
+                    "sentence_index": 1,
+                    "next_word": 2,
+                    "ana": [
+                        {
+                            "lex": "heartfelt",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "prayer",
+                    "wtype": "word",
+                    "off_start": 10,
+                    "off_end": 16,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "ana": [
+                        {
+                            "lex": "prayer",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "for",
+                    "wtype": "word",
+                    "off_start": 16,
+                    "off_end": 19,
+                    "sentence_index": 3,
+                    "next_word": 4,
+                    "ana": [
+                        {
+                            "lex": "for",
+                            "gr.pos": "IN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "the",
+                    "wtype": "word",
+                    "off_start": 19,
+                    "off_end": 22,
+                    "sentence_index": 4,
+                    "next_word": 5,
+                    "ana": [
+                        {
+                            "lex": "the",
+                            "gr.pos": "DT"
+                        }
+                    ]
+                },
+                {
+                    "wf": "poor",
+                    "wtype": "word",
+                    "off_start": 22,
+                    "off_end": 26,
+                    "sentence_index": 5,
+                    "next_word": 6,
+                    "ana": [
+                        {
+                            "lex": "poor",
+                            "gr.pos": "JJ"
+                        }
+                    ]
+                },
+                {
+                    "wf": "of",
+                    "wtype": "word",
+                    "off_start": 26,
+                    "off_end": 28,
+                    "sentence_index": 6,
+                    "next_word": 7,
+                    "ana": [
+                        {
+                            "lex": "of",
+                            "gr.pos": "IN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "God",
+                    "wtype": "word",
+                    "off_start": 28,
+                    "off_end": 31,
+                    "sentence_index": 7,
+                    "next_word": 8,
+                    "ana": [
+                        {
+                            "lex": "God",
+                            "gr.pos": "NNP"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 31,
+                    "off_end": 32,
+                    "sentence_index": 8,
+                    "next_word": 9
+                }
+            ],
+            "lang": 1,
+            "meta": {
+                "meter": "wswswwsws",
+                "stanza": "3"
+            }
+        },
+        {
+            "text ": "Or for the rich a curse;",
+            "words": [
+                {
+                    "wf": "Or",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 2,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "ana": [
+                        {
+                            "lex": "Or",
+                            "gr.pos": "CC"
+                        }
+                    ]
+                },
+                {
+                    "wf": "for",
+                    "wtype": "word",
+                    "off_start": 2,
+                    "off_end": 5,
+                    "sentence_index": 1,
+                    "next_word": 2,
+                    "ana": [
+                        {
+                            "lex": "for",
+                            "gr.pos": "IN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "the",
+                    "wtype": "word",
+                    "off_start": 5,
+                    "off_end": 8,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "ana": [
+                        {
+                            "lex": "the",
+                            "gr.pos": "DT"
+                        }
+                    ]
+                },
+                {
+                    "wf": "rich",
+                    "wtype": "word",
+                    "off_start": 8,
+                    "off_end": 12,
+                    "sentence_index": 3,
+                    "next_word": 4,
+                    "ana": [
+                        {
+                            "lex": "rich",
+                            "gr.pos": "JJ"
+                        }
+                    ]
+                },
+                {
+                    "wf": "a",
+                    "wtype": "word",
+                    "off_start": 12,
+                    "off_end": 13,
+                    "sentence_index": 4,
+                    "next_word": 5,
+                    "ana": [
+                        {
+                            "lex": "a",
+                            "gr.pos": "DT"
+                        }
+                    ]
+                },
+                {
+                    "wf": "curse",
+                    "wtype": "word",
+                    "off_start": 13,
+                    "off_end": 18,
+                    "sentence_index": 5,
+                    "next_word": 6,
+                    "ana": [
+                        {
+                            "lex": "curse",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                },
+                {
+                    "wf": ";",
+                    "wtype": "punct",
+                    "off_start": 18,
+                    "off_end": 19,
+                    "sentence_index": 6,
+                    "next_word": 7
+                }
+            ],
+            "lang": 1,
+            "meta": {
+                "meter": "swwsws",
+                "stanza": "3"
+            }
+        },
+        {
+            "text ": "But whether or not a man was asked",
+            "words": [
+                {
+                    "wf": "But",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 3,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "ana": [
+                        {
+                            "lex": "But",
+                            "gr.pos": "CC"
+                        }
+                    ]
+                },
+                {
+                    "wf": "whether",
+                    "wtype": "word",
+                    "off_start": 3,
+                    "off_end": 10,
+                    "sentence_index": 1,
+                    "next_word": 2,
+                    "ana": [
+                        {
+                            "lex": "whether",
+                            "gr.pos": "IN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "or",
+                    "wtype": "word",
+                    "off_start": 10,
+                    "off_end": 12,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "ana": [
+                        {
+                            "lex": "or",
+                            "gr.pos": "CC"
+                        }
+                    ]
+                },
+                {
+                    "wf": "not",
+                    "wtype": "word",
+                    "off_start": 12,
+                    "off_end": 15,
+                    "sentence_index": 3,
+                    "next_word": 4,
+                    "ana": [
+                        {
+                            "lex": "not",
+                            "gr.pos": "RB"
+                        }
+                    ]
+                },
+                {
+                    "wf": "a",
+                    "wtype": "word",
+                    "off_start": 15,
+                    "off_end": 16,
+                    "sentence_index": 4,
+                    "next_word": 5,
+                    "ana": [
+                        {
+                            "lex": "a",
+                            "gr.pos": "DT"
+                        }
+                    ]
+                },
+                {
+                    "wf": "man",
+                    "wtype": "word",
+                    "off_start": 16,
+                    "off_end": 19,
+                    "sentence_index": 5,
+                    "next_word": 6,
+                    "ana": [
+                        {
+                            "lex": "man",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "was",
+                    "wtype": "word",
+                    "off_start": 19,
+                    "off_end": 22,
+                    "sentence_index": 6,
+                    "next_word": 7,
+                    "ana": [
+                        {
+                            "lex": "wa",
+                            "gr.pos": "VBD"
+                        }
+                    ]
+                },
+                {
+                    "wf": "asked",
+                    "wtype": "word",
+                    "off_start": 22,
+                    "off_end": 27,
+                    "sentence_index": 7,
+                    "next_word": 8,
+                    "ana": [
+                        {
+                            "lex": "asked",
+                            "gr.pos": "VBN"
+                        }
+                    ]
+                }
+            ],
+            "lang": 1,
+            "meta": {
+                "meter": "wswwswsws",
+                "stanza": "3"
+            }
+        },
+        {
+            "text ": "To mar the love of two",
+            "words": [
+                {
+                    "wf": "To",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 2,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "ana": [
+                        {
+                            "lex": "To",
+                            "gr.pos": "TO"
+                        }
+                    ]
+                },
+                {
+                    "wf": "mar",
+                    "wtype": "word",
+                    "off_start": 2,
+                    "off_end": 5,
+                    "sentence_index": 1,
+                    "next_word": 2,
+                    "ana": [
+                        {
+                            "lex": "mar",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "the",
+                    "wtype": "word",
+                    "off_start": 5,
+                    "off_end": 8,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "ana": [
+                        {
+                            "lex": "the",
+                            "gr.pos": "DT"
+                        }
+                    ]
+                },
+                {
+                    "wf": "love",
+                    "wtype": "word",
+                    "off_start": 8,
+                    "off_end": 12,
+                    "sentence_index": 3,
+                    "next_word": 4,
+                    "ana": [
+                        {
+                            "lex": "love",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "of",
+                    "wtype": "word",
+                    "off_start": 12,
+                    "off_end": 14,
+                    "sentence_index": 4,
+                    "next_word": 5,
+                    "ana": [
+                        {
+                            "lex": "of",
+                            "gr.pos": "IN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "two",
+                    "wtype": "word",
+                    "off_start": 14,
+                    "off_end": 17,
+                    "sentence_index": 5,
+                    "next_word": 6,
+                    "ana": [
+                        {
+                            "lex": "two",
+                            "gr.pos": "CD"
+                        }
+                    ]
+                }
+            ],
+            "lang": 1,
+            "meta": {
+                "meter": "wswsws",
+                "stanza": "3"
+            }
+        },
+        {
+            "text ": "By harboring woe in the bridal house,",
+            "words": [
+                {
+                    "wf": "By",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 2,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "ana": [
+                        {
+                            "lex": "By",
+                            "gr.pos": "IN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "harboring",
+                    "wtype": "word",
+                    "off_start": 2,
+                    "off_end": 11,
+                    "sentence_index": 1,
+                    "next_word": 2,
+                    "ana": [
+                        {
+                            "lex": "harboring",
+                            "gr.pos": "VBG"
+                        }
+                    ]
+                },
+                {
+                    "wf": "woe",
+                    "wtype": "word",
+                    "off_start": 11,
+                    "off_end": 14,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "ana": [
+                        {
+                            "lex": "woe",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "in",
+                    "wtype": "word",
+                    "off_start": 14,
+                    "off_end": 16,
+                    "sentence_index": 3,
+                    "next_word": 4,
+                    "ana": [
+                        {
+                            "lex": "in",
+                            "gr.pos": "IN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "the",
+                    "wtype": "word",
+                    "off_start": 16,
+                    "off_end": 19,
+                    "sentence_index": 4,
+                    "next_word": 5,
+                    "ana": [
+                        {
+                            "lex": "the",
+                            "gr.pos": "DT"
+                        }
+                    ]
+                },
+                {
+                    "wf": "bridal",
+                    "wtype": "word",
+                    "off_start": 19,
+                    "off_end": 25,
+                    "sentence_index": 5,
+                    "next_word": 6,
+                    "ana": [
+                        {
+                            "lex": "bridal",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "house",
+                    "wtype": "word",
+                    "off_start": 25,
+                    "off_end": 30,
+                    "sentence_index": 6,
+                    "next_word": 7,
+                    "ana": [
+                        {
+                            "lex": "house",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 30,
+                    "off_end": 31,
+                    "sentence_index": 7,
+                    "next_word": 8
+                }
+            ],
+            "lang": 1,
+            "meta": {
+                "meter": "wswswwsws",
+                "stanza": "3"
+            }
+        },
+        {
+            "text ": "The bridegroom wished he knew.",
+            "words": [
+                {
+                    "wf": "The",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 3,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "ana": [
+                        {
+                            "lex": "The",
+                            "gr.pos": "DT"
+                        }
+                    ]
+                },
+                {
+                    "wf": "bridegroom",
+                    "wtype": "word",
+                    "off_start": 3,
+                    "off_end": 13,
+                    "sentence_index": 1,
+                    "next_word": 2,
+                    "ana": [
+                        {
+                            "lex": "bridegroom",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "wished",
+                    "wtype": "word",
+                    "off_start": 13,
+                    "off_end": 19,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "ana": [
+                        {
+                            "lex": "wished",
+                            "gr.pos": "VBN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "he",
+                    "wtype": "word",
+                    "off_start": 19,
+                    "off_end": 21,
+                    "sentence_index": 3,
+                    "next_word": 4,
+                    "ana": [
+                        {
+                            "lex": "he",
+                            "gr.pos": "PRP"
+                        }
+                    ]
+                },
+                {
+                    "wf": "knew",
+                    "wtype": "word",
+                    "off_start": 21,
+                    "off_end": 25,
+                    "sentence_index": 4,
+                    "next_word": 5,
+                    "ana": [
+                        {
+                            "lex": "knew",
+                            "gr.pos": "NNS"
+                        }
+                    ]
+                },
+                {
+                    "wf": ".",
+                    "wtype": "punct",
+                    "off_start": 25,
+                    "off_end": 26,
+                    "sentence_index": 5,
+                    "next_word": 6
+                }
+            ],
+            "lang": 1,
+            "meta": {
+                "meter": "wswsws",
+                "stanza": "3"
+            }
+        }
+    ]
+}

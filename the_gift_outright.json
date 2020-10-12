@@ -1,0 +1,1984 @@
+{
+    "meta": {
+        "filename": "the_gift_outright.json",
+        "title": "The Gift Outright",
+        "author": "Robert Frost",
+        "language": "English",
+        "school/period": "proto",
+        "number_of_stanzas": "1",
+        "has_rhyme": "False",
+        "rhyme_scheme": "None"
+    },
+    "sentences": [
+        {
+            "text ": "The land was ours before we were the land's.",
+            "words": [
+                {
+                    "wf": "The",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 3,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "ana": [
+                        {
+                            "lex": "The",
+                            "gr.pos": "DT"
+                        }
+                    ]
+                },
+                {
+                    "wf": "land",
+                    "wtype": "word",
+                    "off_start": 3,
+                    "off_end": 7,
+                    "sentence_index": 1,
+                    "next_word": 2,
+                    "ana": [
+                        {
+                            "lex": "land",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "was",
+                    "wtype": "word",
+                    "off_start": 7,
+                    "off_end": 10,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "ana": [
+                        {
+                            "lex": "wa",
+                            "gr.pos": "VBD"
+                        }
+                    ]
+                },
+                {
+                    "wf": "ours",
+                    "wtype": "word",
+                    "off_start": 10,
+                    "off_end": 14,
+                    "sentence_index": 3,
+                    "next_word": 4,
+                    "ana": [
+                        {
+                            "lex": "ours",
+                            "gr.pos": "NNS"
+                        }
+                    ]
+                },
+                {
+                    "wf": "before",
+                    "wtype": "word",
+                    "off_start": 14,
+                    "off_end": 20,
+                    "sentence_index": 4,
+                    "next_word": 5,
+                    "ana": [
+                        {
+                            "lex": "before",
+                            "gr.pos": "IN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "we",
+                    "wtype": "word",
+                    "off_start": 20,
+                    "off_end": 22,
+                    "sentence_index": 5,
+                    "next_word": 6,
+                    "ana": [
+                        {
+                            "lex": "we",
+                            "gr.pos": "PRP"
+                        }
+                    ]
+                },
+                {
+                    "wf": "were",
+                    "wtype": "word",
+                    "off_start": 22,
+                    "off_end": 26,
+                    "sentence_index": 6,
+                    "next_word": 7,
+                    "ana": [
+                        {
+                            "lex": "were",
+                            "gr.pos": "VBD"
+                        }
+                    ]
+                },
+                {
+                    "wf": "the",
+                    "wtype": "word",
+                    "off_start": 26,
+                    "off_end": 29,
+                    "sentence_index": 7,
+                    "next_word": 8,
+                    "ana": [
+                        {
+                            "lex": "the",
+                            "gr.pos": "DT"
+                        }
+                    ]
+                },
+                {
+                    "wf": "land",
+                    "wtype": "word",
+                    "off_start": 29,
+                    "off_end": 33,
+                    "sentence_index": 8,
+                    "next_word": 9,
+                    "ana": [
+                        {
+                            "lex": "land",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "'s",
+                    "wtype": "word",
+                    "off_start": 33,
+                    "off_end": 35,
+                    "sentence_index": 9,
+                    "next_word": 10,
+                    "ana": [
+                        {
+                            "lex": "'s",
+                            "gr.pos": "POS"
+                        }
+                    ]
+                },
+                {
+                    "wf": ".",
+                    "wtype": "punct",
+                    "off_start": 35,
+                    "off_end": 36,
+                    "sentence_index": 10,
+                    "next_word": 11
+                }
+            ],
+            "lang": 1,
+            "meta": {
+                "meter": "wswswsswws",
+                "stanza": "0"
+            }
+        },
+        {
+            "text ": "She was our land more than a hundred years",
+            "words": [
+                {
+                    "wf": "She",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 3,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "ana": [
+                        {
+                            "lex": "She",
+                            "gr.pos": "PRP"
+                        }
+                    ]
+                },
+                {
+                    "wf": "was",
+                    "wtype": "word",
+                    "off_start": 3,
+                    "off_end": 6,
+                    "sentence_index": 1,
+                    "next_word": 2,
+                    "ana": [
+                        {
+                            "lex": "wa",
+                            "gr.pos": "VBD"
+                        }
+                    ]
+                },
+                {
+                    "wf": "our",
+                    "wtype": "word",
+                    "off_start": 6,
+                    "off_end": 9,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "ana": [
+                        {
+                            "lex": "our",
+                            "gr.pos": "PRP$"
+                        }
+                    ]
+                },
+                {
+                    "wf": "land",
+                    "wtype": "word",
+                    "off_start": 9,
+                    "off_end": 13,
+                    "sentence_index": 3,
+                    "next_word": 4,
+                    "ana": [
+                        {
+                            "lex": "land",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "more",
+                    "wtype": "word",
+                    "off_start": 13,
+                    "off_end": 17,
+                    "sentence_index": 4,
+                    "next_word": 5,
+                    "ana": [
+                        {
+                            "lex": "more",
+                            "gr.pos": "RBR"
+                        }
+                    ]
+                },
+                {
+                    "wf": "than",
+                    "wtype": "word",
+                    "off_start": 17,
+                    "off_end": 21,
+                    "sentence_index": 5,
+                    "next_word": 6,
+                    "ana": [
+                        {
+                            "lex": "than",
+                            "gr.pos": "IN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "a",
+                    "wtype": "word",
+                    "off_start": 21,
+                    "off_end": 22,
+                    "sentence_index": 6,
+                    "next_word": 7,
+                    "ana": [
+                        {
+                            "lex": "a",
+                            "gr.pos": "DT"
+                        }
+                    ]
+                },
+                {
+                    "wf": "hundred",
+                    "wtype": "word",
+                    "off_start": 22,
+                    "off_end": 29,
+                    "sentence_index": 7,
+                    "next_word": 8,
+                    "ana": [
+                        {
+                            "lex": "hundred",
+                            "gr.pos": "VBN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "years",
+                    "wtype": "word",
+                    "off_start": 29,
+                    "off_end": 34,
+                    "sentence_index": 8,
+                    "next_word": 9,
+                    "ana": [
+                        {
+                            "lex": "year",
+                            "gr.pos": "NNS"
+                        }
+                    ]
+                }
+            ],
+            "lang": 1,
+            "meta": {
+                "meter": "swwsswwsws",
+                "stanza": "0"
+            }
+        },
+        {
+            "text ": "Before we were her people. She was ours",
+            "words": [
+                {
+                    "wf": "Before",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 6,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "ana": [
+                        {
+                            "lex": "Before",
+                            "gr.pos": "IN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "we",
+                    "wtype": "word",
+                    "off_start": 6,
+                    "off_end": 8,
+                    "sentence_index": 1,
+                    "next_word": 2,
+                    "ana": [
+                        {
+                            "lex": "we",
+                            "gr.pos": "PRP"
+                        }
+                    ]
+                },
+                {
+                    "wf": "were",
+                    "wtype": "word",
+                    "off_start": 8,
+                    "off_end": 12,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "ana": [
+                        {
+                            "lex": "were",
+                            "gr.pos": "VBD"
+                        }
+                    ]
+                },
+                {
+                    "wf": "her",
+                    "wtype": "word",
+                    "off_start": 12,
+                    "off_end": 15,
+                    "sentence_index": 3,
+                    "next_word": 4,
+                    "ana": [
+                        {
+                            "lex": "her",
+                            "gr.pos": "PRP$"
+                        }
+                    ]
+                },
+                {
+                    "wf": "people",
+                    "wtype": "word",
+                    "off_start": 15,
+                    "off_end": 21,
+                    "sentence_index": 4,
+                    "next_word": 5,
+                    "ana": [
+                        {
+                            "lex": "people",
+                            "gr.pos": "NNS"
+                        }
+                    ]
+                },
+                {
+                    "wf": ".",
+                    "wtype": "punct",
+                    "off_start": 21,
+                    "off_end": 22,
+                    "sentence_index": 5,
+                    "next_word": 6
+                },
+                {
+                    "wf": "She",
+                    "wtype": "word",
+                    "off_start": 22,
+                    "off_end": 25,
+                    "sentence_index": 6,
+                    "next_word": 7,
+                    "ana": [
+                        {
+                            "lex": "She",
+                            "gr.pos": "PRP"
+                        }
+                    ]
+                },
+                {
+                    "wf": "was",
+                    "wtype": "word",
+                    "off_start": 25,
+                    "off_end": 28,
+                    "sentence_index": 7,
+                    "next_word": 8,
+                    "ana": [
+                        {
+                            "lex": "wa",
+                            "gr.pos": "VBD"
+                        }
+                    ]
+                },
+                {
+                    "wf": "ours",
+                    "wtype": "word",
+                    "off_start": 28,
+                    "off_end": 32,
+                    "sentence_index": 8,
+                    "next_word": 9,
+                    "ana": [
+                        {
+                            "lex": "ours",
+                            "gr.pos": "NNS"
+                        }
+                    ]
+                }
+            ],
+            "lang": 1,
+            "meta": {
+                "meter": "wsswwswswsw",
+                "stanza": "0"
+            }
+        },
+        {
+            "text ": "In Massachusetts, in Virginia,",
+            "words": [
+                {
+                    "wf": "In",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 2,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "ana": [
+                        {
+                            "lex": "In",
+                            "gr.pos": "IN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "Massachusetts",
+                    "wtype": "word",
+                    "off_start": 2,
+                    "off_end": 15,
+                    "sentence_index": 1,
+                    "next_word": 2,
+                    "ana": [
+                        {
+                            "lex": "Massachusetts",
+                            "gr.pos": "NNP"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 15,
+                    "off_end": 16,
+                    "sentence_index": 2,
+                    "next_word": 3
+                },
+                {
+                    "wf": "in",
+                    "wtype": "word",
+                    "off_start": 16,
+                    "off_end": 18,
+                    "sentence_index": 3,
+                    "next_word": 4,
+                    "ana": [
+                        {
+                            "lex": "in",
+                            "gr.pos": "IN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "Virginia",
+                    "wtype": "word",
+                    "off_start": 18,
+                    "off_end": 26,
+                    "sentence_index": 4,
+                    "next_word": 5,
+                    "ana": [
+                        {
+                            "lex": "Virginia",
+                            "gr.pos": "NNP"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 26,
+                    "off_end": 27,
+                    "sentence_index": 5,
+                    "next_word": 6
+                }
+            ],
+            "lang": 1,
+            "meta": {
+                "meter": "wswswswsw",
+                "stanza": "0"
+            }
+        },
+        {
+            "text ": "But we were England's, still colonials,",
+            "words": [
+                {
+                    "wf": "But",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 3,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "ana": [
+                        {
+                            "lex": "But",
+                            "gr.pos": "CC"
+                        }
+                    ]
+                },
+                {
+                    "wf": "we",
+                    "wtype": "word",
+                    "off_start": 3,
+                    "off_end": 5,
+                    "sentence_index": 1,
+                    "next_word": 2,
+                    "ana": [
+                        {
+                            "lex": "we",
+                            "gr.pos": "PRP"
+                        }
+                    ]
+                },
+                {
+                    "wf": "were",
+                    "wtype": "word",
+                    "off_start": 5,
+                    "off_end": 9,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "ana": [
+                        {
+                            "lex": "were",
+                            "gr.pos": "VBD"
+                        }
+                    ]
+                },
+                {
+                    "wf": "England",
+                    "wtype": "word",
+                    "off_start": 9,
+                    "off_end": 16,
+                    "sentence_index": 3,
+                    "next_word": 4,
+                    "ana": [
+                        {
+                            "lex": "England",
+                            "gr.pos": "NNP"
+                        }
+                    ]
+                },
+                {
+                    "wf": "'s",
+                    "wtype": "word",
+                    "off_start": 16,
+                    "off_end": 18,
+                    "sentence_index": 4,
+                    "next_word": 5,
+                    "ana": [
+                        {
+                            "lex": "'s",
+                            "gr.pos": "POS"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 18,
+                    "off_end": 19,
+                    "sentence_index": 5,
+                    "next_word": 6
+                },
+                {
+                    "wf": "still",
+                    "wtype": "word",
+                    "off_start": 19,
+                    "off_end": 24,
+                    "sentence_index": 6,
+                    "next_word": 7,
+                    "ana": [
+                        {
+                            "lex": "still",
+                            "gr.pos": "RB"
+                        }
+                    ]
+                },
+                {
+                    "wf": "colonials",
+                    "wtype": "word",
+                    "off_start": 24,
+                    "off_end": 33,
+                    "sentence_index": 7,
+                    "next_word": 8,
+                    "ana": [
+                        {
+                            "lex": "colonial",
+                            "gr.pos": "NNS"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 33,
+                    "off_end": 34,
+                    "sentence_index": 8,
+                    "next_word": 9
+                }
+            ],
+            "lang": 1,
+            "meta": {
+                "meter": "wswswswsw",
+                "stanza": "0"
+            }
+        },
+        {
+            "text ": "Possessing what we still were unpossessed by,",
+            "words": [
+                {
+                    "wf": "Possessing",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 10,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "ana": [
+                        {
+                            "lex": "Possessing",
+                            "gr.pos": "VBG"
+                        }
+                    ]
+                },
+                {
+                    "wf": "what",
+                    "wtype": "word",
+                    "off_start": 10,
+                    "off_end": 14,
+                    "sentence_index": 1,
+                    "next_word": 2,
+                    "ana": [
+                        {
+                            "lex": "what",
+                            "gr.pos": "WP"
+                        }
+                    ]
+                },
+                {
+                    "wf": "we",
+                    "wtype": "word",
+                    "off_start": 14,
+                    "off_end": 16,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "ana": [
+                        {
+                            "lex": "we",
+                            "gr.pos": "PRP"
+                        }
+                    ]
+                },
+                {
+                    "wf": "still",
+                    "wtype": "word",
+                    "off_start": 16,
+                    "off_end": 21,
+                    "sentence_index": 3,
+                    "next_word": 4,
+                    "ana": [
+                        {
+                            "lex": "still",
+                            "gr.pos": "RB"
+                        }
+                    ]
+                },
+                {
+                    "wf": "were",
+                    "wtype": "word",
+                    "off_start": 21,
+                    "off_end": 25,
+                    "sentence_index": 4,
+                    "next_word": 5,
+                    "ana": [
+                        {
+                            "lex": "were",
+                            "gr.pos": "VBD"
+                        }
+                    ]
+                },
+                {
+                    "wf": "unpossessed",
+                    "wtype": "word",
+                    "off_start": 25,
+                    "off_end": 36,
+                    "sentence_index": 5,
+                    "next_word": 6,
+                    "ana": [
+                        {
+                            "lex": "unpossessed",
+                            "gr.pos": "JJ"
+                        }
+                    ]
+                },
+                {
+                    "wf": "by",
+                    "wtype": "word",
+                    "off_start": 36,
+                    "off_end": 38,
+                    "sentence_index": 6,
+                    "next_word": 7,
+                    "ana": [
+                        {
+                            "lex": "by",
+                            "gr.pos": "IN"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 38,
+                    "off_end": 39,
+                    "sentence_index": 7,
+                    "next_word": 8
+                }
+            ],
+            "lang": 1,
+            "meta": {
+                "meter": "wswswswwwsw",
+                "stanza": "0"
+            }
+        },
+        {
+            "text ": "Possessed by what we now no more possessed.",
+            "words": [
+                {
+                    "wf": "Possessed",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 9,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "ana": [
+                        {
+                            "lex": "Possessed",
+                            "gr.pos": "VBN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "by",
+                    "wtype": "word",
+                    "off_start": 9,
+                    "off_end": 11,
+                    "sentence_index": 1,
+                    "next_word": 2,
+                    "ana": [
+                        {
+                            "lex": "by",
+                            "gr.pos": "IN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "what",
+                    "wtype": "word",
+                    "off_start": 11,
+                    "off_end": 15,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "ana": [
+                        {
+                            "lex": "what",
+                            "gr.pos": "WP"
+                        }
+                    ]
+                },
+                {
+                    "wf": "we",
+                    "wtype": "word",
+                    "off_start": 15,
+                    "off_end": 17,
+                    "sentence_index": 3,
+                    "next_word": 4,
+                    "ana": [
+                        {
+                            "lex": "we",
+                            "gr.pos": "PRP"
+                        }
+                    ]
+                },
+                {
+                    "wf": "now",
+                    "wtype": "word",
+                    "off_start": 17,
+                    "off_end": 20,
+                    "sentence_index": 4,
+                    "next_word": 5,
+                    "ana": [
+                        {
+                            "lex": "now",
+                            "gr.pos": "RB"
+                        }
+                    ]
+                },
+                {
+                    "wf": "no",
+                    "wtype": "word",
+                    "off_start": 20,
+                    "off_end": 22,
+                    "sentence_index": 5,
+                    "next_word": 6,
+                    "ana": [
+                        {
+                            "lex": "no",
+                            "gr.pos": "DT"
+                        }
+                    ]
+                },
+                {
+                    "wf": "more",
+                    "wtype": "word",
+                    "off_start": 22,
+                    "off_end": 26,
+                    "sentence_index": 6,
+                    "next_word": 7,
+                    "ana": [
+                        {
+                            "lex": "more",
+                            "gr.pos": "RBR"
+                        }
+                    ]
+                },
+                {
+                    "wf": "possessed",
+                    "wtype": "word",
+                    "off_start": 26,
+                    "off_end": 35,
+                    "sentence_index": 7,
+                    "next_word": 8,
+                    "ana": [
+                        {
+                            "lex": "possessed",
+                            "gr.pos": "VBN"
+                        }
+                    ]
+                },
+                {
+                    "wf": ".",
+                    "wtype": "punct",
+                    "off_start": 35,
+                    "off_end": 36,
+                    "sentence_index": 8,
+                    "next_word": 9
+                }
+            ],
+            "lang": 1,
+            "meta": {
+                "meter": "wswswswsws",
+                "stanza": "0"
+            }
+        },
+        {
+            "text ": "Something we were withholding made us weak",
+            "words": [
+                {
+                    "wf": "Something",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 9,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "ana": [
+                        {
+                            "lex": "Something",
+                            "gr.pos": "VBG"
+                        }
+                    ]
+                },
+                {
+                    "wf": "we",
+                    "wtype": "word",
+                    "off_start": 9,
+                    "off_end": 11,
+                    "sentence_index": 1,
+                    "next_word": 2,
+                    "ana": [
+                        {
+                            "lex": "we",
+                            "gr.pos": "PRP"
+                        }
+                    ]
+                },
+                {
+                    "wf": "were",
+                    "wtype": "word",
+                    "off_start": 11,
+                    "off_end": 15,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "ana": [
+                        {
+                            "lex": "were",
+                            "gr.pos": "VBD"
+                        }
+                    ]
+                },
+                {
+                    "wf": "withholding",
+                    "wtype": "word",
+                    "off_start": 15,
+                    "off_end": 26,
+                    "sentence_index": 3,
+                    "next_word": 4,
+                    "ana": [
+                        {
+                            "lex": "withholding",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "made",
+                    "wtype": "word",
+                    "off_start": 26,
+                    "off_end": 30,
+                    "sentence_index": 4,
+                    "next_word": 5,
+                    "ana": [
+                        {
+                            "lex": "made",
+                            "gr.pos": "VBN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "us",
+                    "wtype": "word",
+                    "off_start": 30,
+                    "off_end": 32,
+                    "sentence_index": 5,
+                    "next_word": 6,
+                    "ana": [
+                        {
+                            "lex": "u",
+                            "gr.pos": "PRP"
+                        }
+                    ]
+                },
+                {
+                    "wf": "weak",
+                    "wtype": "word",
+                    "off_start": 32,
+                    "off_end": 36,
+                    "sentence_index": 6,
+                    "next_word": 7,
+                    "ana": [
+                        {
+                            "lex": "weak",
+                            "gr.pos": "JJ"
+                        }
+                    ]
+                }
+            ],
+            "lang": 1,
+            "meta": {
+                "meter": "swswwswsws",
+                "stanza": "0"
+            }
+        },
+        {
+            "text ": "Until we found out that it was ourselves",
+            "words": [
+                {
+                    "wf": "Until",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 5,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "ana": [
+                        {
+                            "lex": "Until",
+                            "gr.pos": "IN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "we",
+                    "wtype": "word",
+                    "off_start": 5,
+                    "off_end": 7,
+                    "sentence_index": 1,
+                    "next_word": 2,
+                    "ana": [
+                        {
+                            "lex": "we",
+                            "gr.pos": "PRP"
+                        }
+                    ]
+                },
+                {
+                    "wf": "found",
+                    "wtype": "word",
+                    "off_start": 7,
+                    "off_end": 12,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "ana": [
+                        {
+                            "lex": "found",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "out",
+                    "wtype": "word",
+                    "off_start": 12,
+                    "off_end": 15,
+                    "sentence_index": 3,
+                    "next_word": 4,
+                    "ana": [
+                        {
+                            "lex": "out",
+                            "gr.pos": "IN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "that",
+                    "wtype": "word",
+                    "off_start": 15,
+                    "off_end": 19,
+                    "sentence_index": 4,
+                    "next_word": 5,
+                    "ana": [
+                        {
+                            "lex": "that",
+                            "gr.pos": "IN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "it",
+                    "wtype": "word",
+                    "off_start": 19,
+                    "off_end": 21,
+                    "sentence_index": 5,
+                    "next_word": 6,
+                    "ana": [
+                        {
+                            "lex": "it",
+                            "gr.pos": "PRP"
+                        }
+                    ]
+                },
+                {
+                    "wf": "was",
+                    "wtype": "word",
+                    "off_start": 21,
+                    "off_end": 24,
+                    "sentence_index": 6,
+                    "next_word": 7,
+                    "ana": [
+                        {
+                            "lex": "wa",
+                            "gr.pos": "VBD"
+                        }
+                    ]
+                },
+                {
+                    "wf": "ourselves",
+                    "wtype": "word",
+                    "off_start": 24,
+                    "off_end": 33,
+                    "sentence_index": 7,
+                    "next_word": 8,
+                    "ana": [
+                        {
+                            "lex": "ourselves",
+                            "gr.pos": "NNS"
+                        }
+                    ]
+                }
+            ],
+            "lang": 1,
+            "meta": {
+                "meter": "wswswswwsws",
+                "stanza": "0"
+            }
+        },
+        {
+            "text ": "We were withholding from our land of living,",
+            "words": [
+                {
+                    "wf": "We",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 2,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "ana": [
+                        {
+                            "lex": "We",
+                            "gr.pos": "PRP"
+                        }
+                    ]
+                },
+                {
+                    "wf": "were",
+                    "wtype": "word",
+                    "off_start": 2,
+                    "off_end": 6,
+                    "sentence_index": 1,
+                    "next_word": 2,
+                    "ana": [
+                        {
+                            "lex": "were",
+                            "gr.pos": "VBD"
+                        }
+                    ]
+                },
+                {
+                    "wf": "withholding",
+                    "wtype": "word",
+                    "off_start": 6,
+                    "off_end": 17,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "ana": [
+                        {
+                            "lex": "withholding",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "from",
+                    "wtype": "word",
+                    "off_start": 17,
+                    "off_end": 21,
+                    "sentence_index": 3,
+                    "next_word": 4,
+                    "ana": [
+                        {
+                            "lex": "from",
+                            "gr.pos": "IN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "our",
+                    "wtype": "word",
+                    "off_start": 21,
+                    "off_end": 24,
+                    "sentence_index": 4,
+                    "next_word": 5,
+                    "ana": [
+                        {
+                            "lex": "our",
+                            "gr.pos": "PRP$"
+                        }
+                    ]
+                },
+                {
+                    "wf": "land",
+                    "wtype": "word",
+                    "off_start": 24,
+                    "off_end": 28,
+                    "sentence_index": 5,
+                    "next_word": 6,
+                    "ana": [
+                        {
+                            "lex": "land",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "of",
+                    "wtype": "word",
+                    "off_start": 28,
+                    "off_end": 30,
+                    "sentence_index": 6,
+                    "next_word": 7,
+                    "ana": [
+                        {
+                            "lex": "of",
+                            "gr.pos": "IN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "living",
+                    "wtype": "word",
+                    "off_start": 30,
+                    "off_end": 36,
+                    "sentence_index": 7,
+                    "next_word": 8,
+                    "ana": [
+                        {
+                            "lex": "living",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 36,
+                    "off_end": 37,
+                    "sentence_index": 8,
+                    "next_word": 9
+                }
+            ],
+            "lang": 1,
+            "meta": {
+                "meter": "swwswswswsw",
+                "stanza": "0"
+            }
+        },
+        {
+            "text ": "And forthwith found salvation in surrender.",
+            "words": [
+                {
+                    "wf": "And",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 3,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "ana": [
+                        {
+                            "lex": "And",
+                            "gr.pos": "CC"
+                        }
+                    ]
+                },
+                {
+                    "wf": "forthwith",
+                    "wtype": "word",
+                    "off_start": 3,
+                    "off_end": 12,
+                    "sentence_index": 1,
+                    "next_word": 2,
+                    "ana": [
+                        {
+                            "lex": "forthwith",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "found",
+                    "wtype": "word",
+                    "off_start": 12,
+                    "off_end": 17,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "ana": [
+                        {
+                            "lex": "found",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "salvation",
+                    "wtype": "word",
+                    "off_start": 17,
+                    "off_end": 26,
+                    "sentence_index": 3,
+                    "next_word": 4,
+                    "ana": [
+                        {
+                            "lex": "salvation",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "in",
+                    "wtype": "word",
+                    "off_start": 26,
+                    "off_end": 28,
+                    "sentence_index": 4,
+                    "next_word": 5,
+                    "ana": [
+                        {
+                            "lex": "in",
+                            "gr.pos": "IN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "surrender",
+                    "wtype": "word",
+                    "off_start": 28,
+                    "off_end": 37,
+                    "sentence_index": 5,
+                    "next_word": 6,
+                    "ana": [
+                        {
+                            "lex": "surrender",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                },
+                {
+                    "wf": ".",
+                    "wtype": "punct",
+                    "off_start": 37,
+                    "off_end": 38,
+                    "sentence_index": 6,
+                    "next_word": 7
+                }
+            ],
+            "lang": 1,
+            "meta": {
+                "meter": "wswswswswsw",
+                "stanza": "0"
+            }
+        },
+        {
+            "text ": "Such as we were we gave ourselves outright",
+            "words": [
+                {
+                    "wf": "Such",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 4,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "ana": [
+                        {
+                            "lex": "Such",
+                            "gr.pos": "JJ"
+                        }
+                    ]
+                },
+                {
+                    "wf": "as",
+                    "wtype": "word",
+                    "off_start": 4,
+                    "off_end": 6,
+                    "sentence_index": 1,
+                    "next_word": 2,
+                    "ana": [
+                        {
+                            "lex": "a",
+                            "gr.pos": "IN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "we",
+                    "wtype": "word",
+                    "off_start": 6,
+                    "off_end": 8,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "ana": [
+                        {
+                            "lex": "we",
+                            "gr.pos": "PRP"
+                        }
+                    ]
+                },
+                {
+                    "wf": "were",
+                    "wtype": "word",
+                    "off_start": 8,
+                    "off_end": 12,
+                    "sentence_index": 3,
+                    "next_word": 4,
+                    "ana": [
+                        {
+                            "lex": "were",
+                            "gr.pos": "VBD"
+                        }
+                    ]
+                },
+                {
+                    "wf": "we",
+                    "wtype": "word",
+                    "off_start": 12,
+                    "off_end": 14,
+                    "sentence_index": 4,
+                    "next_word": 5,
+                    "ana": [
+                        {
+                            "lex": "we",
+                            "gr.pos": "PRP"
+                        }
+                    ]
+                },
+                {
+                    "wf": "gave",
+                    "wtype": "word",
+                    "off_start": 14,
+                    "off_end": 18,
+                    "sentence_index": 5,
+                    "next_word": 6,
+                    "ana": [
+                        {
+                            "lex": "gave",
+                            "gr.pos": "VBD"
+                        }
+                    ]
+                },
+                {
+                    "wf": "ourselves",
+                    "wtype": "word",
+                    "off_start": 18,
+                    "off_end": 27,
+                    "sentence_index": 6,
+                    "next_word": 7,
+                    "ana": [
+                        {
+                            "lex": "ourselves",
+                            "gr.pos": "NNS"
+                        }
+                    ]
+                },
+                {
+                    "wf": "outright",
+                    "wtype": "word",
+                    "off_start": 27,
+                    "off_end": 35,
+                    "sentence_index": 7,
+                    "next_word": 8,
+                    "ana": [
+                        {
+                            "lex": "outright",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                }
+            ],
+            "lang": 1,
+            "meta": {
+                "meter": "wwswwswsws",
+                "stanza": "0"
+            }
+        },
+        {
+            "text ": "(The deed of gift was many deeds of war)",
+            "words": [
+                {
+                    "wf": "(",
+                    "wtype": "punct",
+                    "off_start": 0,
+                    "off_end": 1,
+                    "sentence_index": 0,
+                    "next_word": 1
+                },
+                {
+                    "wf": "The",
+                    "wtype": "word",
+                    "off_start": 1,
+                    "off_end": 4,
+                    "sentence_index": 1,
+                    "next_word": 2,
+                    "ana": [
+                        {
+                            "lex": "The",
+                            "gr.pos": "DT"
+                        }
+                    ]
+                },
+                {
+                    "wf": "deed",
+                    "wtype": "word",
+                    "off_start": 4,
+                    "off_end": 8,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "ana": [
+                        {
+                            "lex": "deed",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "of",
+                    "wtype": "word",
+                    "off_start": 8,
+                    "off_end": 10,
+                    "sentence_index": 3,
+                    "next_word": 4,
+                    "ana": [
+                        {
+                            "lex": "of",
+                            "gr.pos": "IN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "gift",
+                    "wtype": "word",
+                    "off_start": 10,
+                    "off_end": 14,
+                    "sentence_index": 4,
+                    "next_word": 5,
+                    "ana": [
+                        {
+                            "lex": "gift",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "was",
+                    "wtype": "word",
+                    "off_start": 14,
+                    "off_end": 17,
+                    "sentence_index": 5,
+                    "next_word": 6,
+                    "ana": [
+                        {
+                            "lex": "wa",
+                            "gr.pos": "VBD"
+                        }
+                    ]
+                },
+                {
+                    "wf": "many",
+                    "wtype": "word",
+                    "off_start": 17,
+                    "off_end": 21,
+                    "sentence_index": 6,
+                    "next_word": 7,
+                    "ana": [
+                        {
+                            "lex": "many",
+                            "gr.pos": "JJ"
+                        }
+                    ]
+                },
+                {
+                    "wf": "deeds",
+                    "wtype": "word",
+                    "off_start": 21,
+                    "off_end": 26,
+                    "sentence_index": 7,
+                    "next_word": 8,
+                    "ana": [
+                        {
+                            "lex": "deed",
+                            "gr.pos": "NNS"
+                        }
+                    ]
+                },
+                {
+                    "wf": "of",
+                    "wtype": "word",
+                    "off_start": 26,
+                    "off_end": 28,
+                    "sentence_index": 8,
+                    "next_word": 9,
+                    "ana": [
+                        {
+                            "lex": "of",
+                            "gr.pos": "IN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "war",
+                    "wtype": "word",
+                    "off_start": 28,
+                    "off_end": 31,
+                    "sentence_index": 9,
+                    "next_word": 10,
+                    "ana": [
+                        {
+                            "lex": "war",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                },
+                {
+                    "wf": ")",
+                    "wtype": "punct",
+                    "off_start": 31,
+                    "off_end": 32,
+                    "sentence_index": 10,
+                    "next_word": 11
+                }
+            ],
+            "lang": 1,
+            "meta": {
+                "meter": "wswswswsws",
+                "stanza": "0"
+            }
+        },
+        {
+            "text ": "To the land vaguely realizing westward,",
+            "words": [
+                {
+                    "wf": "To",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 2,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "ana": [
+                        {
+                            "lex": "To",
+                            "gr.pos": "TO"
+                        }
+                    ]
+                },
+                {
+                    "wf": "the",
+                    "wtype": "word",
+                    "off_start": 2,
+                    "off_end": 5,
+                    "sentence_index": 1,
+                    "next_word": 2,
+                    "ana": [
+                        {
+                            "lex": "the",
+                            "gr.pos": "DT"
+                        }
+                    ]
+                },
+                {
+                    "wf": "land",
+                    "wtype": "word",
+                    "off_start": 5,
+                    "off_end": 9,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "ana": [
+                        {
+                            "lex": "land",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "vaguely",
+                    "wtype": "word",
+                    "off_start": 9,
+                    "off_end": 16,
+                    "sentence_index": 3,
+                    "next_word": 4,
+                    "ana": [
+                        {
+                            "lex": "vaguely",
+                            "gr.pos": "RB"
+                        }
+                    ]
+                },
+                {
+                    "wf": "realizing",
+                    "wtype": "word",
+                    "off_start": 16,
+                    "off_end": 25,
+                    "sentence_index": 4,
+                    "next_word": 5,
+                    "ana": [
+                        {
+                            "lex": "realizing",
+                            "gr.pos": "VBG"
+                        }
+                    ]
+                },
+                {
+                    "wf": "westward",
+                    "wtype": "word",
+                    "off_start": 25,
+                    "off_end": 33,
+                    "sentence_index": 5,
+                    "next_word": 6,
+                    "ana": [
+                        {
+                            "lex": "westward",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 33,
+                    "off_end": 34,
+                    "sentence_index": 6,
+                    "next_word": 7
+                }
+            ],
+            "lang": 1,
+            "meta": {
+                "meter": "wwsswswswsw",
+                "stanza": "0"
+            }
+        },
+        {
+            "text ": "But still unstoried, artless, unenhanced,",
+            "words": [
+                {
+                    "wf": "But",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 3,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "ana": [
+                        {
+                            "lex": "But",
+                            "gr.pos": "CC"
+                        }
+                    ]
+                },
+                {
+                    "wf": "still",
+                    "wtype": "word",
+                    "off_start": 3,
+                    "off_end": 8,
+                    "sentence_index": 1,
+                    "next_word": 2,
+                    "ana": [
+                        {
+                            "lex": "still",
+                            "gr.pos": "RB"
+                        }
+                    ]
+                },
+                {
+                    "wf": "unstoried",
+                    "wtype": "word",
+                    "off_start": 8,
+                    "off_end": 17,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "ana": [
+                        {
+                            "lex": "unstoried",
+                            "gr.pos": "JJ"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 17,
+                    "off_end": 18,
+                    "sentence_index": 3,
+                    "next_word": 4
+                },
+                {
+                    "wf": "artless",
+                    "wtype": "word",
+                    "off_start": 18,
+                    "off_end": 25,
+                    "sentence_index": 4,
+                    "next_word": 5,
+                    "ana": [
+                        {
+                            "lex": "artless",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 25,
+                    "off_end": 26,
+                    "sentence_index": 5,
+                    "next_word": 6
+                },
+                {
+                    "wf": "unenhanced",
+                    "wtype": "word",
+                    "off_start": 26,
+                    "off_end": 36,
+                    "sentence_index": 6,
+                    "next_word": 7,
+                    "ana": [
+                        {
+                            "lex": "unenhanced",
+                            "gr.pos": "JJ"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 36,
+                    "off_end": 37,
+                    "sentence_index": 7,
+                    "next_word": 8
+                }
+            ],
+            "lang": 1,
+            "meta": {
+                "meter": "wswsswwws",
+                "stanza": "0"
+            }
+        },
+        {
+            "text ": "Such as she was, such as she would become.",
+            "words": [
+                {
+                    "wf": "Such",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 4,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "ana": [
+                        {
+                            "lex": "Such",
+                            "gr.pos": "JJ"
+                        }
+                    ]
+                },
+                {
+                    "wf": "as",
+                    "wtype": "word",
+                    "off_start": 4,
+                    "off_end": 6,
+                    "sentence_index": 1,
+                    "next_word": 2,
+                    "ana": [
+                        {
+                            "lex": "a",
+                            "gr.pos": "IN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "she",
+                    "wtype": "word",
+                    "off_start": 6,
+                    "off_end": 9,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "ana": [
+                        {
+                            "lex": "she",
+                            "gr.pos": "PRP"
+                        }
+                    ]
+                },
+                {
+                    "wf": "was",
+                    "wtype": "word",
+                    "off_start": 9,
+                    "off_end": 12,
+                    "sentence_index": 3,
+                    "next_word": 4,
+                    "ana": [
+                        {
+                            "lex": "wa",
+                            "gr.pos": "VBD"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 12,
+                    "off_end": 13,
+                    "sentence_index": 4,
+                    "next_word": 5
+                },
+                {
+                    "wf": "such",
+                    "wtype": "word",
+                    "off_start": 13,
+                    "off_end": 17,
+                    "sentence_index": 5,
+                    "next_word": 6,
+                    "ana": [
+                        {
+                            "lex": "such",
+                            "gr.pos": "JJ"
+                        }
+                    ]
+                },
+                {
+                    "wf": "as",
+                    "wtype": "word",
+                    "off_start": 17,
+                    "off_end": 19,
+                    "sentence_index": 6,
+                    "next_word": 7,
+                    "ana": [
+                        {
+                            "lex": "a",
+                            "gr.pos": "IN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "she",
+                    "wtype": "word",
+                    "off_start": 19,
+                    "off_end": 22,
+                    "sentence_index": 7,
+                    "next_word": 8,
+                    "ana": [
+                        {
+                            "lex": "she",
+                            "gr.pos": "PRP"
+                        }
+                    ]
+                },
+                {
+                    "wf": "would",
+                    "wtype": "word",
+                    "off_start": 22,
+                    "off_end": 27,
+                    "sentence_index": 8,
+                    "next_word": 9,
+                    "ana": [
+                        {
+                            "lex": "would",
+                            "gr.pos": "MD"
+                        }
+                    ]
+                },
+                {
+                    "wf": "become",
+                    "wtype": "word",
+                    "off_start": 27,
+                    "off_end": 33,
+                    "sentence_index": 9,
+                    "next_word": 10,
+                    "ana": [
+                        {
+                            "lex": "become",
+                            "gr.pos": "NN"
+                        }
+                    ]
+                },
+                {
+                    "wf": ".",
+                    "wtype": "punct",
+                    "off_start": 33,
+                    "off_end": 34,
+                    "sentence_index": 10,
+                    "next_word": 11
+                }
+            ],
+            "lang": 1,
+            "meta": {
+                "meter": "wwswswwsws",
+                "stanza": "0"
+            }
+        }
+    ]
+}
